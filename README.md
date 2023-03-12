@@ -14,5 +14,6 @@ Uses GNU Stow – https://www.gnu.org/software/stow/
 cd ~
 git clone git@github.com:GrzywN/.dotfiles.git
 cd .dotfiles
+rm README.md
 stow * 
 ```
