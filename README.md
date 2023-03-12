@@ -13,6 +13,6 @@ Uses GNU Stow – https://www.gnu.org/software/stow/
 ```bash
 cd ~
 git clone git@github.com:GrzywN/.dotfiles.git
-cd dotfiles
+cd .dotfiles
 stow * 
 ```
