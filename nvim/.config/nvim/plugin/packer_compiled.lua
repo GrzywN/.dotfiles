@@ -79,11 +79,6 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
-  ["cmp-buffer"] = {
-    loaded = true,
-    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/cmp-buffer",
-    url = "https://github.com/hrsh7th/cmp-buffer"
-  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
@@ -109,11 +104,6 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/emmet-vim",
     url = "https://github.com/mattn/emmet-vim"
   },
-  ["friendly-snippets"] = {
-    loaded = true,
-    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/friendly-snippets",
-    url = "https://github.com/rafamadriz/friendly-snippets"
-  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -128,6 +118,21 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
+  },
+  ["mini.comment"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/mini.comment",
+    url = "https://github.com/echasnovski/mini.comment"
+  },
+  ["mini.pairs"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/mini.pairs",
+    url = "https://github.com/echasnovski/mini.pairs"
+  },
+  ["mini.trailspace"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/mini.trailspace",
+    url = "https://github.com/echasnovski/mini.trailspace"
   },
   ["nvim-cmp"] = {
     loaded = true,

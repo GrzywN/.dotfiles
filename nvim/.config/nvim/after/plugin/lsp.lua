@@ -2,23 +2,18 @@ local lsp = require('lsp-zero')
 
 lsp.preset('recommended')
 lsp.ensure_installed({
-  'angularls',
-  'astro',
   'cssls',
   'cssmodules_ls',
   'dockerls',
   'emmet_ls',
   'eslint',
   'html',
-  'intelephense',
   'jsonls',
   'pylsp',
-  'sumneko_lua',
+  'sqlls',
   'tailwindcss',
   'tsserver',
-  'vuels',
 })
-lsp.configure('sumneko_lua', { settings = { Lua = { diagnostics = { globals = { 'vim' } } } } })
 
 local cmp = require('cmp')
 local cmp_select = { behavior = cmp.SelectBehavior.Select }
