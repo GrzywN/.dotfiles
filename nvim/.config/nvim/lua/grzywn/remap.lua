@@ -32,3 +32,6 @@ nnoremap('<leader><CR>', '<cmd>so<CR>')
 
 -- Make executable
 nnoremap('<leader>x', '<cmd>!chmod +x %<CR>', { silent = true })
+
+-- Remove trailing spaces
+nnoremap('<leader>ts', '<cmd>lua MiniTrailspace.trim()<CR>')
