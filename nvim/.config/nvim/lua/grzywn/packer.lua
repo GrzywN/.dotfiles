@@ -39,6 +39,8 @@ return require('packer').startup(function(use)
     end
   }
 
+  use 'prichrd/netrw.nvim'
+
   use 'christoomey/vim-tmux-navigator'
   use 'Oldenborg/vim-px-to-rem'
   use 'mattn/emmet-vim'

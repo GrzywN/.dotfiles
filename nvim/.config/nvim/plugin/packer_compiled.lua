@@ -134,6 +134,11 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/mini.trailspace",
     url = "https://github.com/echasnovski/mini.trailspace"
   },
+  ["netrw.nvim"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/netrw.nvim",
+    url = "https://github.com/prichrd/netrw.nvim"
+  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/nvim-cmp",
