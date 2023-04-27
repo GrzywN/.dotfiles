@@ -175,15 +175,15 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/trouble.nvim",
     url = "https://github.com/folke/trouble.nvim"
   },
-  ["vim-fugitive"] = {
-    loaded = true,
-    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/vim-fugitive",
-    url = "https://github.com/tpope/vim-fugitive"
-  },
   ["vim-px-to-rem"] = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/vim-px-to-rem",
     url = "https://github.com/Oldenborg/vim-px-to-rem"
+  },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
   }
 }
 

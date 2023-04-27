@@ -39,9 +39,9 @@ return require('packer').startup(function(use)
     end
   }
 
+  use 'christoomey/vim-tmux-navigator'
   use 'Oldenborg/vim-px-to-rem'
   use 'mattn/emmet-vim'
-  use 'tpope/vim-fugitive'
   use { 'echasnovski/mini.comment', branch = 'stable' }
   use { 'echasnovski/mini.pairs', branch = 'stable' }
   use { 'echasnovski/mini.trailspace', branch = 'stable' }
