@@ -180,6 +180,11 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/trouble.nvim",
     url = "https://github.com/folke/trouble.nvim"
   },
+  ["vim-astro"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/vim-astro",
+    url = "https://github.com/wuelnerdotexe/vim-astro"
+  },
   ["vim-px-to-rem"] = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/vim-px-to-rem",

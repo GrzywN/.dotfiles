@@ -31,6 +31,8 @@ return require('packer').startup(function(use)
     }
   }
 
+  use 'wuelnerdotexe/vim-astro'
+
   use {
     "folke/trouble.nvim",
     requires = "nvim-tree/nvim-web-devicons",
