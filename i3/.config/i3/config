@@ -1,6 +1,5 @@
 set $mod Mod4
-font pango:monospace 8
-# font pango:DejaVu Sans Mono 8
+font pango:JetBrains Mono 8
 
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
@@ -127,8 +126,8 @@ set $base0F #be5046
 bar {
     # status_command i3status
     status_command bumblebee-status \
-    -t  onedark-powerline \
-    -m  time  
+     -m pomodoro date time \
+     -t onedark-powerline
 
     colors {
         background $base00
