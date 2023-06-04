@@ -47,6 +47,5 @@ return require('packer').startup(function(use)
   use 'Oldenborg/vim-px-to-rem'
   use 'mattn/emmet-vim'
   use { 'echasnovski/mini.comment', branch = 'stable' }
-  use { 'echasnovski/mini.pairs', branch = 'stable' }
   use { 'echasnovski/mini.trailspace', branch = 'stable' }
 end)
