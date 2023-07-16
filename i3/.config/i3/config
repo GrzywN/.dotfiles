@@ -176,5 +176,5 @@ assign [class="Gimp"] $ws5
 
 # AutoExec
 exec_always setxkbmap pl
-exec_always --no-startup-id feh --bg-fill $HOME/wallpaper.png
+exec_always --no-startup-id feh --bg-fill $HOME/wallpaper*.*
 exec_always --no-startup-id picom
