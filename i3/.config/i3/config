@@ -153,7 +153,7 @@ client.placeholder      $base00 $base00 $base05 $base00 $base00
 client.background       $base07
 
 # Gaps
-gaps inner 0 
+gaps inner 0
 gaps outer 0
 
 # Hide borders
@@ -168,6 +168,8 @@ workspace $ws10 output DVI-D-0
 # Workspace assignments
 assign [class="firefox"] $ws1
 assign [class="alacritty"] $ws2
+assign [class="Insomnia"] $ws2
+assign [class="Postman"] $ws2
 assign [class="GitKraken"] $ws3
 assign [class="Nautilus"] $ws4
 assign [class="Gimp"] $ws5
