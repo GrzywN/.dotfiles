@@ -42,6 +42,7 @@ return require('packer').startup(function(use)
   }
 
   use 'prichrd/netrw.nvim'
+  use 'nvim-tree/nvim-tree.lua'
 
   use 'christoomey/vim-tmux-navigator'
   use 'Oldenborg/vim-px-to-rem'
