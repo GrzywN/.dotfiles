@@ -168,11 +168,12 @@ workspace $ws10 output DVI-D-0
 # Workspace assignments
 assign [class="firefox"] $ws1
 assign [class="alacritty"] $ws2
+assign [class="code"] $ws2
 assign [class="Insomnia"] $ws2
 assign [class="Postman"] $ws2
 assign [class="GitKraken"] $ws3
-assign [class="Nautilus"] $ws4
-assign [class="Gimp"] $ws5
+assign [class="vlc"] $ws4
+assign [class="gimp"] $ws5
 
 # AutoExec
 exec_always setxkbmap pl
