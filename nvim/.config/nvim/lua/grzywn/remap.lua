@@ -22,7 +22,7 @@ nnoremap('N', 'Nzzzv')
 xnoremap('<leader>p', [["_dP]])
 
 -- Format file based on LSP
-nnoremap('<leader>fo', vim.lsp.buf.format)
+nnoremap('<leader>fm', '<cmd>Format<CR>')
 
 -- Replace a word which you're on
 nnoremap('<leader>s', [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]])

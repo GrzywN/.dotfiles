@@ -49,8 +49,8 @@ local function save_profiles(threshold)
 end
 
 time([[Luarocks path setup]], true)
-local package_path_str = "/home/grzywn/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/?.lua;/home/grzywn/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/?/init.lua;/home/grzywn/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/?.lua;/home/grzywn/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/?/init.lua"
-local install_cpath_pattern = "/home/grzywn/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/lua/5.1/?.so"
+local package_path_str = "/home/grzywn/.cache/nvim/packer_hererocks/2.1.1692616192/share/lua/5.1/?.lua;/home/grzywn/.cache/nvim/packer_hererocks/2.1.1692616192/share/lua/5.1/?/init.lua;/home/grzywn/.cache/nvim/packer_hererocks/2.1.1692616192/lib/luarocks/rocks-5.1/?.lua;/home/grzywn/.cache/nvim/packer_hererocks/2.1.1692616192/lib/luarocks/rocks-5.1/?/init.lua"
+local install_cpath_pattern = "/home/grzywn/.cache/nvim/packer_hererocks/2.1.1692616192/lib/lua/5.1/?.so"
 if not string.find(package.path, package_path_str, 1, true) then
   package.path = package.path .. ';' .. package_path_str
 end
@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["awesome-flutter-snippets"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/awesome-flutter-snippets",
+    url = "https://github.com/Neevash/awesome-flutter-snippets"
+  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
@@ -99,10 +104,25 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
   },
-  ["emmet-vim"] = {
+  ["dart-vim-plugin"] = {
     loaded = true,
-    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/emmet-vim",
-    url = "https://github.com/mattn/emmet-vim"
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/dart-vim-plugin",
+    url = "https://github.com/dart-lang/dart-vim-plugin"
+  },
+  ["flutter-riverpod-snippets"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/flutter-riverpod-snippets",
+    url = "https://github.com/RobertBrunhage/flutter-riverpod-snippets"
+  },
+  ["formatter.nvim"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/formatter.nvim",
+    url = "https://github.com/mhartington/formatter.nvim"
+  },
+  ["friendly-snippets"] = {
+    loaded = true,
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/friendly-snippets",
+    url = "https://github.com/rafamadriz/friendly-snippets"
   },
   ["lsp-zero.nvim"] = {
     loaded = true,
@@ -144,11 +164,6 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
     url = "https://github.com/neovim/nvim-lspconfig"
   },
-  ["nvim-tree.lua"] = {
-    loaded = true,
-    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
-    url = "https://github.com/nvim-tree/nvim-tree.lua"
-  },
   ["nvim-web-devicons"] = {
     loaded = true,
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
@@ -180,10 +195,10 @@ _G.packer_plugins = {
     path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/trouble.nvim",
     url = "https://github.com/folke/trouble.nvim"
   },
-  ["vim-astro"] = {
+  ["vim-flutter"] = {
     loaded = true,
-    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/vim-astro",
-    url = "https://github.com/wuelnerdotexe/vim-astro"
+    path = "/home/grzywn/.local/share/nvim/site/pack/packer/start/vim-flutter",
+    url = "https://github.com/thosakwe/vim-flutter"
   },
   ["vim-px-to-rem"] = {
     loaded = true,

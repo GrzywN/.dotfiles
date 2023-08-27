@@ -28,25 +28,29 @@ return require('packer').startup(function(use)
 
       -- Snippets
       { 'L3MON4D3/LuaSnip' }, -- Required
+      { 'rafamadriz/friendly-snippets' },
     }
   }
+  use { 'mhartington/formatter.nvim' }
 
-  use 'wuelnerdotexe/vim-astro'
+  use 'dart-lang/dart-vim-plugin'
+  use 'thosakwe/vim-flutter'
+  use 'RobertBrunhage/flutter-riverpod-snippets'
+  use 'Neevash/awesome-flutter-snippets'
 
   use {
-    "folke/trouble.nvim",
-    requires = "nvim-tree/nvim-web-devicons",
+    'folke/trouble.nvim',
+    requires = 'nvim-tree/nvim-web-devicons',
     config = function()
-      require("trouble").setup {}
+      require('trouble').setup {}
     end
   }
 
   use 'prichrd/netrw.nvim'
-  use 'nvim-tree/nvim-tree.lua'
+  use 'ThePrimeagen/harpoon'
 
   use 'christoomey/vim-tmux-navigator'
   use 'Oldenborg/vim-px-to-rem'
-  use 'mattn/emmet-vim'
   use { 'echasnovski/mini.comment', branch = 'stable' }
   use { 'echasnovski/mini.trailspace', branch = 'stable' }
 end)
