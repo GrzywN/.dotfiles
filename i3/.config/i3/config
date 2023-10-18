@@ -126,7 +126,7 @@ set $base0F #be5046
 bar {
     # status_command i3status
     status_command bumblebee-status \
-     -m pomodoro date time \
+     -m memory pomodoro date time \
      -t onedark-powerline
 
     colors {
