@@ -15,6 +15,8 @@ set -gx PATH node_modules/.bin $PATH
 
 # Flutter / Android SDK
 set -gx PATH /opt/flutter/bin $PATH
+set -x PATH $PATH $HOME/.pub-cache/bin
+set -gx PATH /home/grzywn/Android/Sdk/platform-tools $PATH
 set -x JAVA_HOME /usr/lib/jvm/default
 set -x PATH $PATH $JAVA_HOME/bin
 set -x CHROME_EXECUTABLE firefox
