@@ -1,0 +1,88 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="13.0" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;Drag.Drop.Confirmation&quot;: &quot;false&quot;,
+    &quot;ExpandBeforeRunStepsPanel&quot;: &quot;true&quot;,
+    &quot;FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY&quot;: &quot;1698391806095&quot;,
+    &quot;FLUTTER_LAST_SURVEY_PROMPT_KEY&quot;: &quot;1697616385214&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;github co\nflutter format\nflutter comma\nflutter trailing\nflutter&quot;,
+    &quot;RunOnceActivity.cidr.test.framework.showIndexingAsTask&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;SvgEditorLayout&quot;: &quot;Editor only&quot;,
+    &quot;TextEditorWithPreview.SplitterProportionKey&quot;: &quot;0.58309036&quot;,
+    &quot;android.sdk.path&quot;: &quot;/home/grzywn/Android/Sdk&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;AI-223.8836.35.2231.10671973-d5243eb6a68e532183aa76c7e9eb33d7ef68acf443a77bd39546aea474ed8409&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;AI-223.8836.35.2231.10671973&quot;,
+    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;38&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;3&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;16.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;16.0&quot;,
+    &quot;got.it.tooltip.copilot.inlayGotIt&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;AI-223.8836.35.2231.10671973&quot;,
+    &quot;idea.background.editor&quot;: &quot;/home/grzywn/wallpapers/purple-sword.jpg,5,scale,center&quot;,
+    &quot;ideavim.statistics.timestamp&quot;: &quot;1698401148808&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;223-1.9.0-release-358-AS8836.35.2231.10671973&quot;,
+    &quot;io.flutter.analytics.clientId&quot;: &quot;ed607b4e-806b-410b-a3f0-11ff88644a79&quot;,
+    &quot;io.flutter.analytics.optOut&quot;: &quot;true&quot;,
+    &quot;io.flutter.analytics.toastShown&quot;: &quot;true&quot;,
+    &quot;io.flutter.console.preferencesSet&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/grzywn/wallpapers/purple-sword.jpg&quot;,
+    &quot;mt.autoReset&quot;: &quot;true&quot;,
+    &quot;mt.showStatisticsAgreement&quot;: &quot;true&quot;,
+    &quot;org.intellij.images.editor.actions.BackgroundImageDialog#recent&quot;: &quot;/home/grzywn/wallpapers/about-to-die.jpg\n/home/grzywn/wallpapers/bang-bang-white.png\n/home/grzywn/wallpapers/purple-sword.jpg&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Catppuccin Mocha&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;AI-223.8836.35.2231.10671973&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;FLUTTER_SDK_KNOWN_PATHS&quot;: [
+      &quot;/opt/flutter&quot;
+    ],
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/grzywn/p/ltapp&quot;,
+      &quot;/home/grzywn/p/partyapp/Pełna data na podglądzie wydarzenia.png&quot;,
+      &quot;/home/grzywn/p/partyapp&quot;,
+      &quot;/home/grzywn/p/partyapp/Pole jest wymagane - obszar, lokalizacja i okres promowania.png&quot;,
+      &quot;/home/grzywn/p/partyapp/Pole jest wymagane - wydarzenie.png&quot;,
+      &quot;/home/grzywn/p/partyapp/Event details PENDING.png&quot;,
+      &quot;/home/grzywn/p/partyapp/Event details REJECTED.png&quot;,
+      &quot;/home/grzywn/p/partyapp/Event details ACCEPTED.png&quot;,
+      &quot;/home/grzywn/r/gymrat&quot;,
+      &quot;/home/grzywn/r/eli5&quot;,
+      &quot;/home/grzywn/wallpapers/purple-sword.jpg&quot;,
+      &quot;/home/grzywn/wallpapers/bang-bang-white.png&quot;,
+      &quot;/home/grzywn/wallpapers/about-to-die.jpg&quot;,
+      &quot;/home/grzywn/wallpaper3.jpg&quot;,
+      &quot;/home/grzywn/zwallpaper1.png&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.jetbrains.cidr.lang.OCHeaderFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;Kotlin&quot;: 1695914511633
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="ltapp-history2" project-path="$USER_HOME$/p/ltapp" last-access-time="1698578947294" />
+      <command-history-file filename="partyapp-history1" project-path="$USER_HOME$/p/partyapp" last-access-time="1698179786286" />
+      <command-history-file filename="gymrat-history1" project-path="$USER_HOME$/r/gymrat" last-access-time="1697227529579" />
+      <command-history-file filename="eli5-history" project-path="$USER_HOME$/r/eli5" last-access-time="1696230116484" />
+    </command-history-files>
+  </component>
+</application>

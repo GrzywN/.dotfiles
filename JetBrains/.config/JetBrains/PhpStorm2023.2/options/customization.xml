@@ -1,0 +1,286 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="AddPhingBuildFile" is_action="true" action_type="-1" position="50">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XPathView.EditorPopup" is_group="true" forse_popup="false" action_type="-1" position="49">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Github.Create.Gist" is_action="true" action_type="-1" position="44">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Stage.Index.File.Menu" is_group="true" forse_popup="false" action_type="-1" position="43">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.php.internal.PhpCreateYoutrackIssueFromSelectionAction" is_action="true" action_type="-1" position="42">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.php.internal.PhpCreateYoutrackIssueFromFileAction" is_action="true" action_type="-1" position="41">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.php.internal.PhpShowFQNInternalAction" is_action="true" action_type="-1" position="40">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddSourcesContentToSourceMap" is_action="true" action_type="-1" position="39">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VisualizeSourceMap" is_action="true" action_type="-1" position="38">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowJsbtTasks" is_group="true" forse_popup="false" action_type="-1" position="29">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SwGenerateYamlSelfContainedSpecificationAction" is_action="true" action_type="-1" position="28">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SwGenerateJsonSelfContainedSpecificationAction" is_action="true" action_type="-1" position="27">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JsonPathEvaluateAction" is_action="true" action_type="-1" position="26">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PublishGroupPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="25">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.EditorGroup" is_group="true" forse_popup="false" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ComputeDiffWithPreviousRevisionAction" is_action="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompareClipboardWithSelection" is_action="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.php.wordpress.WPSearchDocsAction" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.php.drupal.DrupalSearchDocsAction" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorPopupMenu3" is_group="true" forse_popup="false" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorPopupMenu2" is_group="true" forse_popup="false" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Markdown.EditorContextMenuGroup" is_group="true" forse_popup="false" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Diff.EditorTabs.Group" is_group="true" forse_popup="false" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Editor Tab Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JsonCopyPointer" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Copy.Paste.Special" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterPopupMenu.Appearance" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.intellij.space.vcs.SpaceVcsRevealInActionGroup" is_group="true" forse_popup="false" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <path value="Run Configurations" />
+      <path value="Open In" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Perforce.Toolbar.PerforceToolbarWidgetAction" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyAsRichText" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Hosting.Open.In.Browser.Group" is_group="true" forse_popup="false" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <path value="Run Configurations" />
+      <path value="Open In" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainToolbarGeneralActionsGroup" is_group="true" forse_popup="false" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeWithMeToolbarGroupNewUi" is_group="true" forse_popup="false" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ConfigureSoftWraps" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainToolbarVCSGroup" is_group="true" forse_popup="false" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewUiRunWidget" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorToggleUseSoftWraps" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainToolbarCenter" is_group="true" forse_popup="false" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="tasks.switch" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PhpListenDebugAction" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="LightEditModePopup" is_group="true" forse_popup="false" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="popup@BookmarkContextMenu" is_group="true" forse_popup="false" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowIntentionsGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterVcsPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyAsPlainText" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorPasteSimple" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorToggleUseSoftWraps" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowIntentionActions" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="RenameElement" icon="jar:file:/home/grzywn/.local/share/JetBrains/Toolbox/apps/PhpStorm/ch-0/232.9559.64/lib/app-client.jar!/expui/toolbar/unknown.svg" />
+  </component>
+</application>

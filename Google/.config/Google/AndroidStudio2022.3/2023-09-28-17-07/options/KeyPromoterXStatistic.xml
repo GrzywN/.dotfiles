@@ -1,0 +1,191 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Flutter Hot Reload">
+        <Item>
+          <IdeaActionID>Flutter.Toolbar.ReloadAction</IdeaActionID>
+          <ShortCut>'Ctrl+\'</ShortCut>
+          <Description>Flutter Hot Reload</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Overview">
+        <Item>
+          <IdeaActionID>android.device.overview.button</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+W'</ShortCut>
+          <Description>Overview</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Power">
+        <Item>
+          <IdeaActionID>android.device.power.button</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+P'</ShortCut>
+          <Description>Power</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Problems">
+        <Item>
+          <IdeaActionID>ActivateProblemsViewToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>Problems</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Context Actions">
+        <Item>
+          <IdeaActionID>ShowIntentionActions</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Show Context Actions</Description>
+          <Count>2</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'main.dart (Nexus 7 2012 API 34)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'main.dart (Nexus 7 2012 API 34)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'main.dart (Pixel 5 API 34)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'main.dart (Pixel 5 API 34)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'main.dart (Pixel 7 API 33)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'main.dart (Pixel 7 API 33)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'main.dart (Redmi Note 7)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'main.dart (Redmi Note 7)'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'main.dart'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'main.dart'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Take Screenshot">
+        <Item>
+          <IdeaActionID>android.device.screenshot</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+S'</ShortCut>
+          <Description>Take Screenshot</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>Adtui.ZoomInAction</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom Out">
+        <Item>
+          <IdeaActionID>Adtui.ZoomOutAction</IdeaActionID>
+          <ShortCut>'Ctrl+Minus' or 'Ctrl+NumPad -'</ShortCut>
+          <Description>Zoom Out</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

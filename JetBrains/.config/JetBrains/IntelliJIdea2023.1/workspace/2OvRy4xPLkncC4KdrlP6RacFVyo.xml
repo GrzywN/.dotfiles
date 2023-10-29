@@ -1,0 +1,257 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="karbin" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/apps/site/pages/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="HTML">
+      <summary usageCount="1" lastUsed="1682439697392" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1682439971678" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1682439357615" />
+    </fileType>
+    <fileType name="TypeScript JSX">
+      <summary usageCount="14" lastUsed="1685436144965" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/apps/site/pages/index.tsx" />
+      <option value="$PROJECT_DIR$/apps/site/pages/work/index.tsx" />
+      <option value="$PROJECT_DIR$/apps/resume-site/src/index.html" />
+      <option value="$PROJECT_DIR$/apps/resume-site/src/app/app.tsx" />
+      <option value="$PROJECT_DIR$/apps/resume-site/pages/index.tsx" />
+      <option value="$PROJECT_DIR$/apps/site/pages/resume/index.tsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1682439697392" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1682439971678" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1682439357618" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="14" lastUsage="1685436144967" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/apps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/apps/site}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/apps/site}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/apps/site/pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui/src/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="karbin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/karbin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui/src/lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/karbin/libs/shared/ui/src/lib/atoms}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="storybook" userDefinedTabTitle="true" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1863000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21328124" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.16484375" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32999045" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.32999045" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Nx Console" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Web Inspector" order="5" weight="0.25" />
+      <unified_weights bottom="0.32999045" left="0.21328124" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Nx Console</value>
+      <value>Structure</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1304" y="294" key="run.anything.popup" timestamp="1682440941160">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1304" y="294" key="run.anything.popup/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1682440941160" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/resume-site/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/apps/resume-site/src/app/nx-welcome.tsx" />
+    <entry file="file://$PROJECT_DIR$/apps/resume-site/src/app/app.spec.tsx" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/resume-site/src/main.tsx" />
+    <entry file="file://$PROJECT_DIR$/apps/site/pages/work/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-509">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/shared/ui/src/lib/atoms/heading/heading.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/resume-site/src/app/app.tsx" />
+    <entry file="file://$PROJECT_DIR$/apps/site/components/my-work-section/my-work-section.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/resume-site/pages/index.tsx" />
+    <entry file="file://$PROJECT_DIR$/apps/site/pages/resume/index.tsx" />
+    <entry file="file://$PROJECT_DIR$/apps/site/pages/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

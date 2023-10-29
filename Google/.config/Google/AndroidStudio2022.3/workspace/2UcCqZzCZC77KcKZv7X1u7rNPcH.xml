@@ -1,0 +1,1086 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="partyapp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/services/geolocation.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Dart">
+      <summary usageCount="538" lastUsed="1698234754623" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="7" lastUsed="1698230950220" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="51" lastUsed="1698069099790" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="2" lastUsed="1695987509773" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="3" lastUsed="1695985560541" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="7" lastUsed="1698069903845" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="16" lastUsed="1698072099566" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rolkę</find>
+      <find>'Usuń zaproszenie'</find>
+      <find>Proponowane wydarzenia</find>
+      <find>Powiązano z wydarzeniem</find>
+      <find>Opis wydarzenia</find>
+      <find>Pokój</find>
+      <find>Chat grupowy:</find>
+      <find>Impreza</find>
+      <find>Imprez</find>
+      <find>Impre</find>
+      <find>Zapro</find>
+      <find>NullState</find>
+      <find>NullStateWidget</find>
+      <find>Wybierz za</find>
+      <find>Wrzuć me</find>
+      <find>Promuj</find>
+      <find>Promuj swoje wy</find>
+      <find>Dalej</find>
+      <find>Field</find>
+      <find>Zapła</find>
+      <find>event_details.dart</find>
+      <find>LinearPro</find>
+      <find>Skeleton</find>
+      <find>LinearProgress</find>
+      <find>LinearProgressIndicator()</find>
+      <find>Dot</find>
+      <find>Wieża</find>
+      <find>PromoteEventSelectArea</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lib/src/screens</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/event</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/event_new/features_category/presentation</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/event_new/features_search</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_events/guest_managment</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_events_user/my_events</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_events_user/saved_events</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/category_drawer</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_events_user/intrested_events</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_share_event/presentation</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/ticket</dir>
+      <dir>$PROJECT_DIR$/lib/src/services</dir>
+      <dir>$PROJECT_DIR$/lib/src/widgets/user_profile</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/reels</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_user_profile/presentation</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_user_panel</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/event/features_google_map</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/auth</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_events/event_form/presentation</dir>
+      <dir>$PROJECT_DIR$/lib/src/screens/feature_events_user</dir>
+      <dir>$PROJECT_DIR$/lib/src/routes</dir>
+      <dir>$PROJECT_DIR$/lib/src/widgets</dir>
+      <dir>$PROJECT_DIR$/lib/src/widgets/promote_event</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/event_description.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/event_map.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/event_owner.dart" />
+      <option value="$PROJECT_DIR$/lib/src/services/event.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_feed_new/presentation/widgets/card_widgets/preview_card_feed_wdget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/category_badge_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/handlers/deeplink_handler/deeplink_controllers/events_deeplink_controller.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/participants_to_accept_button.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/follow_button.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/event_details.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/follow_button_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/common/widgets/use_video_player_controller.dart" />
+      <option value="$PROJECT_DIR$/lib/src/common/hooks/use_video_player_controller.dart" />
+      <option value="$PROJECT_DIR$/lib/src/common/widgets/media_place_holder.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/pending_invite_indicator_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/attachment_button_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/formatted_text.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/event_details_modal.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/event_new/features_search/presentation/search_modal_screen.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/invite_status_indicator_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/button_layout_builder_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/null_state.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/activity_tab_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/event_details_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/cubit/user_events_preference_cubit.dart" />
+      <option value="$PROJECT_DIR$/lib/src/common/widgets/bulk_image_uploader_widget/bulk_image_uploader_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_form/presentation/event_form.dart" />
+      <option value="$PROJECT_DIR$/lib/src/routes/routing.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events_user/my_events/my_events.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/event/interesting_list.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/icon_button.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/features_global_search/presentation/widgets/list_events_widget.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_payment_dialog.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/button.dart" />
+      <option value="$PROJECT_DIR$/lib/src/states/promote_event/promote_event_state.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/event/promote_event.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_summary.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/form/selected_location_card.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/form/notification_location_dialog.dart" />
+      <option value="$PROJECT_DIR$/lib/src/utils/toast.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_select_event_step.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_select_area.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_layout.dart" />
+      <option value="$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_event_details.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/card_under_image_widget.dart" />
+      <option value="$PROJECT_DIR$/pubspec.yaml" />
+      <option value="$PROJECT_DIR$/lib/src/app.dart" />
+      <option value="$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/location_map_preview.dart" />
+      <option value="$PROJECT_DIR$/lib/src/services/geolocation.dart" />
+      <option value="$PROJECT_DIR$/android/app/build.gradle" />
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dart">
+      <summary usageCount="538" lastUsage="1698234754623" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="7" lastUsage="1698230950220" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1695987509773" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="3" lastUsage="1695985560541" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="16" lastUsage="1698072099566" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="7" lastUsage="1698069903845" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+              <item name="bulk_image_uploader_widget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplink_handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplink_handler" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplink_controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard_reels_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_events" type="462c0819:PsiDirectoryNode" />
+              <item name="event_details" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_events" type="462c0819:PsiDirectoryNode" />
+              <item name="event_details" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_events" type="462c0819:PsiDirectoryNode" />
+              <item name="event_form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_events_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_events_user" type="462c0819:PsiDirectoryNode" />
+              <item name="my_events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_feed_new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_settings" type="462c0819:PsiDirectoryNode" />
+              <item name="settings_email_notifications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="states" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="states" type="462c0819:PsiDirectoryNode" />
+              <item name="promote_event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="tabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+              <item name="promote_event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Flutter Plugins" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Flutter Plugins" type="70bed36:NamedLibraryElementNode" />
+              <item name="video_player-2.7.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Flutter Plugins" type="70bed36:NamedLibraryElementNode" />
+              <item name="video_player-2.7.2" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Flutter.main.dart" executorId="Run" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="Logcat">
+            <content>
+              <panel>{'formattingConfig':{'preset':'STANDARD'},'filter':'','isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$USER_HOME$/.android/avd" commandHistoryFileName="partyapp-history1" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" />
+      <window_info id="Structure" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09296875" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Analysis" weight="0.44187146" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" weight="0.33002836" />
+      <window_info anchor="bottom" id="clangd" show_stripe_button="false" />
+      <window_info anchor="bottom" id="App Inspection" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.90505725" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.028800756" />
+      <window_info anchor="bottom" id="App Quality Insights" order="2" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.121340886" />
+      <window_info anchor="bottom" id="Logcat" order="4" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.44187146" />
+      <window_info anchor="bottom" x="-134" y="577" width="1758" height="507" id="Run" order="7" show_stripe_button="false" weight="0.106332704" />
+      <window_info anchor="right" id="Flutter Outline" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" />
+      <window_info anchor="right" id="Flutter Performance" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" show_stripe_button="false" />
+      <window_info anchor="right" id="Device Explorer" show_stripe_button="false" />
+      <window_info anchor="right" id="App Links Assistant" show_stripe_button="false" />
+      <window_info anchor="right" id="Flutter Inspector" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.2502604" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Device Manager" order="2" visible="true" weight="0.2888021" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.2888021" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32967556" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Logcat" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="App Quality Insights" order="10" />
+      <window_info anchor="bottom" id="App Inspection" order="11" />
+      <window_info anchor="right" id="Device Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Assistant" order="1" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="App Links Assistant" order="2" />
+      <window_info anchor="right" id="Device Manager" order="3" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="5" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Device Manager</value>
+      <value>Project</value>
+      <value>Running Devices</value>
+      <value>Run</value>
+      <value>Dart Analysis</value>
+      <value>Messages</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Notifications</value>
+      <value>Version Control</value>
+      <value>App Quality Insights</value>
+      <value>Logcat</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1015" y="330" width="1420" height="659" key="#Console" timestamp="1698071565653">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1015" y="330" width="1420" height="659" key="#Console/0.0.2688.1223@0.0.2688.1223" timestamp="1698071565653" />
+    <state x="1400" y="298" width="653" height="716" key="#Notifications" timestamp="1695972665376">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1400" y="298" width="653" height="716" key="#Notifications/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695972665376" />
+    <state x="555" y="198" width="804" height="804" key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog" timestamp="1696588615461">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="198" width="804" height="804" key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1696588615461" />
+    <state x="1461" y="405" width="532" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1696233955818">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1461" y="405" width="532" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696233955818" />
+    <state x="1099" y="315" width="428" height="512" key="FileChooserDialogImpl" timestamp="1698069099219">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="785" y="278" width="428" height="512" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1697790965564" />
+    <state x="1099" y="315" width="428" height="512" key="FileChooserDialogImpl/0.0.2688.1223@0.0.2688.1223" timestamp="1698069099219" />
+    <state x="1553" y="421" width="432" height="484" key="FileChooserDialogImpl/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696507182673" />
+    <state width="1838" height="70" key="GridCell.Tab.0.bottom" timestamp="1698231672203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="70" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1698231672203" />
+    <state width="1838" height="420" key="GridCell.Tab.0.bottom/0.0.2688.1223@0.0.2688.1223" timestamp="1698182088784" />
+    <state width="1838" height="3" key="GridCell.Tab.0.bottom/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696511448426" />
+    <state width="1838" height="70" key="GridCell.Tab.0.center" timestamp="1698231672203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="70" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1698231672203" />
+    <state width="1838" height="420" key="GridCell.Tab.0.center/0.0.2688.1223@0.0.2688.1223" timestamp="1698182088784" />
+    <state width="1838" height="3" key="GridCell.Tab.0.center/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696511448426" />
+    <state width="1838" height="70" key="GridCell.Tab.0.left" timestamp="1698231672203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="70" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1698231672203" />
+    <state width="1838" height="420" key="GridCell.Tab.0.left/0.0.2688.1223@0.0.2688.1223" timestamp="1698182088784" />
+    <state width="1838" height="3" key="GridCell.Tab.0.left/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696511448426" />
+    <state width="1838" height="70" key="GridCell.Tab.0.right" timestamp="1698231672203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="70" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1698231672203" />
+    <state width="1838" height="420" key="GridCell.Tab.0.right/0.0.2688.1223@0.0.2688.1223" timestamp="1698182088784" />
+    <state width="1838" height="3" key="GridCell.Tab.0.right/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696511448426" />
+    <state x="1311" y="399" width="832" height="514" key="IDE.errors.dialog" timestamp="1695972675739">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1311" y="399" width="832" height="514" key="IDE.errors.dialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695972675739" />
+    <state x="561" y="0" width="1112" height="1072" key="ScreenshotViewer.Dimensions" timestamp="1698069099642">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="401" y="0" width="1112" height="1072" key="ScreenshotViewer.Dimensions/0.0.1920.1080@0.0.1920.1080" timestamp="1697790965743" />
+    <state x="561" y="0" width="1112" height="1215" key="ScreenshotViewer.Dimensions/0.0.2688.1223@0.0.2688.1223" timestamp="1698069099642" />
+    <state x="1169" y="143" width="1116" height="1080" key="ScreenshotViewer.Dimensions/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696507183013" />
+    <state x="1139" y="308" key="SettingsEditor" timestamp="1698070153861">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="449" y="148" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1697618294235" />
+    <state x="1139" y="308" key="SettingsEditor/0.0.2688.1223@0.0.2688.1223" timestamp="1698070153861" />
+    <state x="1217" y="291" key="SettingsEditor/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695916311236" />
+    <state x="993" y="305" width="1115" height="918" key="find.popup" timestamp="1698058695123">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="694" y="270" width="796" height="810" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1697805435747" />
+    <state x="993" y="305" width="1115" height="918" key="find.popup/0.0.2688.1223@0.0.2688.1223" timestamp="1698058695123" />
+    <state x="1512" y="382" width="732" height="810" key="find.popup/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696502679321" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1695995935085">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695995935085" />
+    <state x="1506" y="525" width="538" height="277" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1695916209989">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1506" y="525" width="538" height="277" key="org.intellij.images.editor.actions.BackgroundImageDialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695916209989" />
+    <state x="623" y="201" width="672" height="716" key="search.everywhere.popup" timestamp="1698234763514">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="201" width="672" height="716" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1698234763514" />
+    <state x="872" y="228" width="941" height="811" key="search.everywhere.popup/0.0.2688.1223@0.0.2688.1223" timestamp="1698156973400" />
+    <state x="1391" y="344" width="672" height="716" key="search.everywhere.popup/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1696507870332" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/cubit/user_events_preference_cubit.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dodaj zdjęcie pod opisem.png" />
+    <entry file="file://$PROJECT_DIR$/lib/src/common/widgets/bulk_image_uploader_widget/bulk_image_uploader_widget.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="133" column="13" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_events/event_form/presentation/event_form.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="564" column="42" lean-forward="true" selection-start-line="564" selection-start-column="42" selection-end-line="564" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/event/interesting_list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="123" column="27" selection-start-line="123" selection-start-column="27" selection-end-line="123" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_events_user/event_user_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_events_user/my_events/my_events.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="75" column="44" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/routes/routing.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="171" column="26" selection-start-line="171" selection-start-column="26" selection-end-line="171" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/form/save_button.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/icon_button.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/features_global_search/presentation/widgets/list_events_widget.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_posts/posts_form/presentation/posts_form.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/skeleton.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/event_new/features_map_to _test/presentation/google_maps_main_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/global_camra/camera_global_preview.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="84" column="43" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_payment_dialog.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="120" column="24" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/flutter/packages/flutter/lib/src/painting/text_style.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="1244" column="6" selection-start-line="1244" selection-start-column="6" selection-end-line="1244" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/button.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Preferencje wydarzeń w kilometrach po 2 miejscach po przecinku (zasięg).png" />
+    <entry file="file://$PROJECT_DIR$/Preferencje wydarzeń w kilometrach po 2 miejscach po przecinku.png" />
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/form/notification_location_dialog.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/form/selected_location_card.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/auth/register.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="429" selection-start-line="429" selection-end-line="429" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#6520#8065#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/services/event.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="193" column="25" selection-start-line="193" selection-start-column="25" selection-end-line="193" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/states/promote_event/promote_event_state.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/states/promote_event/promote_event_event.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/utils/toast.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/states/promote_event/promote_event_bloc.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pole jest wymagane - obszar, lokalizacja i okres promowania.png" />
+    <entry file="file://$PROJECT_DIR$/Pole jest wymagane - wydarzenie.png" />
+    <entry file="file://$PROJECT_DIR$/Loading state na przycisku płatności.png" />
+    <entry file="file://$PROJECT_DIR$/Nowe kafelki i zmiana kolorów.png" />
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_select_area.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bez szarego wróć.png" />
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_layout.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pełna data na podglądzie wydarzenia.png" />
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_summary.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3666">
+          <caret line="159" column="45" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/event/promote_event.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_select_event_step.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5278">
+          <caret line="217" column="30" selection-start-line="217" selection-start-column="30" selection-end-line="217" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/promote_event/promote_event_event_details.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3380">
+          <caret line="138" column="38" selection-start-line="138" selection-start-column="38" selection-end-line="138" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/widgets/pretty_format_date.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_events/event_details/presentation/widgets/card_under_image_widget.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/settings_email_notifications.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/app.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/screens/feature_settings/settings_email_notifications/presentation/widgets/location_map_preview.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/services/geolocation.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

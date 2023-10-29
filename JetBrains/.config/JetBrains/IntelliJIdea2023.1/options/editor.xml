@@ -1,0 +1,30 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="FTL" value="false" />
+        <entry key="Groovy" value="false" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="JSP" value="false" />
+        <entry key="JSPX" value="false" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="false" />
+        <entry key="Markdown" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="SQL" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="VTL" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
+        <entry key="kotlin" value="false" />
+        <entry key="protobuf" value="false" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="CARET_BLINKING_PERIOD" value="400" />
+  </component>
+</application>

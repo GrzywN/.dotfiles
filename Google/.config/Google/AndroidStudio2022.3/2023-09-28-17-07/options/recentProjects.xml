@@ -1,0 +1,62 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/r/notes-flutter">
+          <value>
+            <RecentProjectMetaInfo frameTitle="notes-flutter" projectWorkspaceId="2TRFZ8PzFAGSktOyYKTf5cFfbHV">
+              <option name="activationTimestamp" value="1691001532915" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020656219" />
+              <frame x="764" y="117" width="1928" height="1078" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1691001522761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/r/new_app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="new_app – main.dart [new_app]" projectWorkspaceId="2TRMectON5IixGrTmQBBCFo6Nek">
+              <option name="activationTimestamp" value="1693144943818" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020639316" />
+              <frame x="1724" y="117" width="968" height="1078" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1693144946464" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/r/eli5">
+          <value>
+            <RecentProjectMetaInfo frameTitle="eli5 – main.dart [eli5]" projectWorkspaceId="2UZUgW1gdNU1ML8IObKEEb1dQVZ">
+              <option name="activationTimestamp" value="1693229671935" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10671973" />
+              <option name="buildTimestamp" value="1692250054316" />
+              <frame x="764" y="117" width="1928" height="1078" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1693229574620" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/partyapp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="partyapp – event.dart" opened="true" projectWorkspaceId="2UcCqZzCZC77KcKZv7X1u7rNPcH">
+              <option name="activationTimestamp" value="1695913645006" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10671973" />
+              <option name="buildTimestamp" value="1692250037793" />
+              <frame x="764" y="117" width="1928" height="1078" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1695903866907" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/p/partyapp" />
+    <option name="lastProjectLocation" value="$USER_HOME$/r" />
+  </component>
+</application>

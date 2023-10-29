@@ -1,0 +1,105 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Qm90dG9t</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/p/partyapp/lib/src/routes/index.dart" timestamp="1693229804787">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="/Dummy.lcf" timestamp="1693162535539">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/p/partyapp/.env" timestamp="1695913037599">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/p/partyapp/lib/src/services/event.dart" timestamp="1695913629999">
+        <mark key="'" line="143" column="20" />
+        <mark key="[" line="148" column="16" />
+        <mark key="]" line="148" column="20" />
+        <mark key="." line="148" column="19" />
+        <mark key="^" line="148" column="20" />
+      </file>
+      <file name="/dummy.dart" timestamp="1695907738553">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/p/partyapp/lib/src/screens/feature_events/event_details/presentation/cubit/event_details_cubit.dart" timestamp="1695913267210">
+        <mark key="'" line="35" column="54" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="189" column="16" filename="$USER_HOME$/p/partyapp/lib/src/widgets/layout.dart" />
+      <jump line="203" column="12" filename="$USER_HOME$/p/partyapp/lib/src/widgets/layout.dart" />
+      <jump line="35" column="54" filename="$USER_HOME$/p/partyapp/lib/src/screens/feature_events/event_details/presentation/cubit/event_details_cubit.dart" />
+      <jump line="143" column="20" filename="$USER_HOME$/p/partyapp/lib/src/services/event.dart" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHV0</text>
+      </register>
+      <register name="*" type="4">
+        <text encoding="base64">cHV0</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">cHV0</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">cG9zdA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">Qm90dG9t</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5zeW1tZXRyaWModmVydGljYWw6IDUpLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQm90dG9tQmFyQnV0dG9uKAogICAgICAgICAgICAgICgpIHsKICAgICAgICAgICAgICAgIGNvbnRleHQucHVzaE5hbWVkKCdldmVudC1pbnRlcmVzdGluZy1saXN0JywKICAgICAgICAgICAgICAgICAgICBwYXRoUGFyYW1ldGVyczogeydpbmRleCc6ICcwJ30pOwogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgTW9kZXJuSWNvbi52b2ljZV9zcXVhcmUsCiAgICAgICAgICAgICAgJ1d5ZGFyemVuaWEnLAogICAgICAgICAgICApLAogICAgICAgICAgICBCbG9jQnVpbGRlcjxBdXRoQmxvYywgQXV0aFN0YXRlPigKICAgICAgICAgICAgICBidWlsZGVyOiAoQnVpbGRDb250ZXh0IGNvbnRleHQsIEF1dGhTdGF0ZSBzdGF0ZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIEJvdHRvbUJhckJ1dHRvbigoKSB7CiAgICAgICAgICAgICAgICAgIGNvbnRleHQucHVzaE5hbWVkKCd1c2VyLXByb2ZpbGUnLCBwYXRoUGFyYW1ldGVyczogewogICAgICAgICAgICAgICAgICAgICdpZCc6IHN0YXRlLnVzZXI/LmlkLnRvU3RyaW5nKCkgPz8gJycsCiAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSwgTW9kZXJuSWNvbi5wZXJzb25hbGNhcmQsICdQcm9maWwnKTsKICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQm90dG9tQmFyQnV0dG9uKAogICAgICAgICAgICAgICgpIHsKICAgICAgICAgICAgICAgIGNvbnRleHQucHVzaE5hbWVkKCdkYXNoYm9hcmQnKTsKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIE1vZGVybkljb24uaG9tZSwKICAgICAgICAgICAgICAnR8WCw7N3bmEnLAogICAgICAgICAgICApLAogICAgICAgICAgICBFeHBhbmRlZCgKICAgICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICAgIGNoaWxkOiBQb3B1cE1lbnVCdXR0b248U3RyaW5nPigKICAgICAgICAgICAgICAgIG9uU2VsZWN0ZWQ6ICh2YWx1ZSkgewogICAgICAgICAgICAgICAgICBpZiAodmFsdWUgPT0gJ3Bvc3QnKSB7CiAgICAgICAgICAgICAgICAgICAgYnVpbGRBcHBNb2RhbEJvdHRvbVNoZWV0KAogICAgICAgICAgICAgICAgICAgICAgY29udGV4dCwKICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IFBvc3RGb3JtU2NyZWVuKCksCiAgICAgICAgICAgICAgICAgICAgICAnRG9kYWogcG9zdCcsCiAgICAgICAgICAgICAgICAgICAgKS50aGVuKChyZXMpIHsKICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXMgPT0gZmFsc2UpIHJldHVybjsKICAgICAgCiAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnJlYWQ8RmVlZExpc3RDdWJpdD4oKS5yZWZyZXNoTGlzdCgpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHZhbHVlID09ICdldmVudCcpIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnB1c2hOYW1lZCgnZXZlbnQtZm9ybScpOwogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgaXRlbUJ1aWxkZXI6IChCdWlsZENvbnRleHQgY29udGV4dCkgPT4gPFBvcHVwTWVudUVudHJ5PFN0cmluZz4+WwogICAgICAgICAgICAgICAgICBQb3B1cE1lbnVJdGVtPFN0cmluZz4oCiAgICAgICAgICAgICAgICAgICAgdmFsdWU6ICdwb3N0JywKICAgICAgICAgICAgICAgICAgICBjaGlsZDogTGlzdFRpbGUoCiAgICAgICAgICAgICAgICAgICAgICBsZWFkaW5nOiBJY29uKE1vZGVybkljb24ucGVuX2FkZCwKICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogVGhlbWUub2YoY29udGV4dCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmV4dGVuc2lvbjxDdXN0b21Db2xvcnM+KCkhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wcmltYXJ5ISksCiAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogY29uc3QgVGV4dCgnRG9kYWogcG9zdCcpLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgIFBvcHVwTWVudUl0ZW08U3RyaW5nPigKICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJ2V2ZW50JywKICAgICAgICAgICAgICAgICAgICBjaGlsZDogTGlzdFRpbGUoCiAgICAgICAgICAgICAgICAgICAgICBsZWFkaW5nOiBJY29uKE1vZGVybkljb24uY2FsZW5kYXJfYWRkLAogICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBUaGVtZS5vZihjb250ZXh0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZXh0ZW5zaW9uPEN1c3RvbUNvbG9ycz4oKSEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnByaW1hcnkhKSwKICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiBjb25zdCBUZXh0KCdEb2RhaiB3eWRhcnplbmllJyksCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBjb2xvcjogVGhlbWUub2YoY29udGV4dCkuZXh0ZW5zaW9uPEN1c3RvbUNvbG9ycz4oKSEuYm90dG9tQmFyISwKICAgICAgICAgICAgICAgIHNoYXBlOiBSb3VuZGVkUmVjdGFuZ2xlQm9yZGVyKAogICAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IEJvcmRlclJhZGl1cy5jaXJjdWxhcigyMCksCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgb2Zmc2V0OiBjb25zdCBPZmZzZXQoLTgwLCAtMTQwKSwKICAgICAgICAgICAgICAgIGNoaWxkOiBjb25zdCBCb3R0b21CYXJCdXR0b24obnVsbCwgTW9kZXJuSWNvbi5hZGQsICdEb2RhaicpLAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICksCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5zcGFjZUJldHdlZW4sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5zcGFjZUV2ZW5seSwK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">Qm90dG9t</last-search>
+      <last-pattern encoding="base64">Qm90dG9t</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

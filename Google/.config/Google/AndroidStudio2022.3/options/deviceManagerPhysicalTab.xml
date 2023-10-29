@@ -1,0 +1,27 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="f9c7338" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-f9c7338-tmmxfU._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 7" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

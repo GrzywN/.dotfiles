@@ -1,0 +1,43 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.768.143.1920.1080" x="1728" y="539" />
+    <location key="find.popup.768.143.1920.1080" x="1512" y="382" />
+    <location key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog.0.0.1920.1080" x="555" y="198" />
+    <location key="find.popup.0.0.1920.1080" x="730" y="513" />
+    <location key="find.popup.0.0.2688.1223" x="1005" y="445" />
+    <size key="GridCell.Tab.0.left.768.143.1920.1080" width="1838" height="3" />
+    <size key="GridCell.Tab.0.center.768.143.1920.1080" width="1838" height="3" />
+    <size key="GridCell.Tab.0.right.768.143.1920.1080" width="1838" height="3" />
+    <size key="GridCell.Tab.0.bottom.768.143.1920.1080" width="1838" height="3" />
+    <size key="find.popup.768.143.1920.1080" width="732" height="810" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1838" height="-12" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1838" height="-12" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1838" height="-12" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1838" height="-12" />
+    <size key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog.0.0.1920.1080" width="804" height="804" />
+    <size key="find.popup.0.0.1920.1080" width="651" height="540" />
+    <size key="find.popup.0.0.2688.1223" width="651" height="540" />
+    <size key="GridCell.Tab.0.left.0.0.2688.1223" width="1838" height="734" />
+    <size key="GridCell.Tab.0.center.0.0.2688.1223" width="1838" height="734" />
+    <size key="GridCell.Tab.0.right.0.0.2688.1223" width="1838" height="734" />
+    <size key="GridCell.Tab.0.bottom.0.0.2688.1223" width="1838" height="734" />
+  </component>
+  <component name="WindowManager">
+    <frame x="766" y="123" width="1924" height="1081" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1511" y="414" width="432" height="484" key="FileChooserDialogImpl" timestamp="1695914233507">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1511" y="414" width="432" height="484" key="FileChooserDialogImpl/768.143.1920.1080/0.0.768.1366" timestamp="1695914233507" />
+    <state width="810" height="216" key="ShowUsagesActions.dimensionServiceKey" timestamp="1697718451123">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state width="810" height="216" key="ShowUsagesActions.dimensionServiceKey/0.0.2688.1223" timestamp="1697718451123" />
+    <state width="578" height="272" key="ShowUsagesActions.dimensionServiceKey/768.143.1920.1080/0.0.768.1366" timestamp="1696514219152" />
+    <state x="1728" y="539" key="WELCOME_SCREEN" timestamp="1695914206403">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1728" y="539" key="WELCOME_SCREEN/768.143.1920.1080/0.0.768.1366" timestamp="1695914206403" />
+  </component>
+</application>

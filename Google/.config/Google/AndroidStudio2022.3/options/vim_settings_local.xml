@@ -1,0 +1,498 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">TWFw</entry>
+        <entry encoding="base64">YnVpbGRFdmVudA==</entry>
+        <entry encoding="base64">aGVpZ2h0</entry>
+        <entry encoding="base64">V2llxbxh</entry>
+        <entry encoding="base64">aGFzVmFsaWRhdGlvbg==</entry>
+        <entry encoding="base64">X2ZpcnN0Rm9ybQ==</entry>
+        <entry encoding="base64">dmFsaWRhdGU=</entry>
+        <entry encoding="base64">dmFsaWRh</entry>
+        <entry encoding="base64">c2VydmljZQ==</entry>
+        <entry encoding="base64">XSk=</entry>
+        <entry encoding="base64">d3lkYXJ6ZW5pYQ==</entry>
+        <entry encoding="base64">V3LDs8SH</entry>
+        <entry encoding="base64">RmVlZA==</entry>
+        <entry encoding="base64">Zm9yZ290</entry>
+        <entry encoding="base64">fSk=</entry>
+        <entry encoding="base64">Jyk=</entry>
+        <entry encoding="base64">KSk=</entry>
+        <entry encoding="base64">WmFsb2d1aiBzaQ==</entry>
+        <entry encoding="base64">Qm90dG9tTWVudQ==</entry>
+        <entry encoding="base64">bWFw</entry>
+        <entry encoding="base64">bGlzdA==</entry>
+        <entry encoding="base64">c2V0dGluZ3M=</entry>
+        <entry encoding="base64">d2VsY29tZQ==</entry>
+        <entry encoding="base64">QmxvYw==</entry>
+        <entry encoding="base64">aWNvbg==</entry>
+        <entry encoding="base64">RmE=</entry>
+        <entry encoding="base64">Rg==</entry>
+        <entry encoding="base64">cGxheQ==</entry>
+        <entry encoding="base64">S20=</entry>
+        <entry encoding="base64">Og==</entry>
+        <entry encoding="base64">dGltZXI=</entry>
+        <entry encoding="base64">VGltZXI=</entry>
+        <entry encoding="base64">c3luYw==</entry>
+        <entry encoding="base64">Y29tcGFzcw==</entry>
+        <entry encoding="base64">RGlzdGFuY2U=</entry>
+        <entry encoding="base64">RGlzdGFuY2VXaWRnZXQ=</entry>
+        <entry encoding="base64">LCB0ZXh0U3R5bGU=</entry>
+        <entry encoding="base64">SW9uaWM=</entry>
+        <entry encoding="base64">SW9uaWNvbnM=</entry>
+        <entry encoding="base64">UG9k</entry>
+        <entry encoding="base64">VHJhc2E=</entry>
+        <entry encoding="base64">LQ==</entry>
+        <entry encoding="base64">c2lnbg==</entry>
+        <entry encoding="base64">RGFuZQ==</entry>
+        <entry encoding="base64">QW51</entry>
+        <entry encoding="base64">VGhlbWU=</entry>
+        <entry encoding="base64">SWNvbg==</entry>
+        <entry encoding="base64">bGVhZGluZw==</entry>
+        <entry encoding="base64">VGl0bGU=</entry>
+        <entry encoding="base64">Ym9keU1l</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JXMvXDxcPi9ib3NhZGJvZGFzby9nSQ==</entry>
+        <entry encoding="base64">JXMvXDxcPi9ic29kYWJ1b2FzZC9nSQ==</entry>
+        <entry encoding="base64">JXMvXDxcPi9sZWFkZXIvZ0k=</entry>
+        <entry encoding="base64">Rm9ybWF0</entry>
+        <entry encoding="base64">MTU=</entry>
+        <entry encoding="base64">JXMvJy8iL2c=</entry>
+        <entry encoding="base64">MTAx</entry>
+        <entry encoding="base64">MTA5</entry>
+        <entry encoding="base64">MTA4</entry>
+        <entry encoding="base64">dzs=</entry>
+        <entry encoding="base64">JXMvJy8iL2dJ</entry>
+        <entry encoding="base64">MTc0</entry>
+        <entry encoding="base64">THc=</entry>
+        <entry encoding="base64">JXMvRmxleGlibGUvRXhwYW5kZWQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N1Y2Nlc3MvZmFpbHVyZS9nSQ==</entry>
+        <entry encoding="base64">d2U=</entry>
+        <entry encoding="base64">c2V0IG51</entry>
+        <entry encoding="base64">Mg==</entry>
+        <entry encoding="base64">JXMvZmlsbC9jb3Zlci9n</entry>
+        <entry encoding="base64">JzwsJz5zL25hbWUvbWVkaWE=</entry>
+        <entry encoding="base64">JzwsJz5zL25hbWUvbWVkaWEvZw==</entry>
+        <entry encoding="base64">NjU4</entry>
+        <entry encoding="base64">c2V0IG5vcm51</entry>
+        <entry encoding="base64">cy9BY3RpdmUvVXBsb2FkZWQvZw==</entry>
+        <entry encoding="base64">c2V0IHJudQ==</entry>
+        <entry encoding="base64">JXMvaW1wcmV6eS93eWRhcnplbmlhL2c=</entry>
+        <entry encoding="base64">JXMvZ2V0TGlzdC9nZXRGcmllbmRzTGlzdC9n</entry>
+        <entry encoding="base64">JXMvRXhhbXBsZUZlYXR1cmUve3tmZWF0dXJlX25hbWV9fS9n</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">JXMvKVwsLywpLC9n</entry>
+        <entry encoding="base64">JXMvISkvISwpL2c=</entry>
+        <entry encoding="base64">MQ==</entry>
+        <entry encoding="base64">NzYw</entry>
+        <entry encoding="base64">MjAw</entry>
+        <entry encoding="base64">NzQw</entry>
+        <entry encoding="base64">JXMvcHJpbnQoc3RhdGUpLy9n</entry>
+        <entry encoding="base64">NDQw</entry>
+        <entry encoding="base64">JXMvIi8nL2c=</entry>
+        <entry encoding="base64">Inc=</entry>
+        <entry encoding="base64">JXMvXSkvXSwpL2c=</entry>
+        <entry encoding="base64">JXMvfSkvfSwpL2c=</entry>
+        <entry encoding="base64">JXMvJykvJywpL2c=</entry>
+        <entry encoding="base64">JXMvKSkvKSwpL2c=</entry>
+        <entry encoding="base64">d3M=</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">JzwsJz5zLy0vXy8=</entry>
+        <entry encoding="base64">JXMvLCB0ZXh0U3R5bGUvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLy0vXy9n</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <jump line="45" column="4" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="143" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="32" column="30" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="80" column="12" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="73" column="58" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="99" column="17" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="52" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="48" column="30" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="72" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="67" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="47" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="79" column="21" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="108" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="109" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="24" column="13" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="55" column="4" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="63" column="16" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="125" column="8" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="191" column="30" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="153" column="13" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="135" column="47" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="152" column="38" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="150" column="38" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="149" column="12" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="172" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="167" column="34" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="193" column="12" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="177" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="116" column="59" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="104" column="63" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="166" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="137" column="34" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="173" column="63" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="134" column="47" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="175" column="8" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="187" column="17" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="154" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="148" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="181" column="61" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="156" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="192" column="69" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="185" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="197" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="158" column="45" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="157" column="12" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="170" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="127" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="75" column="16" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="85" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="77" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="53" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="26" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="16" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="40" column="17" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="49" column="17" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="97" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="0" column="4" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Http/Controllers/UserEventsPreferenceController.php" />
+    <jump line="34" column="40" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Http/Requests/UpdateUserEventsPreferenceRequest.php" />
+    <jump line="29" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Rules/UserEventsPreferenceLocationRule.php" />
+    <jump line="7" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Services/Mobile/UserEventsPreference.php" />
+    <jump line="64" column="76" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="23" column="6" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Models/MobileUser.php" />
+    <jump line="9" column="16" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="21" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="30" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="26" column="30" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="27" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="42" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/helpers.php" />
+    <jump line="146" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="130" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="129" column="36" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="147" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="133" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="43" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="208" column="11" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="186" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="46" column="22" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="27" column="82" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="32" column="4" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="44" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="43" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="56" column="28" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="57" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="62" column="21" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="78" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="163" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="155" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="162" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="93" column="9" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="86" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="30" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="65" column="47" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="34" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="62" column="41" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="56" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+    <jump line="61" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="20" column="4" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="22" column="0" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+    <jump line="15" column="23" filename="$USER_HOME$/p/with-docker/partyappadmin/app/tests/Feature/Jobs/PeriodNotificationsOfEventsTest.php" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/p/ltapp/lib/src/config/routing.dart" timestamp="1698318083111">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="61" column="68" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" timestamp="1698578092064">
+        <mark key="'" line="56" column="19" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/l10n/app_en.arb" timestamp="1698410337033">
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="24" />
+        <mark key="^" line="60" column="23" />
+        <mark key="." line="60" column="24" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" timestamp="1698401336324">
+        <mark key="'" line="172" column="32" />
+        <mark key="[" line="184" column="37" />
+        <mark key="]" line="184" column="48" />
+        <mark key="^" line="184" column="48" />
+        <mark key="." line="184" column="47" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" timestamp="1698405928557">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" timestamp="1698413221201">
+        <mark key="'" line="28" column="43" />
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="91" column="6" />
+        <mark key="." line="218" column="44" />
+        <mark key="^" line="218" column="45" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/feature_auth/login/presentation/login.dart" timestamp="1698319652465">
+        <mark key="[" line="152" column="51" />
+        <mark key="]" line="152" column="51" />
+        <mark key="^" line="99" column="29" />
+        <mark key="." line="152" column="52" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/list_card_builder_widget.dart" timestamp="1698405446005">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="178" column="65" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" timestamp="1698318222429">
+        <mark key="'" line="0" column="38" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="256" column="1" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/timer_widget.dart" timestamp="1698332208715">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="48" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/config/themes/spacing.dart" timestamp="1698407954453">
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="53" />
+        <mark key="^" line="15" column="58" />
+        <mark key="." line="15" column="53" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" timestamp="1698313194922">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="75" column="25" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" timestamp="1698410140553">
+        <mark key="'" line="91" column="8" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="76" />
+        <mark key="^" line="63" column="31" />
+        <mark key="." line="63" column="30" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/map_screen.dart" timestamp="1698405519921">
+        <mark key="'" line="18" column="39" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="53" />
+        <mark key="." line="72" column="52" />
+        <mark key="^" line="72" column="53" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/widget/tracker_card_widget.dart" timestamp="1698412008212">
+        <mark key="[" line="42" column="87" />
+        <mark key="]" line="42" column="87" />
+        <mark key="." line="42" column="87" />
+        <mark key="^" line="23" column="45" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/widgets/auth_layout.dart" timestamp="1698314345744">
+        <mark key="f" line="14" column="53" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/create_checkpoint_widget.dart" timestamp="1698408077093">
+        <mark key="[" line="171" column="14" />
+        <mark key="]" line="171" column="14" />
+        <mark key="^" line="127" column="46" />
+        <mark key="." line="171" column="15" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/custom_rounded_button.dart" timestamp="1698401082197">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/p/ltapp/pubspec.yaml" timestamp="1698321063822">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="17" />
+        <mark key="^" line="64" column="13" />
+        <mark key="." line="64" column="17" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="889" column="29" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="956" column="11" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="957" column="11" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="993" column="63" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="1057" column="20" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="1121" column="35" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="1152" column="28" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="1183" column="51" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+      <jump line="48" column="0" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
+      <jump line="43" column="7" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
+      <jump line="100" column="23" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
+      <jump line="430" column="22" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
+      <jump line="7" column="0" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
+      <jump line="35" column="38" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
+      <jump line="1" column="29" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
+      <jump line="6" column="14" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
+      <jump line="66" column="25" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_event_step.dart" />
+      <jump line="245" column="10" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_event_step.dart" />
+      <jump line="118" column="24" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_area.dart" />
+      <jump line="267" column="8" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_area.dart" />
+      <jump line="228" column="33" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_event_step.dart" />
+      <jump line="137" column="8" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_area.dart" />
+      <jump line="24" column="29" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_layout.dart" />
+      <jump line="80" column="26" filename="$USER_HOME$/p/partyapp/lib/src/screens/feature_events/event_details/presentation/widgets/card_under_image_widget.dart" />
+      <jump line="37" column="9" filename="$USER_HOME$/p/partyapp/lib/src/screens/feature_events/event_details/presentation/widgets/card_under_image_widget.dart" />
+      <jump line="63" column="46" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
+      <jump line="31" column="8" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
+      <jump line="70" column="10" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
+      <jump line="83" column="21" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" />
+      <jump line="115" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" />
+      <jump line="68" column="13" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" />
+      <jump line="109" column="21" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
+      <jump line="226" column="22" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
+      <jump line="0" column="38" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
+      <jump line="78" column="6" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
+      <jump line="79" column="8" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
+      <jump line="284" column="46" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="118" column="14" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="261" column="31" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="264" column="42" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="8" column="43" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="107" column="13" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="123" column="35" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="161" column="25" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="214" column="41" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="258" column="34" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="146" column="37" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="71" column="14" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="296" column="26" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="274" column="51" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="172" column="29" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="269" column="10" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/map_screen.dart" />
+      <jump line="71" column="22" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/map_screen.dart" />
+      <jump line="56" column="37" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/map_screen.dart" />
+      <jump line="20" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="128" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="78" column="23" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="22" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="120" column="29" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="122" column="11" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="11" column="68" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="196" column="12" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="83" column="25" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="27" column="43" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="147" column="18" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="197" column="6" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="198" column="8" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="27" column="12" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/list_card_builder_widget.dart" />
+      <jump line="104" column="57" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/list_card_builder_widget.dart" />
+      <jump line="189" column="23" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="218" column="12" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="110" column="15" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="172" column="32" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" />
+      <jump line="18" column="62" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
+      <jump line="120" column="42" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
+      <jump line="54" column="30" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
+      <jump line="198" column="33" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
+      <jump line="63" column="43" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
+      <jump line="18" column="39" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/map_screen.dart" />
+      <jump line="43" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
+      <jump line="64" column="45" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/create_checkpoint_widget.dart" />
+      <jump line="128" column="26" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="268" column="21" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="255" column="35" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="263" column="17" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="112" column="19" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="116" column="28" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="136" column="2" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="264" column="17" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="113" column="19" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="117" column="28" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="256" column="35" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="65" column="38" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="267" column="6" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="289" column="12" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="83" column="63" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="252" column="22" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="56" column="19" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAkdXNlckxhdGl0dWRlID0gMjAuMDE7CiAgICAgICAgJHVzZXJMb25naXR1ZGUgPSAzMC4wMTsKICAgICAgICAkdXNlckRpc3RhbmNlSW5NZXRlcnMgPSAxMDAwOwo=</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAkdXNlckxhdGl0dWRlID0gMjAuMDE7CiAgICAgICAgJHVzZXJMb25naXR1ZGUgPSAzMC4wMTsKICAgICAgICAkdXNlckRpc3RhbmNlSW5NZXRlcnMgPSAxMDAwOwo=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">MTkuMTk0ODc2</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">Q0Nvb2xsdXVtbW5u</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">Ig==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAkdXNlckxhdGl0dWRlID0gNTAuMjc3NzkwMzsKICAgICAgICAkdXNlckxvbmdpdHVkZSA9IDE5LjEyNjQwMjsKICAgICAgICAkdXNlckRpc3RhbmNlSW5NZXRlcnMgPSAxMDAwOwo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAkdXNlckxhdGl0dWRlID0gMjAuMDE7CiAgICAgICAgJHVzZXJMb25naXR1ZGUgPSAzMC4wMTsKICAgICAgICAkdXNlckRpc3RhbmNlSW5NZXRlcnMgPSAxMDAwOwo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb246OmFzc2VydFNlbnRUb1RpbWVzKCR1c2VyLCBTdWdnZXN0ZWRFdmVudHNOb3RpZmljYXRpb246OmNsYXNzLCAyKTsK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAkd2l0aGluRGlzdGFuY2UyID0gY2FsY3VsYXRlQ29vcmRpbmF0ZXMoJHVzZXJMYXRpdHVkZSwgJHVzZXJMb25naXR1ZGUsICR1c2VyRGlzdGFuY2VJbk1ldGVycyk7Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTdHdvcnp5xIcgdcW8eXRrb3duaWthIHogcHJlZmVyZW5jamFtaSB6IGR3aWVtYSBwb2RhbnltaSBsb2thbGl6YWNqYW1pCiAgICAgICAgLy8gVE9ETzogU3R3b3J6ecSHIHd5ZGFyemVuaWEgdyB3eW1hZ2FueWNoIHJhbWFjaCBjemFzb3d5Y2ggaSB3IHd5bWFnYW5laiBsb2thbGl6YWNqaQogICAgICAgIC8vIFRPRE86IFN0d29yennEhyB3eWRhcnplbmlhIHcgd3ltYWdhbnljaCByYW1hY2ggY3phc293eWNoIGkgcG96YSB3eW1hZ2FuxIUgbG9rYWxpemFjasSFCiAgICAgICAgLy8gVE9ETzogTWEgb24gZG9zdGHEhywgd3lkYXJ6ZW5pZSBqZWR5bmllIHcgZHlzdGFuc2llIHByemV6IG5pZWdvIHBvZGFueW0gZGxhIHBpZXJ3c3plZ28gd3lkYXJ6ZW5pYQogICAgICAgIC8vIFRPRE86IE1hIG9uIGRvc3RhxIcsIHd5ZGFyemVuaWUgamVkeW5pZSB3IGR5c3RhbnNpZSBwcnpleiBuaWVnbyBwb2RhbnltIGRsYSBkcnVnaWVnbyB3eWRhcnplbmlhCiAgICAgICAgLy8gVE9ETzogTWEgb24gbmllIGRvc3RhxIcsIHd5ZGFyemVuaWEgcG96YSB3eW1hZ2FueW1pIGxva2FsaXphY2phbWkK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAkd2l0aGluRGlzdGFuY2UyID0gY2FsY3VsYXRlQ29vcmRpbmF0ZXMoJHVzZXJMYXRpdHVkZSwgJHVzZXJMb25naXR1ZGUsICR1c2VyRGlzdGFuY2VJbk1ldGVycyAvIDIpOwo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">Ym9keU1l</last-search>
+      <last-substitute encoding="base64">LQ==</last-substitute>
+      <last-replace encoding="base64">Xw==</last-replace>
+      <last-pattern encoding="base64">Ym9keU1l</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>
