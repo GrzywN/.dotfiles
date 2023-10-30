@@ -1,0 +1,80 @@
+" Disable annoying beeping in IdeaVim
+set visualbell
+
+" Line numbers
+set number
+set relativenumber
+
+" Indenting
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set smarttab
+
+set autoindent
+set smartindent
+
+" Clipboard
+set clipboard=unnamedplus,unnamed
+
+" Searching
+set nohlsearch
+set incsearch
+
+" Wrapping
+set nowrap
+
+" Better user experience
+set noswapfile
+set nobackup
+let &undodir = $HOME . '/.vim/undodir'
+set undofile
+
+set cmdheight=1
+set updatetime=0
+set shortmess+=c
+
+set colorcolumn=120
+
+" Leader key
+let mapleader = ' '
+
+" remap.lua
+
+" Move lines
+vnoremap J :m '>+1<CR>gv=gv
+vnoremap K :m '<-2<CR>gv=gv
+
+" Stay in the same place when wrapping with J
+nnoremap J :m .+1<CR>
+nnoremap K :m .-2<CR>
+
+" Stay in the same place when moving
+nnoremap <C-d> <C-d>zz
+nnoremap <C-u> <C-u>zz
+nnoremap n nzzzv
+nnoremap N Nzzzv
+
+" Don't override buffer when pasting
+xnoremap <leader>p :action EditorPaste<CR>
+
+" Format file based on LSP
+nnoremap <leader>fm :action ReformatCode<CR>
+
+" Replace a word which you're on
+nnoremap <leader>s :action RenameElement<CR>
+
+" Source config
+nnoremap <leader><CR> :source ~/.ideavimrc<CR>
+
+" Make executable
+nnoremap <leader>x :!chmod +x %<CR>
+
+" Telescope
+nnoremap <leader>ff :action GotoFile<CR>:action com.intellij.openapi.wm.impl.FocusActiveComponentAction<CR>
+nnoremap <Leader>fg :action ShowFindUsages<CR>
+
+" --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
+Plug 'machakann/vim-highlightedyank'
+Plug 'tpope/vim-commentary'
