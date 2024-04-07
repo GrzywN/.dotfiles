@@ -12,9 +12,14 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
+# Open terminal
 bindsym $mod+Return exec alacritty
 # bindsym $mod+Return exec i3-sensible-terminal
+
+# Close window
 bindsym $mod+q kill
+
+# Open launch menu
 bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
 
@@ -104,76 +109,108 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-# Theme variables
-set $base00 #282c34
-set $base01 #353b45
-set $base02 #3e4451
-set $base03 #545862
-set $base04 #565c64
-set $base05 #abb2bf
-set $base06 #b6bdca
-set $base07 #c8ccd4
-set $base08 #e06c75
-set $base09 #d19a66
-set $base0A #e5c07b
-set $base0B #98c379
-set $base0C #56b6c2
-set $base0D #61afef
-set $base0E #c678dd
-set $base0F #be5046
+# Catppuccin Mocha theme (https://github.com/catppuccin/i3/blob/main/themes/catppuccin-mocha)
+set $rosewater #f5e0dc
+set $flamingo #f2cdcd
+set $pink #f5c2e7
+set $mauve #cba6f7
+set $red #f38ba8
+set $maroon #eba0ac
+set $peach #fab387
+set $yellow #f9e2af
+set $green #a6e3a1
+set $teal #94e2d5
+set $sky #89dceb
+set $sapphire #74c7ec
+set $blue #89b4fa
+set $lavender #b4befe
+set $text #cdd6f4
+set $subtext1 #bac2de
+set $subtext0 #a6adc8
+set $overlay2 #9399b2
+set $overlay1 #7f849c
+set $overlay0 #6c7086
+set $surface2 #585b70
+set $surface1 #45475a
+set $surface0 #313244
+set $base #1e1e2e
+set $mantle #181825
+set $crust #11111b
 
 # Basic bar configuration using the Base16 variables.
 bar {
+    status_command i3blocks
     # status_command i3status
-    status_command bumblebee-status \
-     -m memory pomodoro date time \
-     -t onedark-powerline
+    # status_command bumblebee-status \
+    #  -m memory pomodoro date time \
+    #  -t onedark-powerline
 
     colors {
-        background $base00
-        separator  $base01
-        statusline $base04
-
-     #  State               Border  BG      Text
-        focused_workspace   $base05 $base0D $base00
-        active_workspace    $base05 $base03 $base00
-        inactive_workspace  $base03 $base01 $base05
-        urgent_workspace    $base08 $base08 $base00
-        binding_mode        $base00 $base0A $base00
-   }
+      background         $base
+      statusline         $text
+      focused_statusline $text
+      focused_separator  $base
+      focused_workspace  $base $base $green
+      active_workspace   $base $base $blue
+      inactive_workspace $base $base $surface1
+      urgent_workspace   $base $base $surface1
+      binding_mode       $base $base $surface1
+    }
 }
 
 # Basic color configuration using the Base16 variables for windows and borders.
 # Property Name         Border  BG      Text    Indicator Child Border
-client.focused          $base05 $base0D $base00 $base0D $base0C
-client.focused_inactive $base01 $base01 $base05 $base03 $base01
-client.unfocused        $base01 $base00 $base05 $base01 $base01
-client.urgent           $base08 $base08 $base00 $base08 $base08
-client.placeholder      $base00 $base00 $base05 $base00 $base00
-client.background       $base07
+client.focused           $lavender $base $text  $rosewater $lavender
+client.focused_inactive  $overlay0 $base $text  $rosewater $overlay0
+client.unfocused         $overlay0 $base $text  $rosewater $overlay0
+client.urgent            $peach    $base $peach $overlay0  $peach
+client.placeholder       $overlay0 $base $text  $overlay0  $overlay0
+client.background        $base
 
-# Gaps
-gaps inner 0
-gaps outer 0
+# Gaps (i3-gaps only)
+# gaps inner 0
+# gaps outer 0
 
 # Hide borders
 hide_edge_borders both
 for_window [class="^.*"] border pixel 0
 
 # Workspaces on specific screens
-workspace $ws8 output DVI-D-0
-workspace $ws9 output DVI-D-0
-workspace $ws10 output DVI-D-0
+workspace $ws1 output primary
+workspace $ws2 output primary
+workspace $ws3 output primary
+workspace $ws4 output primary
+workspace $ws5 output primary
+workspace $ws6 output primary
+workspace $ws7 output nonprimary
+workspace $ws8 output nonprimary
+workspace $ws9 output nonprimary
+workspace $ws10 output nonprimary
 
 # Workspace assignments
+assign [class="Chromium"] $ws1
 assign [class="firefox"] $ws1
-assign [class="alacritty"] $ws2
+
+assign [class="Alacritty"] $ws2
 assign [class="code"] $ws2
-assign [class="Insomnia"] $ws2
-assign [class="Postman"] $ws2
+
 assign [class="GitKraken"] $ws3
-assign [class="vlc"] $ws4
-assign [class="gimp"] $ws5
+
+assign [class="Insomnia"] $ws4
+assign [class="Postman"] $ws4
+
+assign [class="vlc"] $ws6
+assign [class="gimp"] $ws6
+
+for_window [class="Spotify"] move container to workspace $ws7
+
+assign [class="Discord"] $ws8
+
+assign [class="Telegram Desktop"] $ws9
+
+assign [class="arandr"] $ws10
+assign [class="blueman"] $ws10
+assign [class="pavucontrol"] $ws10
 
 # AutoExec
 exec_always setxkbmap pl

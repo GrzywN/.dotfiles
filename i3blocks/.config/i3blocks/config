@@ -1,0 +1,30 @@
+command=/usr/share/i3blocks/$BLOCK_NAME
+separator_block_width=15
+markup=none
+
+
+[mediaplayer]
+instance=spotify
+interval=5
+signal=10
+color=#dc8a78
+
+
+[weather]
+command=curl -Ss 'https://wttr.in?0&T&Q&lang=pl' | cut -c 16- | head -2 | xargs echo
+interval=3600
+color=#dd7878
+
+
+[battery]
+label=BAT
+label=⚡
+instance=1
+interval=30
+color=#8839ef
+
+
+[time]
+command=date +%T
+interval=1
+color=#7287fd
