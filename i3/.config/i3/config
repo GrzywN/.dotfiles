@@ -177,5 +177,6 @@ assign [class="gimp"] $ws5
 
 # AutoExec
 exec_always setxkbmap pl
+exec_always setxkbmap -option "caps:none"
 exec_always --no-startup-id feh --bg-fill $HOME/wallpaper*.*
 exec_always --no-startup-id picom
