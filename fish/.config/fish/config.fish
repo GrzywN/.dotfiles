@@ -6,6 +6,7 @@ alias g git
 alias ls='ls --color=auto'
 alias ll='ls -la'
 command -qv nvim && alias vim nvim
+command -qv nvim ~/todo.md && alias todo
 
 set -gx EDITOR nvim
 set -gx PATH bin $PATH
@@ -21,7 +22,6 @@ set -x JAVA_HOME /usr/lib/jvm/default
 set -x PATH $PATH $JAVA_HOME/bin
 set -x CHROME_EXECUTABLE firefox
 
-eval "$(starship init fish)"
 
 # pnpm
 set -gx PNPM_HOME "/home/grzywn/.local/share/pnpm"
@@ -36,3 +36,5 @@ set -x PATH "$PATH" "$HOME/flutter/bin"
 set -x FLYCTL_INSTALL "/home/grzywn/.fly"
 set -gx PATH $FLYCTL_INSTALL/bin $PATH
 set -x PATH "$PATH" "$HOME/flutter/bin"
+
+starship init fish | source
