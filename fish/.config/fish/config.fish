@@ -31,3 +31,8 @@ end
 # pnpm end
 
 set -x PATH "$PATH" "$HOME/flutter/bin"
+
+# Fly.io
+set -x FLYCTL_INSTALL "/home/grzywn/.fly"
+set -gx PATH $FLYCTL_INSTALL/bin $PATH
+set -x PATH "$PATH" "$HOME/flutter/bin"
