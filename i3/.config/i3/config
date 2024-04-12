@@ -166,16 +166,33 @@ workspace $ws9 output DVI-D-0
 workspace $ws10 output DVI-D-0
 
 # Workspace assignments
+assign [class="Chromium"] $ws1
 assign [class="firefox"] $ws1
-assign [class="alacritty"] $ws2
+
+# assign [class="alacritty"] $ws2
 assign [class="code"] $ws2
-assign [class="Insomnia"] $ws2
-assign [class="Postman"] $ws2
+assign [class="PHPStorm"] $ws2
+assign [class="Android Studio"] $ws2
+
 assign [class="GitKraken"] $ws3
-assign [class="vlc"] $ws4
-assign [class="gimp"] $ws5
+
+assign [class="Insomnia"] $ws4
+assign [class="Postman"] $ws4
+
+for_window [class="Spotify"] move container to workspace $ws7
+assign [class="Discord"] $ws8
+assign [class="Telegram"] $ws9
+
+assign [class="vlc"] $ws10
+# assign [class="gimp"] $ws10
+assign [class="arandr"] $ws10
+# assign [class="blueman-manager"] $ws10
+# assign [class="pavucontrol"] $ws10
 
 # AutoExec
 exec_always setxkbmap pl
 exec_always --no-startup-id feh --bg-fill $HOME/wallpaper*.*
 exec_always --no-startup-id picom
+
+bindsym $mod+Shift+space floating toggle
+bindsym $mod+space focus mode_toggle

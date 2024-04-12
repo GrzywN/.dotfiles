@@ -1,1 +1,4 @@
+PHPUnit code coverage
+com.dmarcotte.handlebars
+com.intellij.lang.jsgraphql
 com.laravel_idea.plugin

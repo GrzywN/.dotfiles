@@ -1,0 +1,648 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ltbackend" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mail/mails/user-restore-password.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mail/mails/register-manager.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/modules/auth/auth.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="n#!!block;n#register#0;n#AuthService#0" />
+                <element signature="n#!!block;n#login#0;n#AuthService#0" />
+                <element signature="n#!!block;n#loginWithoutPassword#0;n#AuthService#0" />
+                <element signature="n#!!block;n#getAccessToken#0;n#AuthService#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Database Element">
+      <summary usageCount="2" lastUsed="1698676119070" />
+    </fileType>
+    <fileType name="Handlebars/Mustache">
+      <summary usageCount="11" lastUsed="1703000414880" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1698675476503" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="3" lastUsed="1702985143318" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="3" lastUsed="1698676351206" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="69" lastUsed="1703147992451" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="33" lastUsed="1703000414511" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>manager</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/modules/auth</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ef47ef52-8693-446b-8969-3d985d4cb39f/console.sql" />
+      <option value="$PROJECT_DIR$/src/mail/templates/layout.hbs" />
+      <option value="$PROJECT_DIR$/src/mail/mail.module.ts" />
+      <option value="$PROJECT_DIR$/src/database/seeders/adminSeeder.ts" />
+      <option value="$PROJECT_DIR$/src/mail/templates/reports.hbs" />
+      <option value="$PROJECT_DIR$/src/mail/templates/confirmation.hbs" />
+      <option value="$PROJECT_DIR$/src/mail/mails/reports.service.ts" />
+      <option value="$PROJECT_DIR$/src/mail/mails/user-restore-password.service.ts" />
+      <option value="$PROJECT_DIR$/src/mail/mails/user-confirmation.service.ts" />
+      <option value="$PROJECT_DIR$/src/modules/auth/dto/registerManager.dto.ts" />
+      <option value="$PROJECT_DIR$/src/mail/templates/partials/register-manager.hbs" />
+      <option value="$PROJECT_DIR$/src/mail/templates/restore.hbs" />
+      <option value="$PROJECT_DIR$/src/schemas/user.schema.ts" />
+      <option value="$PROJECT_DIR$/src/modules/auth/dto/finishManagerRegistration.dto.ts" />
+      <option value="$PROJECT_DIR$/src/modules/auth/constants.ts" />
+      <option value="$PROJECT_DIR$/src/modules/auth/auth.controller.ts" />
+      <option value="$PROJECT_DIR$/src/modules/user/stubs/user.stub.ts" />
+      <option value="$PROJECT_DIR$/src/modules/auth/auth.module.ts" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/src/mail/mails/register-manager.service.ts" />
+      <option value="$PROJECT_DIR$/src/modules/auth/auth.service.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Handlebars">
+      <summary usageCount="11" lastUsage="1703000414880" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1698675476538" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="3" lastUsage="1698676351206" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1702985143318" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="69" lastUsage="1703147992451" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="33" lastUsage="1703000414512" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ltbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ltbackend}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ltbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ltbackend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ltbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ltbackend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/mail}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ltbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ltbackend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/mail}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/mail/mails}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ltbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ltbackend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/mail}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/mail/templates}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ltbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ltbackend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/modules}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ltbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ltbackend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ltbackend/src/modules/auth}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/docker" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28554000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Robo tasks" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19192708" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Welcome to GitHub Copilot" order="3" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.040132202" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" x="39" y="719" width="1854" height="349" id="Terminal" order="3" visible="true" weight="0.27903682" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.33002836" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32994792" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <unified_weights bottom="0.27903682" left="0.19192708" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Database</value>
+      <value>Notifications</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="102" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1698675868715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="547" y="102" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1698675868715" />
+    <state x="735" y="198" width="428" height="476" key="FileChooserDialogImpl" timestamp="1703148038754">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="735" y="198" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1703148038754" />
+    <state width="1297" height="317" key="GridCell.Tab.0.bottom" timestamp="1698676455384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1698676455384" />
+    <state width="1297" height="317" key="GridCell.Tab.0.center" timestamp="1698676455384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="317" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1698676455384" />
+    <state width="1297" height="317" key="GridCell.Tab.0.left" timestamp="1698676455381">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="317" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1698676455381" />
+    <state width="1297" height="317" key="GridCell.Tab.0.right" timestamp="1698676455384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="317" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1698676455384" />
+    <state x="1153" y="196" width="662" height="516" key="find.popup" timestamp="1702976274028">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1153" y="196" width="662" height="516" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1702976274028" />
+    <state x="622" y="236" key="run.anything.popup" timestamp="1698751951353">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="236" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1698751951353" />
+    <state x="623" y="214" width="719" height="697" key="search.everywhere.popup" timestamp="1702985576205">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="719" height="697" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1702985576205" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f011a6a9-7bee-4fd9-8f69-b7fe7e0f0d0b/console.sql" />
+    <entry file="das://ef47ef52-8693-446b-8969-3d985d4cb39f/schema/nest/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1698676118767" presentationMode="TABLE" projectRestartId="4e8fe74e-ff85-433e-a456-cd1fe9b650ec" pageSize="20">
+          <filtering>
+            <filter text="{}" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ef47ef52-8693-446b-8969-3d985d4cb39f/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ef47ef52-8693-446b-8969-3d985d4cb39f/schema/nest/table/tracks">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1698676071820" presentationMode="TABLE" projectRestartId="4e8fe74e-ff85-433e-a456-cd1fe9b650ec" pageSize="20">
+          <filtering>
+            <filter text="{}" />
+          </filtering>
+          <sorting>
+            <sort text="{map: -1}" />
+            <sort text="{map: 1}" />
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@nestjs-modules/mailer/dist/mailer.service.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/seeders/adminSeeder.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/mail.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/reports.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/casl/casl-ability.factory/casl-ability.factory.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/mails/reports.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/entities/login.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@nestjs/common/utils/random-string-generator.util.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/dto/login.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/confirmation.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/partials/layout.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="272" column="9" selection-start-line="272" selection-start-column="9" selection-end-line="272" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/mails/user-confirmation.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/dto/registerManager.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/dto/authRestorePassword.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/user/__mocks__/user.model.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/user/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/dto/register.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongoose/types/models.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/mail.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/dto/resetPassword.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/register-manager.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/auth.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="e#0#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/dto/finishManagerRegistration.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/auth.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.production">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/user/stubs/user.stub.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/constants.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schemas/user.schema.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1352">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/mails/user-restore-password.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/restore.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mail/mails/register-manager.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="n#!!block;n#register#0;n#AuthService#0" />
+            <element signature="n#!!block;n#login#0;n#AuthService#0" />
+            <element signature="n#!!block;n#loginWithoutPassword#0;n#AuthService#0" />
+            <element signature="n#!!block;n#getAccessToken#0;n#AuthService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

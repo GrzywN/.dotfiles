@@ -1,0 +1,965 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="apps" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MongoDB: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MongoDB: DSN" type="27e358d6:DataSourceNode" />
+        <item name="nest: schema" type="f0f64354:MongoImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MongoDB: DSN" type="27e358d6:DataSourceNode" />
+        <item name="nest: schema" type="f0f64354:MongoImplModel$Schema" />
+        <item name="Family of 8 table (host: schema nest)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MongoDB: DSN" type="27e358d6:DataSourceNode" />
+        <item name="nest: schema" type="f0f64354:MongoImplModel$Schema" />
+        <item name="Family of 8 table (host: schema nest)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="routes: table" type="531e99d1:MongoImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MongoDB: DSN" type="27e358d6:DataSourceNode" />
+        <item name="nest: schema" type="f0f64354:MongoImplModel$Schema" />
+        <item name="Family of 8 table (host: schema nest)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="tracks: table" type="531e99d1:MongoImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MongoDB: DSN" type="27e358d6:DataSourceNode" />
+        <item name="nest: schema" type="f0f64354:MongoImplModel$Schema" />
+        <item name="Family of 8 table (host: schema nest)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="users: table" type="531e99d1:MongoImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/test/utils/database/seeders/flow-seeder.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/branches/components/BranchCreate.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#25#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/tracks/TrackList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/TrackerTable.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="e#25#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/mixins/tableManager.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="127" column="2" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/employees/components/Table.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#25#58#0" expanded="true" />
+                <element signature="e#5115#5139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/backend/node_modules/mongodb/src/cmap/connection_pool.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="573" selection-start-line="573" selection-end-line="573" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/utils/use-toast.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Database Element">
+      <summary usageCount="18" lastUsed="1709715400286" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="2" lastUsed="1709127639283" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="10" lastUsed="1709717872095" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="5" lastUsed="1709629947145" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="10" lastUsed="1709547989156" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="1" lastUsed="1709032749331" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="580" lastUsed="1709721068544" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="66" lastUsed="1709720137347" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1708955975003" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="12" lastUsed="1709631380916" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ongoose</find>
+      <find>searchByKeywords</find>
+      <find>Input</find>
+      <find>search</find>
+      <find>Szukaj</find>
+      <find>auth2</find>
+      <find>adminSeeder</find>
+      <find>Dto</find>
+      <find>JwtStra</find>
+      <find>rola si</find>
+      <find>firstName</find>
+      <find>fil</find>
+      <find>find</find>
+      <find>nonExistent</find>
+      <find>console</find>
+      <find>userModel</find>
+      <find>update</find>
+      <find>ReturnType</find>
+      <find>@/schemas/user.schema</find>
+      <find>LocalAuth</find>
+      <find>Przypisany pracownik</find>
+      <find>modelFormat</find>
+      <find>Dystans</find>
+      <find>formatDistance</find>
+      <find>Role.COMPANY_OWNER</find>
+      <find>branches/</find>
+      <find>me</find>
+      <find>Forbidden</find>
+      <find>Filter</find>
+      <find>Lista użytkowników</find>
+      <find>Nie masz uprawnień do podglądu tego użytkownika</find>
+      <find>65e1f12aad53956d3e0b227a</find>
+      <find>CheckpointsList</find>
+      <find>Dodaj trase</find>
+      <find>Menu</find>
+      <find>DataTable</find>
+      <find>useToast</find>
+      <find>ToastService</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/backend/src/schemas</dir>
+      <dir>$PROJECT_DIR$/frontend/src/views/admin/employees</dir>
+      <dir>$PROJECT_DIR$/frontend/src/views/admin/preCheckpoints</dir>
+      <dir>$PROJECT_DIR$/backend/src/modules/route</dir>
+      <dir>$PROJECT_DIR$/backend/src/modules/auth/strategies/jwt</dir>
+      <dir>$PROJECT_DIR$/backend/src/shared/types</dir>
+      <dir>$PROJECT_DIR$/backend/test/auth</dir>
+      <dir>$PROJECT_DIR$/backend/src/database/seeders</dir>
+      <dir>$PROJECT_DIR$/backend/src/modules/trackers</dir>
+      <dir>$PROJECT_DIR$/frontend/src/views/admin/tracks</dir>
+      <dir>$PROJECT_DIR$/backend/test/users</dir>
+      <dir>$PROJECT_DIR$/backend/src/modules/auth</dir>
+      <dir>$PROJECT_DIR$/backend/src/modules/user</dir>
+      <dir>$PROJECT_DIR$/frontend/src/views/admin/routes/components/forms</dir>
+      <dir>$PROJECT_DIR$/frontend/src/layout</dir>
+      <dir>$PROJECT_DIR$/frontend/src/views/admin/routes</dir>
+      <dir>$PROJECT_DIR$/backend/test/utils/database/seeders</dir>
+      <dir>$PROJECT_DIR$/frontend/src/views/admin/branches/components</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/backend/test/tasks/clean-trackers.e2e-spec.ts" />
+      <option value="$PROJECT_DIR$/backend/src/shared/utils/haversine-distance.util.ts" />
+      <option value="$PROJECT_DIR$/backend/src/shared/utils/haversine-distance.util.spec.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/trackers/trackers.service.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/utils/formatters.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/user/schemas/user.schema.ts" />
+      <option value="$PROJECT_DIR$/backend/test/utils/database/seeders/user.seeder.ts" />
+      <option value="$PROJECT_DIR$/backend/src/enums/role.enum.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/trackers/filters/trackers.filter.ts" />
+      <option value="$PROJECT_DIR$/backend/test/utils/helper.ts" />
+      <option value="$PROJECT_DIR$/backend/src/cast-error/cast-error.filter.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/modules.ts" />
+      <option value="$PROJECT_DIR$/backend/src/shared/cast-error/cast-error.interceptor.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/auth/strategies/jwt/jwt.strategy.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/services/UserService.ts" />
+      <option value="$PROJECT_DIR$/backend/src/casl/casl-ability.factory/casl-ability.factory.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/user/dto/change-user-status.dto.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/employees/TheEmployee.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/components/UserAutocomplete.vue" />
+      <option value="$PROJECT_DIR$/frontend/.env" />
+      <option value="$PROJECT_DIR$/frontend/src/utils/search-address.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/routes/components/forms/CheckpointForm.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/tracks/TheTrack.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/components/MapLegend.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/routes/components/forms/Form.vue" />
+      <option value="$PROJECT_DIR$/backend/src/modules/route/route.controller.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/route/route.module.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/route/route.service.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/routes/Show.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/layout/AppMenu.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/routes/List.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/routes/components/forms/CheckpointsList.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/routes/components/CheckpointMap.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/routes/components/CheckpointsList.vue" />
+      <option value="$PROJECT_DIR$/backend/.env" />
+      <option value="$PROJECT_DIR$/backend/src/env.validation.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/auth/auth.service.ts" />
+      <option value="$PROJECT_DIR$/backend/test/users/change-status.e2e-spec.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/user/user.service.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/services/typing.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/employees/components/UpdateForm.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/employees/List.vue" />
+      <option value="$PROJECT_DIR$/backend/src/modules/user/user.controller.ts" />
+      <option value="$PROJECT_DIR$/backend/src/modules/preCheckpoints/preCheckpoints.controller.ts" />
+      <option value="$PROJECT_DIR$/backend/src/main.ts" />
+      <option value="$PROJECT_DIR$/backend/test/utils/database/seeders/flow-seeder.ts" />
+      <option value="$PROJECT_DIR$/frontend/package.json" />
+      <option value="$PROJECT_DIR$/frontend/src/utils/use-toast.ts" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/branches/components/BranchCreate.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/components/TrackerTable.vue" />
+      <option value="$PROJECT_DIR$/frontend/src/views/admin/employees/components/Table.vue" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="10" lastUsage="1709717872095" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="5" lastUsage="1709629947145" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1709032749331" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="10" lastUsage="1709547989156" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="580" lastUsage="1709721068544" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="66" lastUsage="1709720137347" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="12" lastUsage="1709631380916" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1708955975003" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin/employees}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin/employees}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin/employees/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/trackmark/apps/frontend/src/views/admin/tracks}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="be" userDefinedTabTitle="true" currentWorkingDirectory="$PROJECT_DIR$/backend/docker">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$/frontend">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/frontend">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="200917000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Robo tasks" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16588542" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.33002836" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.46128422" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.276204" />
+      <window_info active="true" anchor="bottom" x="-136" y="729" width="1854" height="218" id="Terminal" order="3" visible="true" weight="0.3338055" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="SonarLint" order="5" weight="0.34513694" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.15286458" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.31015626" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <unified_weights bottom="0.3338055" left="0.16588542" right="0.15286458" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Find</value>
+      <value>SonarLint</value>
+      <value>github.copilotToolWindow</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="333" width="1373" height="287" key="#Project_Settings" timestamp="1709044123997">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="266" y="333" width="1373" height="287" key="#Project_Settings/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709044123997" />
+    <state x="553" y="162" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1709032748038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="162" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709032748038" />
+    <state x="766" y="217" width="378" height="558" key="#com.intellij.ide.util.MemberChooser" timestamp="1709045540344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="766" y="217" width="378" height="558" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709045540344" />
+    <state x="689" y="229" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1709134317889">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="249" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1708944225062" />
+    <state x="689" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709134317889" />
+    <state width="297" height="537" key="HiddenNamespacesPopup" timestamp="1709032813193">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="297" height="537" key="HiddenNamespacesPopup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709032813193" />
+    <state x="1422" y="935" width="481" height="135" key="ProcessPopupWindow" timestamp="1709640266518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1422" y="935" width="481" height="135" key="ProcessPopupWindow/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709640266518" />
+    <state x="551" y="140" width="804" height="672" key="REMOTE_DEVELOPMENT_CONNECTION" timestamp="1709031705129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="140" width="804" height="672" key="REMOTE_DEVELOPMENT_CONNECTION/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709031705129" />
+    <state x="439" y="55" key="SettingsEditor" timestamp="1709196155053">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="439" y="55" key="SettingsEditor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709196155053" />
+    <state x="439" y="55" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709108019938" />
+    <state x="1201" y="564" width="662" height="516" key="find.popup" timestamp="1709717623550">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1183" y="496" width="662" height="516" key="find.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709627643801" />
+    <state x="1167" y="336" width="662" height="516" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1709567124305" />
+    <state x="1201" y="564" width="662" height="516" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709717623550" />
+    <state x="622" y="236" width="672" height="699" key="run.anything.popup" timestamp="1709567124301">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="236" width="672" height="699" key="run.anything.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709032150014" />
+    <state x="622" y="236" width="672" height="699" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1709567124301" />
+    <state x="622" y="236" width="672" height="699" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709126617988" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup" timestamp="1709720090894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709639868375" />
+    <state x="623" y="214" width="719" height="698" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1709567339790" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1709720090893" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/routes/Create.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/routes/components/forms/Form.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+          <folding>
+            <element signature="e#25#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/route/route.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/user/schemas/user.schema.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/route/dto/create-route.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/route/entities/route.schemas.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/UserAutocomplete.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/route/route.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="90" column="54" selection-start-line="90" selection-start-column="54" selection-end-line="90" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/stores/user.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/layout/AppLayout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+            <element signature="e#584#1278#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/route/route.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#0#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/routes/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+          <folding>
+            <element signature="e#1727#1751#0" expanded="true" />
+            <element signature="e#2169#2193#0" expanded="true" />
+            <element signature="e#2417#2441#0" expanded="true" />
+            <element signature="e#2660#2684#0" expanded="true" />
+            <element signature="e#2879#2903#0" expanded="true" />
+            <element signature="e#3173#3197#0" expanded="true" />
+            <element signature="e#5388#5450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/layout/AppMenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/layout/AppSidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/tracks/TheTrack.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
+          <folding>
+            <element signature="e#1269#1302#0" expanded="true" />
+            <element signature="e#3190#3223#0" expanded="true" />
+            <element signature="e#7305#7351#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://46f7f329-c657-446f-b610-1f4388a2d464/schema/nest/table/routes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1709628773881" presentationMode="TABLE" projectRestartId="332480b9-77b9-4a65-8ae4-da4f6ce65a44" pageSize="-1">
+          <filtering>
+            <filter text="{}" />
+          </filtering>
+          <sorting>
+            <sort text="{comment: 1}" />
+            <sort text="" />
+            <sort text="{checkpoints: 1}" />
+            <sort text="{_id: 1}" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/MapLegend.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#189#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/routes/components/CheckpointMap.vue" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/routes/components/CheckpointsList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+          <folding>
+            <element signature="e#25#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/routes/components/forms/CheckpointsList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/node_modules/esbuild/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="1657" column="17" selection-start-line="1657" selection-start-column="17" selection-end-line="1657" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/test/users/change-status.e2e-spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1469">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="160" column="2" selection-start-line="160" selection-start-column="2" selection-end-line="160" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/env.validation.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/auth/strategies/local/local.strategy.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/services/typing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/branches/BranchList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="575" lean-forward="true" selection-start-line="575" selection-end-line="575" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/shared/cast-error/cast-error.interceptor.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/employees/components/UpdateForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/employees/TheEmployee.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3620">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/user/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5880">
+          <caret line="318" column="4" selection-start-line="318" selection-start-column="4" selection-end-line="318" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/orders/orders.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/user/user.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/modules/preCheckpoints/preCheckpoints.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/routes/Show.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://46f7f329-c657-446f-b610-1f4388a2d464/schema/nest/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1709715397702" presentationMode="TABLE" projectRestartId="725273f3-bfb9-4953-8d7b-96eceb704082" pageSize="20">
+          <filtering>
+            <filter text="{}" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/test/utils/database/seeders/flow-seeder.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/node_modules/primevue/toast/Toast.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/utils/use-toast.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/branches/components/BranchCreate.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#25#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/employees/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/tracks/TrackList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/TrackerTable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#25#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/mixins/tableManager.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="127" column="2" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/views/admin/employees/components/Table.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#25#58#0" expanded="true" />
+            <element signature="e#5115#5139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/node_modules/mongodb/src/cmap/connection_pool.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="573" selection-start-line="573" selection-end-line="573" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

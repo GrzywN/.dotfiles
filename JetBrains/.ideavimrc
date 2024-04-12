@@ -75,6 +75,12 @@ nnoremap <leader>x :!chmod +x %<CR>
 nnoremap <leader>ff :action GotoFile<CR>:action com.intellij.openapi.wm.impl.FocusActiveComponentAction<CR>
 nnoremap <Leader>fg :action ShowFindUsages<CR>
 
+" Zamień snake_case na camelCase
+nnoremap <leader>sc :%s/\(\%([a-z]\+\)_\)\(\l\)/\=submatch(1) . substitute(submatch(2), '\(\l\)', '\u\1', '')/g<CR>
+
+" Zamień camelCase na snake_case
+nnoremap <leader>cs :%s/\(\l\)\(\u\)/\=submatch(1) . '_' . tolower(submatch(2))/g<CR>
+
 " --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
 Plug 'machakann/vim-highlightedyank'
 Plug 'tpope/vim-commentary'

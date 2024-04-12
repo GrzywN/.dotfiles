@@ -1,0 +1,402 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ai-translate-service" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/translate/translate.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/translate/translate.controller.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/translate/translate.controller.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/test/translate.e2e-spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1701786358891" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="3" lastUsed="1701856131354" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="5" lastUsed="1702026705475" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="1" lastUsed="1701785732136" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="3" lastUsed="1701783449804" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="4" lastUsed="1702026704105" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="1" lastUsed="1701783524934" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="44" lastUsed="1702028551874" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="3" lastUsed="1702028988720" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'EN'</find>
+      <find>'EN'``</find>
+      <find>console.warn</find>
+      <find>from</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/translate</dir>
+      <dir>$PROJECT_DIR$/src/translate/dto</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.prettierrc" />
+      <option value="$PROJECT_DIR$/README2.md" />
+      <option value="$PROJECT_DIR$/.husky/pre-push" />
+      <option value="$PROJECT_DIR$/src/translate/translate.module.ts" />
+      <option value="$PROJECT_DIR$/.env.template" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/app.module.ts" />
+      <option value="$PROJECT_DIR$/src/translate/translate.service.spec.ts" />
+      <option value="$PROJECT_DIR$/src/main.ts" />
+      <option value="$PROJECT_DIR$/src/translate/dto/translate.dto.spec.ts" />
+      <option value="$PROJECT_DIR$/src/translate/translate.controller.ts" />
+      <option value="$PROJECT_DIR$/test/app.e2e-spec.ts" />
+      <option value="$PROJECT_DIR$/src/translate/translate.controller.spec.ts" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/src/auth/auth.guard.ts" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/src/translate/translate.service.ts" />
+      <option value="$PROJECT_DIR$/src/translate/dto/translate.dto.ts" />
+      <option value="$PROJECT_DIR$/test/translate.e2e-spec.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="3" lastUsage="1701856131354" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="5" lastUsage="1702026705475" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1701785732136" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="3" lastUsage="1701783449804" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1701783524934" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1702026704105" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="44" lastUsage="1702028551874" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="3" lastUsage="1702028988720" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ai-translate-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-translate-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/.husky}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-translate-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-translate-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src/auth}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-translate-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src/translate}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-translate-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src/translate}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/src/translate/dto}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-translate-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/ai-translate-service/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20198000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20703125" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Welcome to GitHub Copilot" order="3" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.27903682" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <unified_weights bottom="0.27903682" left="0.20703125" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1165" y="316" width="662" height="516" key="find.popup" timestamp="1702030195797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1165" y="316" width="662" height="516" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1702030195797" />
+    <state x="623" y="214" width="672" height="698" key="search.everywhere.popup" timestamp="1702029704753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="672" height="698" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1702029704753" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README2.md" />
+    <entry file="file://$PROJECT_DIR$/.husky/pre-push">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/translate/dto/translate.dto.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/translate/translate.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/translate/translate.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/app.e2e-spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app.service.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/translate/dto/translate.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/translate/translate.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/translate/translate.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/translate/translate.controller.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/translate.e2e-spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

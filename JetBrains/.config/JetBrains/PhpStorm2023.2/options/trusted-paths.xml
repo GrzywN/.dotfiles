@@ -2,9 +2,28 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/p/addresfinder" value="true" />
+        <entry key="$USER_HOME$/p/ai-translate-service" value="true" />
+        <entry key="$USER_HOME$/p/crm" value="true" />
         <entry key="$USER_HOME$/p/ltbackend" value="true" />
+        <entry key="$USER_HOME$/p/ltfrontend" value="true" />
+        <entry key="$USER_HOME$/p/mapper" value="true" />
+        <entry key="$USER_HOME$/p/onx/crm-ekoradcy" value="true" />
+        <entry key="$USER_HOME$/p/onx/ecosun" value="true" />
+        <entry key="$USER_HOME$/p/onx/mainservice" value="true" />
+        <entry key="$USER_HOME$/p/onx/mainservice/app" value="true" />
+        <entry key="$USER_HOME$/p/onx/partyappadmin" value="true" />
+        <entry key="$USER_HOME$/p/onx/partyappadmin/app" value="true" />
+        <entry key="$USER_HOME$/p/partyappfrontend" value="true" />
+        <entry key="$USER_HOME$/p/projekt-ozc" value="true" />
+        <entry key="$USER_HOME$/p/roadfinder" value="true" />
+        <entry key="$USER_HOME$/p/roadfinder-frontend" value="true" />
+        <entry key="$USER_HOME$/p/smartholweb" value="true" />
+        <entry key="$USER_HOME$/p/trackmark/apps" value="true" />
+        <entry key="$USER_HOME$/p/translateservice" value="true" />
         <entry key="$USER_HOME$/p/with-docker/partyappadmin" value="true" />
         <entry key="$USER_HOME$/r/borbot" value="true" />
+        <entry key="$USER_HOME$/r/mapper-ts" value="true" />
       </map>
     </option>
   </component>
@@ -12,6 +31,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/p/with-docker" />
+        <option value="$USER_HOME$/p" />
       </list>
     </option>
   </component>

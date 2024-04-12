@@ -15,47 +15,86 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/r/gymrat">
+        <entry key="$USER_HOME$/p/ltapp">
           <value>
-            <RecentProjectMetaInfo frameTitle="gymrat – layout.dart [gymrat]" projectWorkspaceId="2WirODqojGQ1LIpdnTUldbAD41a">
-              <option name="activationTimestamp" value="1697440350879" />
+            <RecentProjectMetaInfo frameTitle="ltapp – dashboard.dart" projectWorkspaceId="2XMSDHcv4XIo1qumKtVimIY1XpH">
+              <option name="activationTimestamp" value="1698762904129" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-223.8836.35.2231.10671973" />
-              <option name="buildTimestamp" value="1692250042782" />
-              <frame x="766" y="123" width="1924" height="1081" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020677485" />
+              <frame x="-2" y="-20" width="1924" height="1081" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1697440354246" />
+              <option name="projectOpenTimestamp" value="1698762913704" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/p/partyapp">
           <value>
-            <RecentProjectMetaInfo frameTitle="partyapp – main.dart" projectWorkspaceId="2UcCqZzCZC77KcKZv7X1u7rNPcH">
-              <option name="activationTimestamp" value="1698235026970" />
+            <RecentProjectMetaInfo frameTitle="partyapp – event_details_modal.dart" projectWorkspaceId="2WWEzEI43fVgv4zSCqip1fxGbJv">
+              <option name="activationTimestamp" value="1702552297925" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-223.8836.35.2231.10671973" />
-              <option name="buildTimestamp" value="1692250071143" />
-              <frame x="-2" y="-20" width="1924" height="1080" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020621088" />
+              <frame x="-2" y="-20" width="1924" height="1081" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1698234754805" />
+              <option name="projectOpenTimestamp" value="1702552277045" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/p/ltapp">
+        <entry key="$USER_HOME$/p/braunapp2">
           <value>
-            <RecentProjectMetaInfo frameTitle="ltapp – tasks_screen.dart" opened="true" projectWorkspaceId="2WFEpjeD9j80AymYll1U4aBlzAO">
-              <option name="activationTimestamp" value="1698578961729" />
+            <RecentProjectMetaInfo frameTitle="braunapp2 – pubspec.yaml" projectWorkspaceId="2ZWynkrr4lvZNHJhHXfHKDlepFK">
+              <option name="activationTimestamp" value="1703348944181" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-223.8836.35.2231.10671973" />
-              <option name="buildTimestamp" value="1692250021607" />
-              <frame x="766" y="123" width="1924" height="1081" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020678500" />
+              <frame x="-2" y="-20" width="1924" height="1081" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1698578949573" />
+              <option name="projectOpenTimestamp" value="1703348950816" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/r/gymrat">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gymrat – README.md" projectWorkspaceId="2Zx1ZVIazeGNs9E7hnjzF20N9OS">
+              <option name="activationTimestamp" value="1709373349203" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020664379" />
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709373295014" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/r/karbin_calories">
+          <value>
+            <RecentProjectMetaInfo frameTitle="karbin_calories – meal_camera_view.dart" projectWorkspaceId="2d7yKwZK189cmmajWk3qE6kHm80">
+              <option name="activationTimestamp" value="1711704530823" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020670153" />
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1711704487740" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/smartholapp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="smartholapp – restore_password_cubit_test.dart" opened="true" projectWorkspaceId="2eMBOF81qA65IaosaSS8nuH2zca">
+              <option name="activationTimestamp" value="1711728129763" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020673624" />
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1711708331460" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/p/ltapp" />
+    <option name="lastOpenedProject" value="$USER_HOME$/p/smartholapp" />
   </component>
 </application>

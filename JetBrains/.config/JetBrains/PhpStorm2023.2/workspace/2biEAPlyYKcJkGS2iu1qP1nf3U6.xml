@@ -1,0 +1,1251 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="crm" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-225-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-225-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ekocrm.onxwork.pl" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-331-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-331-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ekocrm.onxwork.pl" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-216-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-216-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ekocrm.onxwork.pl" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-221-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-221-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ekocrm.onxwork.pl" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-223-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EKO-223-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ekocrm.onxwork.pl" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="crm: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="crm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 64 table (host: schema crm)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="crm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 64 table (host: schema crm)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="calculations: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="crm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 64 table (host: schema crm)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="calculations: table" type="285a2a93:MysqlImplModel$Table" />
+        <item name="Family of 13 column (host: table calculations)" type="d958bea4:BaseModel$BasePositioningNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.husky/pre-push">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/CalculatedBundles.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+              <folding>
+                <element signature="e#25#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/app/Services/UserService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="82" column="43" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="2" lastUsed="1707150089534" />
+    </fileType>
+    <fileType name="Blade">
+      <summary usageCount="5" lastUsed="1708016073353" />
+    </fileType>
+    <fileType name="CSS">
+      <summary usageCount="2" lastUsed="1710846494253" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="25" lastUsed="1710924239345" />
+    </fileType>
+    <fileType name="EditorConfig">
+      <summary usageCount="1" lastUsed="1710410161223" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="6" lastUsed="1710175779339" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="3" lastUsed="1710846505628" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="123" lastUsed="1710850345828" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="12" lastUsed="1710752350198" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="945" lastUsed="1711378696906" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="15" lastUsed="1708938767912" />
+    </fileType>
+    <fileType name="RNG Compact">
+      <summary usageCount="3" lastUsed="1708010328120" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="8" lastUsed="1710846487241" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="3" lastUsed="1710171587371" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="16" lastUsed="1711378528239" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="15" lastUsed="1711110664276" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="521" lastUsed="1711378532317" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1711374318749" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="9" lastUsed="1708433581010" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="8" lastUsed="1709910207949" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toast</find>
+      <find>-&gt;branches</find>
+      <find>computed</find>
+      <find>attachBranches</find>
+      <find>Przypisanie do zestawów firmy</find>
+      <find>Czy ustawi</find>
+      <find>permissions</find>
+      <find>getUserPer</find>
+      <find>entityName: 'users</find>
+      <find>handle</find>
+      <find>function handle</find>
+      <find>$can</find>
+      <find>HasOneThrough</find>
+      <find>role_ids</find>
+      <find>ShowLayout</find>
+      <find>Message</find>
+      <find>e</find>
+      <find>notes</find>
+      <find>Gate::</find>
+      <find>AppDialogModal</find>
+      <find>useredit</find>
+      <find>Textare</find>
+      <find>useForm</find>
+      <find>dashboard</find>
+      <find>search</find>
+      <find>Scale</find>
+      <find>changeTheme</find>
+      <find>'cursor-pointer hover:bg-primary-100 transition-colors'</find>
+      <find>hover:</find>
+      <find>Installation</find>
+      <find>surface</find>
+      <find>surface-section</find>
+      <find>Logout</find>
+      <find>auth.p</find>
+      <find>app.scss</find>
+      <find>layout:</find>
+      <find>nullresource</find>
+      <find>additional_notes</find>
+      <find>Product::factory</find>
+      <find>Informacje dotyczące pro</find>
+      <find>Informacje dotyczące materiału</find>
+      <find>Informacje dotyczące produ</find>
+      <find>quill</find>
+      <find>Roczne zużycie</find>
+      <find>usePage(</find>
+      <find>availability</find>
+      <find>offer availability</find>
+      <find>type</find>
+      <find>Wiadomośc</find>
+      <find>CoBuffer::factory</find>
+      <find>COBuffer::factory</find>
+      <find>include</find>
+      <find>Województwo</find>
+      <find>voivodeship</find>
+      <find>Application locale</find>
+      <find>required|enum</find>
+      <find>Seekl</find>
+      <find>SeeklyCon</find>
+      <find>enviro</find>
+      <find>force</find>
+      <find>HTTPS</find>
+      <find>Pvgis</find>
+      <find>address.search-address</find>
+      <find>get(</find>
+      <find>Autocomplete</find>
+      <find>pi-search</find>
+      <find>InputMask</find>
+      <find>dd()</find>
+      <find>pluckUnique</find>
+      <find>handleShow</find>
+      <find>User/Index</find>
+      <find>User/List</find>
+      <find>netto_price</find>
+      <find>options()</find>
+      <find>Dropdown</find>
+      <find>InsulationOfferSeeder</find>
+      <find>Tooltip</find>
+      <find>EvaluationStarter</find>
+      <find>abort</find>
+      <find>DataView</find>
+      <find>ShowField</find>
+      <find>Informacje o kliencie</find>
+      <find>insert</find>
+      <find>DB::</find>
+      <find>collect(</find>
+      <find>console.log</find>
+      <find>console</find>
+      <find>console.</find>
+      <find>dump</find>
+      <find>FloatLabel</find>
+      <find>isAdmin</find>
+      <find>role</find>
+      <find>hasRole</find>
+      <find />
+      <find>defineModel</find>
+      <find>usePage</find>
+      <find>Wybierz komplet zestaw</find>
+      <find>BundleCard</find>
+      <find>CalculatedBun</find>
+      <find>Grid</find>
+      <find>&lt;Grid</find>
+      <find>show-logo</find>
+      <find>pre-push</find>
+      <find>toastError</find>
+      <find>products</find>
+      <find>'products</find>
+      <find>Ustawienia kalkulacji</find>
+      <find>InputNumber</find>
+      <find>@change-con</find>
+      <find>price_netto</find>
+      <find>Money</find>
+      <find>props.calculation</find>
+      <find>grantDiscount</find>
+      <find>todo</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/tests/Unit/Models</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Offer/Partials</dir>
+      <dir>$PROJECT_DIR$/app/routes</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/assets</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Thread</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/User</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Company/Partials</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Notification</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/DWHCylinder</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/HeatPump</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Catalog</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Dashboard</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Company</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Product</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Addition</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Inverter</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/PhotovoltaicPanel</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Installation</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Setting</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/HeatPumpAddition</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/InstallationTeam</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Insulation</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Material</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/layout</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Auth</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Components/Show</dir>
+      <dir>$PROJECT_DIR$/app/database/factories</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Offer/Partials/insulation</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Composables</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/COBuffer</dir>
+      <dir>$PROJECT_DIR$/app/app/Services/Traits</dir>
+      <dir>$PROJECT_DIR$/app/tests/Unit/Http/Integrations/Seekly/Resources</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/User/Partials</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Customer</dir>
+      <dir>$PROJECT_DIR$/app/app/Http/Integrations/Seekly/Resources</dir>
+      <dir>$PROJECT_DIR$/app/app/Transformers</dir>
+      <dir>$PROJECT_DIR$/app/app/Models</dir>
+      <dir>$PROJECT_DIR$/app/database/seeders</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Branch</dir>
+      <dir>$PROJECT_DIR$/app/app/Exceptions</dir>
+      <dir>$PROJECT_DIR$/app/tests/Feature/Api</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Offer</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Offer/Partials/Index</dir>
+      <dir>$PROJECT_DIR$/app/app/Http/Controllers</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/InsulationEstimation/Steps</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials</dir>
+      <dir>$PROJECT_DIR$/app/database/migrations</dir>
+      <dir>$PROJECT_DIR$/app/app/Services</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Calculation</dir>
+      <dir>$PROJECT_DIR$/app/app/Http/Requests</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/tests/Feature/Api/HeatPumpApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Controllers/HeatPumpController.php" />
+      <option value="$PROJECT_DIR$/app/database/factories/CustomerFactory.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Api/CustomerApiTest.php" />
+      <option value="$PROJECT_DIR$/app/resources/js/assets/styles.scss" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/Index/GridFilterField.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Composables/useTheme.js" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Offer/Partials/Index/GridLayout.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Offer/Partials/Index/GridFilters.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Composables/useTable.js" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/HeatPump/Edit.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/Show/ShowField.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/Grid.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/TileGrid.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/CardGrid.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/GridLayout.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Offer/Index.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/InsulationEstimation/Steps/InsulationDataStep.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/InsulationEstimation/utils/types.d.ts" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/InsulationEstimation/Partials/ExcludeSurfaceDialog.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/InsulationEstimation/Partials/AddWallDialog.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/InsulationEstimation/Steps/DrawDataStep.vue" />
+      <option value="$PROJECT_DIR$/app/tailwind.config.js" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/ButtonTopbar.vue" />
+      <option value="$PROJECT_DIR$/app/routes/web.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Controllers/ProductController.php" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Offer/Partials/Index/GridCard.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/CalculationSettings.vue" />
+      <option value="$PROJECT_DIR$/app/database/migrations/2024_03_19_143634_add_profit_margin_to_calculations.php" />
+      <option value="$PROJECT_DIR$/app/database/migrations/2024_03_19_144653_add_profit_margin_to_calculations.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Requests/PatchCalculationUpdateRequest.php" />
+      <option value="$PROJECT_DIR$/app/app/Models/Calculation.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Controllers/CalculationController.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/TransformKitTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/GenerateCalculationService.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/CalculationService.php" />
+      <option value="$PROJECT_DIR$/app/app/Supports/PvCalculations/TransformKit.php" />
+      <option value="$PROJECT_DIR$/app/app/Transformers/CalculationListTransformer.php" />
+      <option value="$PROJECT_DIR$/app/app/Transformers/CalculationShowTransofrmer.php" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Customer/Partials/CalculationsList.vue" />
+      <option value="$PROJECT_DIR$/app/tests/Unit/Models/CalculationTest.php" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Calculation/Index.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/CalculatedBundles.vue" />
+      <option value="$PROJECT_DIR$/app/app/Models/Customer.php" />
+      <option value="$PROJECT_DIR$/app/app/Models/Kit.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/SearchService.php" />
+      <option value="$PROJECT_DIR$/app/resources/js/Composables/useAutocomplete.ts" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Api/KitApiTest.php" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/BundleCard.vue" />
+      <option value="$PROJECT_DIR$/app/phpunit.xml" />
+      <option value="$PROJECT_DIR$/.husky/pre-push" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Blade">
+      <summary usageCount="5" lastUsage="1708016073353" />
+    </language>
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1710846494253" />
+    </language>
+    <language id="EditorConfig">
+      <summary usageCount="1" lastUsage="1710410161227" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="6" lastUsage="1710175779339" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="3" lastUsage="1710846505628" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="123" lastUsage="1710850345828" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="12" lastUsage="1710752350199" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="945" lastUsage="1711378696906" />
+    </language>
+    <language id="RELAX-NG">
+      <summary usageCount="3" lastUsage="1708010328120" />
+    </language>
+    <language id="SCSS">
+      <summary usageCount="8" lastUsage="1710846487241" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="3" lastUsage="1710171587372" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="16" lastUsage="1711378528252" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="15" lastUsage="1708938767912" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="15" lastUsage="1711110664276" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="521" lastUsage="1711378532317" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1711374318749" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="8" lastUsage="1709910207949" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="9" lastUsage="1708433581010" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/.husky}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages/Calculation}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages/Calculation}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages/Calculation/Partials}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app/resources/js/Pages/Calculator}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$/app" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/app" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/app" />
+      <TerminalTabState tabName="Local (4)" currentWorkingDirectory="$PROJECT_DIR$/app">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="3" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="518522000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18359375" />
+      <window_info id="Commit" order="1" weight="0.18359375" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" weight="0.34041548" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.33002836" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.23087819" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.43389988" />
+      <window_info anchor="bottom" id="Services" order="3" weight="0.43389988" />
+      <window_info anchor="bottom" id="SonarLint" order="4" weight="0.34041548" />
+      <window_info active="true" anchor="bottom" x="17" y="367" width="1854" height="139" id="Terminal" order="5" visible="true" weight="0.2733711" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.42890626" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.23984376" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.42890626" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.42890626" />
+      <unified_weights bottom="0.2733711" left="0.18359375" right="0.23984376" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>SonarLint</value>
+      <value>TODO</value>
+      <value>Database</value>
+      <value>Commit</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+      <value>github.copilotToolWindow</value>
+      <value>GitHub Copilot Chat</value>
+      <value>Notifications</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="610" y="202" width="690" height="588" key="#Notifications" timestamp="1706776688482">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="610" y="202" width="690" height="588" key="#Notifications/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1706776688482" />
+    <state x="553" y="162" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1706704203381">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="162" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1706704203381" />
+    <state x="770" y="305" width="356" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1708616237138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="770" y="305" width="356" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1708616237138" />
+    <state x="689" y="229" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1708433732225">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="229" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1708433732225" />
+    <state x="691" y="258" width="528" height="476" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1708613723138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="258" width="528" height="476" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1708613723138" />
+    <state x="732" y="194" width="428" height="476" key="FileChooserDialogImpl" timestamp="1708942048683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="732" y="194" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1708942048683" />
+    <state x="736" y="234" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1707213191826" />
+    <state x="695" y="176" width="512" height="560" key="NewPhpClassDialog" timestamp="1707827184378">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="176" width="512" height="560" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1707827184378" />
+    <state x="441" y="75" key="SettingsEditor" timestamp="1710859360727">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="441" y="75" key="SettingsEditor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710859360727" />
+    <state x="443" y="95" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710336841648" />
+    <state x="720" y="307" width="469" height="374" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1706782186246">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="307" width="469" height="374" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1706782186246" />
+    <state x="1419" y="-20" width="503" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1710769820265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1419" y="-20" width="503" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710769820265" />
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1706710653631" />
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1706710653631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1706710653631" />
+    <state x="357" y="225" width="662" height="383" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1708618721416">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="357" y="225" width="662" height="383" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1708618721416" />
+    <state x="837" y="564" width="662" height="516" key="find.popup" timestamp="1711110923123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="979" y="524" width="699" height="556" key="find.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710859906844" />
+    <state x="837" y="564" width="662" height="516" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1711110923123" />
+    <state x="827" y="564" width="662" height="516" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1707991214382" />
+    <state x="857" y="564" width="662" height="516" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710930557422" />
+    <state x="2829" y="536" width="662" height="544" key="find.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1708072358846" />
+    <state x="622" y="236" key="run.anything.popup" timestamp="1708510398076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="236" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1708510398076" />
+    <state x="622" y="236" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1706700802095" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup" timestamp="1711378784998">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711378784998" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1711111416389" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1709825390970" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710933946218" />
+    <state x="2543" y="214" width="806" height="698" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1708071986456" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Composables/useToastHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tailwind.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vite.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="641" column="89" selection-start-line="641" selection-start-column="89" selection-end-line="641" selection-end-column="89" />
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Offer/Partials/Index/GridCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#25#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Controllers/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="e#40#82#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/ButtonTopbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#25#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Addition/Edit.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Api/CalculationApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#413#1630#1#PHP" />
+            <element signature="e#1809#3872#1#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Unit/Class/CalculationServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2024_03_19_143634_add_profit_margin_to_calculations.php" />
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2024_02_28_110124_add_company_id_to_heat_pump_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/CleanAirCalculation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2024_02_21_120447_add_customer_id_to_threads_table.php" />
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2024_02_06_083357_create_calculations_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2024_03_07_135728_create_agreement_clearance_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2024_03_08_102005_create_clearance_prices_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Requests/PatchCalculationUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/Calculation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#30#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Facades/VatCalculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2024_03_19_144653_add_profit_margin_to_calculations.php" />
+    <entry file="das://0ddb9edc-f9c5-4dd0-b5b6-61aefca38ca9/schema/crm/table/calculations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1710924236908" presentationMode="TABLE" projectRestartId="1b36a4b9-d9b7-411f-9102-042b5197ae31" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Controllers/CalculationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/CalculationService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="350" selection-start-line="350" selection-end-line="350" />
+          <folding>
+            <element signature="e#32#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/GenerateCalculationService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="90" column="10" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+          <folding>
+            <element signature="e#32#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/TransformKitTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#152#923#1#PHP" />
+            <element signature="e#276#474#0#PHP" />
+            <element signature="e#485#575#0#PHP" />
+            <element signature="e#485#614#0#PHP" />
+            <element signature="e#485#659#0#PHP" />
+            <element signature="e#485#697#0#PHP" />
+            <element signature="e#485#752#0#PHP" />
+            <element signature="e#485#796#0#PHP" />
+            <element signature="e#485#851#0#PHP" />
+            <element signature="e#485#895#0#PHP" />
+            <element signature="e#485#916#0#PHP" />
+            <element signature="e#1006#2275#1#PHP" />
+            <element signature="e#1103#1198#0#PHP" />
+            <element signature="e#1144#1197#1#PHP" />
+            <element signature="e#1217#1307#0#PHP" />
+            <element signature="e#1253#1306#1#PHP" />
+            <element signature="e#1334#1420#0#PHP" />
+            <element signature="e#1378#1419#1#PHP" />
+            <element signature="e#1431#1531#0#PHP" />
+            <element signature="e#1480#1530#0#PHP" />
+            <element signature="e#1552#1749#0#PHP" />
+            <element signature="e#1560#1748#1#PHP" />
+            <element signature="e#1574#1737#1#PHP" />
+            <element signature="e#1773#1960#0#PHP" />
+            <element signature="e#1773#1981#0#PHP" />
+            <element signature="e#1992#2120#0#PHP" />
+            <element signature="e#1992#2175#0#PHP" />
+            <element signature="e#1992#2213#0#PHP" />
+            <element signature="e#1992#2268#0#PHP" />
+            <element signature="e#2428#2523#0#PHP" />
+            <element signature="e#2469#2522#1#PHP" />
+            <element signature="e#2542#2632#0#PHP" />
+            <element signature="e#2578#2631#1#PHP" />
+            <element signature="e#2713#2813#0#PHP" />
+            <element signature="e#2762#2812#0#PHP" />
+            <element signature="e#2856#3019#1#PHP" />
+            <element signature="e#3062#3249#0#PHP" />
+            <element signature="e#3062#3270#0#PHP" />
+            <element signature="e#3310#3403#0#PHP" />
+            <element signature="e#3310#3440#0#PHP" />
+            <element signature="e#3310#4214#0#PHP" />
+            <element signature="e#3487#4213#1#PHP" />
+            <element signature="e#3819#3925#1#PHP" />
+            <element signature="e#3851#3906#1#PHP" />
+            <element signature="e#3957#4063#1#PHP" />
+            <element signature="e#3989#4044#1#PHP" />
+            <element signature="e#4092#4198#1#PHP" />
+            <element signature="e#4124#4179#1#PHP" />
+            <element signature="e#4335#5615#1#PHP" />
+            <element signature="e#4426#4516#0#PHP" />
+            <element signature="e#4462#4515#1#PHP" />
+            <element signature="e#4597#4697#0#PHP" />
+            <element signature="e#4646#4696#0#PHP" />
+            <element signature="e#4708#4803#0#PHP" />
+            <element signature="e#4749#4802#1#PHP" />
+            <element signature="e#4824#5021#0#PHP" />
+            <element signature="e#4832#5020#1#PHP" />
+            <element signature="e#4846#5009#1#PHP" />
+            <element signature="e#5052#5239#0#PHP" />
+            <element signature="e#5052#5260#0#PHP" />
+            <element signature="e#5300#5393#0#PHP" />
+            <element signature="e#5300#5430#0#PHP" />
+            <element signature="e#5300#5608#0#PHP" />
+            <element signature="e#5477#5607#1#PHP" />
+            <element signature="e#5674#6589#1#PHP" />
+            <element signature="e#5956#6126#0#PHP" />
+            <element signature="e#6003#6116#0#PHP" />
+            <element signature="e#6137#6192#0#PHP" />
+            <element signature="e#6137#6268#0#PHP" />
+            <element signature="e#6205#6267#1#PHP" />
+            <element signature="e#6137#6315#0#PHP" />
+            <element signature="e#6137#6358#0#PHP" />
+            <element signature="e#6137#6396#0#PHP" />
+            <element signature="e#6137#6439#0#PHP" />
+            <element signature="e#6137#6499#0#PHP" />
+            <element signature="e#6137#6515#0#PHP" />
+            <element signature="e#6137#6566#0#PHP" />
+            <element signature="e#6137#6582#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/InsulationEstimation/Steps/DrawDataStep.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1069">
+          <caret line="291" column="21" selection-start-line="291" selection-start-column="21" selection-end-line="291" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/CalculationSettings.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Transformers/CalculationShowTransofrmer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+          <folding>
+            <element signature="e#36#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Customer/Partials/CalculationsList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#15#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Unit/Models/CalculationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/CalculationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Calculation/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Supports/PvCalculations/TransformKit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="e#47#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Calculation/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2780">
+          <caret line="148" column="31" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Transformers/CalculationListTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#36#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Controllers/NotificationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#30#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/Kit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#30#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/SearchService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Supports/VatCalculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Composables/useAutocomplete.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="67" column="88" selection-start-line="67" selection-start-column="88" selection-end-line="67" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Api/CleanAirCalculationApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Transformers/KitTransformer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Api/KitApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#7#26#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Requests/StoreUserRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.husky/pre-push">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/BundleCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="333" column="31" selection-start-line="333" selection-start-column="31" selection-end-line="333" selection-end-column="31" />
+          <folding>
+            <element signature="e#25#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Calculation/Partials/CalculatedBundles.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="e#25#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/UserService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="82" column="43" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

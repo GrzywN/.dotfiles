@@ -1,0 +1,515 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="mainservice" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 7 table (host: schema db)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 7 table (host: schema db)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="get_car_offers_states: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/Services/CarOffersService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1604">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
+              <folding>
+                <element signature="e#32#85#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/Console/Commands/AddOffers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-904">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#40#61#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/BotAdder/Resource/AdderResource.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="e#59#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/Helpers/CantorHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1701973983329" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1701955870471" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="5" lastUsed="1701973600421" />
+    </fileType>
+    <fileType name="GraphQL">
+      <summary usageCount="1" lastUsed="1701974062249" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="2" lastUsed="1701954688410" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="72" lastUsed="1702285048347" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1702284261629" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="4" lastUsed="1702284250639" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/app/Http/Integrations/CarOffers/CarOffersConnector.php" />
+      <option value="$PROJECT_DIR$/app/app/Models/Offer.php" />
+      <option value="$PROJECT_DIR$/app/app/Enums/OfferProvider.php" />
+      <option value="$PROJECT_DIR$/app/database/migrations/2023_12_06_094159_create_offers_table.php" />
+      <option value="$PROJECT_DIR$/app/app/Models/GetCarOffersState.php" />
+      <option value="$PROJECT_DIR$/app/database/seeders/DatabaseSeeder.php" />
+      <option value="$PROJECT_DIR$/app/database/migrations/2023_12_07_153125_create_get_car_offers_states_table.php" />
+      <option value="$PROJECT_DIR$/app/database/seeders/GetCarsOffersStateSeeder.php" />
+      <option value="$PROJECT_DIR$/app/graphql/queries/getAllOtomotoItemsQuery.graphql" />
+      <option value="$PROJECT_DIR$/app/app/Http/Integrations/CarOffers/Resources/CarOffersResource.graphql" />
+      <option value="$PROJECT_DIR$/app/app/Http/Integrations/CarOffers/Resources/CarOffersResource.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Console/Commands/GetCarOffersTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Console/Commands/GetCarOffers.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/CarOffersService.php" />
+      <option value="$PROJECT_DIR$/app/app/Console/Commands/AddOffers.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Integrations/BotAdder/BotAdderConnector.php" />
+      <option value="$PROJECT_DIR$/app/.env" />
+      <option value="$PROJECT_DIR$/app/.env.example" />
+      <option value="$PROJECT_DIR$/app/app/Http/Integrations/NBP/Resources/CantorResource.php" />
+      <option value="$PROJECT_DIR$/app/app/Helpers/CantorHelper.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Integrations/BotAdder/Resource/AdderResource.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GraphQL">
+      <summary usageCount="1" lastUsage="1701974062249" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1701954688410" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="72" lastUsage="1702285048347" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1702284261629" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="4" lastUsage="1702284250639" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Console}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Console}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Console/Commands}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Helpers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations/BotAdder}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations/BotAdder}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations/BotAdder/Resource}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations/CarOffers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations/NBP}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations/NBP}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Http/Integrations/NBP/Resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/mainservice/app/app/Services}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/app">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/../../carscraper" />
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$/../../carscraper" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44677000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <option name="selectedScope" value="All Places" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19036458" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" weight="0.46033996" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.37913126" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.15442708" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <unified_weights bottom="0.37913126" left="0.19036458" right="0.15442708" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Database</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="142" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1701951449704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="142" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701951449704" />
+    <state x="752" y="177" width="405" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1701961452101">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="177" width="405" height="638" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1701961452101" />
+    <state x="741" y="258" width="428" height="476" key="FileChooserDialogImpl" timestamp="1701941088180">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="258" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1701941088180" />
+    <state x="756" y="425" width="398" height="143" key="NewPhpFileDialog" timestamp="1701953906808">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="425" width="398" height="143" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701953906808" />
+    <state x="447" y="135" key="SettingsEditor" timestamp="1701974040344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="447" y="135" key="SettingsEditor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1701974040344" />
+    <state x="541" y="158" width="828" height="676" key="com.intellij.database.dbimport.ImportDialog" timestamp="1701968463134">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="541" y="158" width="828" height="676" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1701968463134" />
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1702035189026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1702035189026" />
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701955905070" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup" timestamp="1702034513177">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1702034513177" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1701959483004" />
+    <state x="675" y="331" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1702035508997">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="679" y="371" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1701963759398" />
+    <state x="675" y="331" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1702035508997" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/app/Enums/OfferProvider.php" />
+    <entry file="file://$PROJECT_DIR$/app/storage/caroffers.json" />
+    <entry file="file://$PROJECT_DIR$/app/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php" />
+    <entry file="file://$PROJECT_DIR$/app/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
+    <entry file="file://$PROJECT_DIR$/app/vendor/laravel/framework/src/Illuminate/Console/Concerns/InteractsWithIO.php" />
+    <entry file="file://$PROJECT_DIR$/app/vendor/laravel/framework/src/Illuminate/Console/Command.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/Translation/Resources/LanguageResource.php" />
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2023_12_06_094159_create_offers_table.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/Models/GetCarOffersState.php" />
+    <entry file="das://336d95f9-01aa-4455-b3c0-7cac37b1f312/schema/db/table/get_car_offers_states">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701964294539" presentationMode="TABLE" projectRestartId="d1fc79da-9daf-44e1-9e60-a311fb61cace" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2023_12_07_153125_create_get_car_offers_states_table.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/Models/Offer.php" />
+    <entry file="das://336d95f9-01aa-4455-b3c0-7cac37b1f312/schema/db/table/offers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701973600303" presentationMode="TABLE" projectRestartId="d1fc79da-9daf-44e1-9e60-a311fb61cace" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="is_translated" />
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/CarOffers/Resources/CarOffersResource.graphql" />
+    <entry file="file://$PROJECT_DIR$/app/tests/CreatesApplication.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Console/Commands/GetCarOffersTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/TranslateTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/CarOffers/Resources/CarOffersResource.php" />
+    <entry file="file://$PROJECT_DIR$/app/database/seeders/GetCarsOffersStateSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/app/database/seeders/DatabaseSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/CarOffers/CarOffersConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/BotAdder/BotAdderConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="e#50#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Console/Commands/GetCarOffers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/CarOffersService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1604">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#32#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Console/Commands/AddOffers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-904">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/NBP/NBPConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/NBP/Resources/CantorResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Helpers/CantorHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Integrations/BotAdder/Resource/AdderResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#59#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

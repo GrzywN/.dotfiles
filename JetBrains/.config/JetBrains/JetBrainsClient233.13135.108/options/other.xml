@@ -1,0 +1,72 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "DBE.Default.Dialect": "",
+    "InstalledPluginsSearchHistory": "catp\ncat\nca",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-232.10072.32",
+    "MarketplacePluginsSearchHistory": "catp\nvim\nv\nprettier\njsconfig",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "PhpStorm.InitialConfiguration": "true",
+    "TextEditorWithPreview.SplitterProportionKey": "0.5165692",
+    "appcds.runOnSecondStart": "JBC-232.10072.32-536e049c000f140465d6a3ff55ed72fa9a2e0b38d54b1ba9ed74f4a2248a3251",
+    "bundled.plugins.list.saved.version": "JBC-233.13135.108",
+    "com.intellij.history.integration.ui.views.SelectionHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.SelectionHistoryDialog.1": "800",
+    "enter_selection_count": "5",
+    "evlsprt.232": "18b30340f00",
+    "evlsprt3.232": "25",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "233.13135.108",
+    "file.gist.reindex.count": "30",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "16.0",
+    "fontSizeToResetEditor": "16.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.php.terminal.customization": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "idea.background.editor": "/home/user/anime/blue_lookback.png,5,scale,center",
+    "ideavim.statistics.timestamp": "1712050869173",
+    "ime.inlay.default.set": "true",
+    "input.method.disabler.muted": "true",
+    "js.rename.search.for.text.occurrences": "false",
+    "js.rename.search.in.comments": "false",
+    "last_opened_file_path": "/home/user/p/ltbackend",
+    "local.user.name": "user",
+    "org.intellij.images.editor.actions.BackgroundImageDialog#recent": "/home/grzywn/wallpapers/yayayayayaya.jpg\n/home/grzywn/wallpapers/purple-sword.jpg\n/home/grzywn/wallpapers/blue_lookback.png",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "JBC-233.13135.108",
+    "tasks.pass.word.conversion.enforced": "true",
+    "thinClient.ws": "true",
+    "ts.lib.d.ts.version": "5.1.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/user/p/ltbackend",
+      "/home/user/p/ltfrontend",
+      "/home/grzywn/wallpapers/blue_lookback.png",
+      "/home/grzywn/p/ltbackend",
+      "/home/grzywn/r/borbot",
+      "/home/grzywn/wallpapers/purple-sword.jpg",
+      "/home/grzywn/wallpapers/yayayayayaya.jpg",
+      "/home/grzywn/wallpapers/umbrella.jpeg",
+      "/home/grzywn/wallpapers/purple.jpg",
+      "/home/grzywn/wallpapers/purple-two-swords.jpg",
+      "/home/grzywn/zwallpaper1.png"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector"
+    ]
+  }
+}]]></component>
+</application>

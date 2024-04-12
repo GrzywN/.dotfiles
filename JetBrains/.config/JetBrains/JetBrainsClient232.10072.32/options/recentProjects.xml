@@ -1,0 +1,89 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/r/borbot">
+          <value>
+            <RecentProjectMetaInfo frameTitle="borbot – index.ts" projectWorkspaceId="2X2bddnZJpJfvWlDLqmpuJgk80d">
+              <option name="activationTimestamp" value="1698267871730" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986610298" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="766" y="123" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698256342132" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/with-docker/partyappadmin">
+          <value>
+            <RecentProjectMetaInfo frameTitle="partyappadmin – MergeHelper.php" opened="true" projectWorkspaceId="2VTNW1fUzIQ3TzMm9Qf189cFHCc">
+              <option name="activationTimestamp" value="1698270482280" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986610298" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="766" y="123" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698267876741" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/ltfrontend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ltfrontend – TrackList.vue" projectWorkspaceId="2XUHDo8F1KtxppT0sESnAyo1YLv">
+              <option name="activationTimestamp" value="1698759805573" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202322381" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698756884680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/ltbackend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ltbackend – reports.service.ts" opened="true" projectWorkspaceId="2XUEre0WQshA4gDo6h1le5Sex6n">
+              <option name="activationTimestamp" value="1698762883395" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202322381" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698759809591" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/thinProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Code With Me – nest-mapper – openstreetmap.service.ts" opened="true" projectWorkspaceId="2XcP8RSVKKP4HkwkutKG3RueauD">
+              <option name="activationTimestamp" value="1698928974394" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="JBC-232.10072.32" />
+              <option name="buildTimestamp" value="1697202302759" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="JBC" />
+              <option name="projectOpenTimestamp" value="1698925237116" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$APPLICATION_CONFIG_DIR$/thinProject" />
+  </component>
+</application>

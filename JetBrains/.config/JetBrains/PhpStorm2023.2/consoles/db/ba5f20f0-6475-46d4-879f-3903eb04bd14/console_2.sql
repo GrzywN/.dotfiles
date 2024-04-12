@@ -1,0 +1,1 @@
+SELECT * FROM activity_log WHERE causer_id = 102;

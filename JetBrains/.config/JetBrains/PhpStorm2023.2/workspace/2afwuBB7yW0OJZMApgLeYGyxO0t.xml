@@ -1,0 +1,603 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="crm" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm_ecoradcy@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm_ecoradcy@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="crm_ecoradcy: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="crm_ecoradcy@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="crm_ecoradcy: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 19 table (host: schema crm_ecoradcy)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="2" lastUsed="1705057638092" />
+    </fileType>
+    <fileType name="Blade">
+      <summary usageCount="2" lastUsed="1705315288097" />
+    </fileType>
+    <fileType name="CSS">
+      <summary usageCount="1" lastUsed="1704727294336" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1706538447114" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="24" lastUsed="1706519478863" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="5" lastUsed="1706604620077" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="59" lastUsed="1706537806535" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1704723165446" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="572" lastUsed="1706541620547" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1704723510492" />
+    </fileType>
+    <fileType name="RNG Compact">
+      <summary usageCount="1" lastUsed="1706017956746" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="18" lastUsed="1704873986923" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="2" lastUsed="1705665655981" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="4" lastUsed="1706026995241" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="243" lastUsed="1706602070641" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="3" lastUsed="1706106498085" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1706607514231" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="11" lastUsed="1706606216388" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>usePrimeVue</find>
+      <find>Home</find>
+      <find>layout-topbar-button</find>
+      <find>VITE</find>
+      <find>p-link</find>
+      <find>AppConfig</find>
+      <find>AppFooter</find>
+      <find>hash</find>
+      <find>calculator</find>
+      <find>CalculationSettings</find>
+      <find>arrow</find>
+      <find>inputS</find>
+      <find>`</find>
+      <find>surface</find>
+      <find>$route</find>
+      <find>calculator.</find>
+      <find>calculations.new</find>
+      <find>??</find>
+      <find>route</find>
+      <find>route(</find>
+      <find>actingAs</find>
+      <find>csrf</find>
+      <find>Button</find>
+      <find>optionLabel</find>
+      <find>Input</find>
+      <find />
+      <find>phone</find>
+      <find>users.reset-password</find>
+      <find>pi-</find>
+      <find>submit</find>
+      <find>email</find>
+      <find>show</find>
+      <find>We have emailed your password reset link.</find>
+      <find>getDescription</find>
+      <find>console.log</find>
+      <find>photovoltaic-panels.import</find>
+      <find>kitcon</find>
+      <find>userser</find>
+      <find>App\Http\Controllers\UserService</find>
+      <find>'user' =&gt;</find>
+      <find>prfol</find>
+      <find>use</find>
+      <find>branches.edit</find>
+      <find>range</find>
+      <find>sprzedarz</find>
+      <find>dropdownOptions</find>
+      <find>dropdown</find>
+      <find>dropdownOptions.js</find>
+      <find>Dropdown</find>
+      <find>multiselec</find>
+      <find>slots</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/resources/js/Layouts</dir>
+      <dir>$PROJECT_DIR$/resources/js/layout</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Bundles</dir>
+      <dir>$PROJECT_DIR$/routes</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Calculator/Partials</dir>
+      <dir>$PROJECT_DIR$/tests</dir>
+      <dir>$PROJECT_DIR$/resources/views</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Kit/Partials</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Kit</dir>
+      <dir>$PROJECT_DIR$/resources/js/Composables</dir>
+      <dir>$PROJECT_DIR$/database/migrations</dir>
+      <dir>$PROJECT_DIR$/app/Http/Controllers/Auth</dir>
+      <dir>$PROJECT_DIR$/app/Transformers</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/User/Partials</dir>
+      <dir>$PROJECT_DIR$/resources/js</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/User</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/PhotovoltaicPanel</dir>
+      <dir>$PROJECT_DIR$/app/Services</dir>
+      <dir>$PROJECT_DIR$/app/Http/Controllers</dir>
+      <dir>$PROJECT_DIR$/tests/Feature</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Branch/Partials</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Branch</dir>
+      <dir>$PROJECT_DIR$/database/seeders</dir>
+      <dir>$PROJECT_DIR$/resources/js/utils</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Customer</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Thread/Partials</dir>
+      <dir>$PROJECT_DIR$/resources/js/Pages/Thread</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisteredUserController.php" />
+      <option value="$PROJECT_DIR$/routes/auth.php" />
+      <option value="$PROJECT_DIR$/tests/Feature/Auth/RegistrationTest.php" />
+      <option value="$PROJECT_DIR$/app/Http/Requests/ChangeStatusBranchRequest.php" />
+      <option value="$PROJECT_DIR$/app/Http/Requests/StoreBranchRequest.php" />
+      <option value="$PROJECT_DIR$/app/Models/Branch.php" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Customer/List.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Branch/Index.vue" />
+      <option value="$PROJECT_DIR$/app/Transformers/BranchTransformer.php" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Branch/Partials/CreateBranchModal.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/User/Index.vue" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/resources/js/layout/AppMenuItem.vue" />
+      <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+      <option value="$PROJECT_DIR$/app/Services/UserService.php" />
+      <option value="$PROJECT_DIR$/app/Http/Requests/PatchBranchRequest.php" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Branch/Show.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Branch/Edit.vue" />
+      <option value="$PROJECT_DIR$/resources/js/layout/AppMenu.vue" />
+      <option value="$PROJECT_DIR$/tests/Feature/Api/BranchApiTest.php" />
+      <option value="$PROJECT_DIR$/app/Enums/ThreadStatus.php" />
+      <option value="$PROJECT_DIR$/database/seeders/ThreadSeeder.php" />
+      <option value="$PROJECT_DIR$/tests/Feature/Api/ThreadApiTest.php" />
+      <option value="$PROJECT_DIR$/app/Filters/ThreadFilter.php" />
+      <option value="$PROJECT_DIR$/app/Services/BranchService.php" />
+      <option value="$PROJECT_DIR$/app/Http/Controllers/BranchController.php" />
+      <option value="$PROJECT_DIR$/database/seeders/UserPermissionsSeeder.php" />
+      <option value="$PROJECT_DIR$/database/seeders/ThreadPermissionsSeeder.php" />
+      <option value="$PROJECT_DIR$/database/seeders/AllPermissionsSeeder.php" />
+      <option value="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2024_01_29_095301_create_threads_table.php" />
+      <option value="$PROJECT_DIR$/app/Models/Thread.php" />
+      <option value="$PROJECT_DIR$/database/factories/ThreadFactory.php" />
+      <option value="$PROJECT_DIR$/resources/js/utils/dropdownOptions.js" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Customer/Index.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Thread/Partials/CreateThreadModal.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/User/Partials/CreateUserModal.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Calculator/Partials/PowerConsumptionStep.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Composables/useTable.js" />
+      <option value="$PROJECT_DIR$/resources/js/Components/Index/TimestampColumns.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Thread/Index.vue" />
+      <option value="$PROJECT_DIR$/app/Services/ThreadService.php" />
+      <option value="$PROJECT_DIR$/routes/web.php" />
+      <option value="$PROJECT_DIR$/app/Http/Controllers/ThreadController.php" />
+      <option value="$PROJECT_DIR$/app/Transformers/ThreadTransformer.php" />
+      <option value="$PROJECT_DIR$/resources/js/Components/Show/ShowFieldsList.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Components/Show/ShowLayout.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Components/Show/ShowTab.vue" />
+      <option value="$PROJECT_DIR$/resources/js/Pages/Thread/Show.vue" />
+      <option value="$PROJECT_DIR$/app/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/app/.env" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Blade">
+      <summary usageCount="2" lastUsage="1705315288097" />
+    </language>
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1704727294336" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="5" lastUsage="1706604620077" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="59" lastUsage="1706537806535" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1704723165446" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="572" lastUsage="1706541620547" />
+    </language>
+    <language id="RELAX-NG">
+      <summary usageCount="1" lastUsage="1706017956746" />
+    </language>
+    <language id="SCSS">
+      <summary usageCount="18" lastUsage="1704873986923" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="2" lastUsage="1705665655981" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1704723510492" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="4" lastUsage="1706026995241" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="243" lastUsage="1706602070641" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1706106498085" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="11" lastUsage="1706606216397" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1706607514231" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/crm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/crm/docker}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Pest.KitApiTest.php::`KitApiTest` → " />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (private)" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/app">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/app">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="2" />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="KitApiTest_php__`KitApiTest`_→_ - 2024.01.15 at 09h 06m 23s.xml">
+      <configuration name="KitApiTest.php::`KitApiTest` → " configurationId="PestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="330248000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Robo tasks" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24322918" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Welcome to GitHub Copilot" order="3" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.7464589" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49973032" visible="true" weight="0.55288005" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3149197" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" sideWeight="0.50026965" weight="0.36779982" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.42917848" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Code With Me" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.23046875" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="github.copilotToolWindow" order="4" weight="0.23046875" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <unified_weights bottom="0.55288005" left="0.24322918" right="0.23046875" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Find</value>
+      <value>Database</value>
+      <value>github.copilotToolWindow</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="62" width="1308" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1705665655845">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="62" width="1308" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1705665655845" />
+    <state x="768" y="155" width="569" height="642" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1705656672298">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="155" width="569" height="642" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1705656672298" />
+    <state x="696" y="285" width="356" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1705059115284">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="285" width="356" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1705059115284" />
+    <state x="700" y="325" width="500" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1704796235225" />
+    <state x="685" y="189" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1706044820254">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706044820254" />
+    <state x="687" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1705068032499" />
+    <state x="689" y="229" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1704790360587" />
+    <state x="734" y="215" width="428" height="476" key="FileChooserDialogImpl" timestamp="1704796374642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="734" y="215" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1704796374642" />
+    <state width="1854" height="422" key="GridCell.Tab.0.bottom" timestamp="1705305995587">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="422" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1705305995587" />
+    <state width="1854" height="422" key="GridCell.Tab.0.center" timestamp="1705305995587">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="422" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1705305995587" />
+    <state width="1854" height="422" key="GridCell.Tab.0.left" timestamp="1705305995587">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="422" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1705305995587" />
+    <state width="1854" height="422" key="GridCell.Tab.0.right" timestamp="1705305995587">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="422" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1705305995587" />
+    <state width="297" height="537" key="HiddenNamespacesPopup" timestamp="1705665602290">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="297" height="537" key="HiddenNamespacesPopup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1705665602290" />
+    <state x="763" y="136" width="480" height="560" key="NewPhpClassDialog" timestamp="1706007742275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="763" y="136" key="NewPhpClassDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706007742275" />
+    <state x="769" y="196" width="704" height="560" key="NewPhpClassDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1704897582602" />
+    <state x="765" y="156" width="480" height="560" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1705928188784" />
+    <state x="754" y="405" width="398" height="143" key="NewPhpFileDialog" timestamp="1705664508445">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="425" width="398" height="143" key="NewPhpFileDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1704896961158" />
+    <state x="754" y="405" key="NewPhpFileDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1705664508445" />
+    <state x="553" y="160" width="810" height="680" key="REMOTE_DEVELOPMENT_CONNECTION" timestamp="1705656555936">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="160" width="810" height="680" key="REMOTE_DEVELOPMENT_CONNECTION/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1705656555936" />
+    <state x="435" y="15" key="SettingsEditor" timestamp="1705660046614">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="441" y="75" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1705060899339" />
+    <state x="443" y="95" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1704973115908" />
+    <state x="435" y="15" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1705660046614" />
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1706519117695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="958" y="-20" width="964" height="1081" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1706519117695" />
+    <state x="704" y="225" width="486" height="383" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1705255017496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="704" y="225" width="486" height="383" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1705255017496" />
+    <state x="751" y="564" width="662" height="516" key="find.popup" timestamp="1706543183193">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="564" width="662" height="516" key="find.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706017156672" />
+    <state x="725" y="564" width="662" height="516" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1705066422185" />
+    <state x="751" y="564" width="662" height="516" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1706543183193" />
+    <state x="749" y="564" width="662" height="516" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706108007233" />
+    <state x="622" y="236" key="run.anything.popup" timestamp="1705656599510">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="236" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1705656599510" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup" timestamp="1706609511878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706048044268" />
+    <state x="623" y="214" width="718" height="698" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1705072656936" />
+    <state x="623" y="214" width="719" height="698" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1706541618533" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706609511878" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/seeders/BranchSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/tests/Feature/Api/KitApiTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/Feature/Api/CustomerApiTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/Feature/Api/ThreadApiTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Services/UserService.php" />
+    <entry file="file://$PROJECT_DIR$/app/Filters/KitFilter.php" />
+    <entry file="file://$PROJECT_DIR$/app/Filters/ThreadFilter.php" />
+    <entry file="file://$PROJECT_DIR$/app/Transformers/UserTransformer.php" />
+    <entry file="file://$PROJECT_DIR$/app/Transformers/BranchTransformer.php" />
+    <entry file="file://$PROJECT_DIR$/tests/Feature/Api/UserApiTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BranchController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Services/BranchService.php" />
+    <entry file="file://$PROJECT_DIR$/database/seeders/PermissionsBaseSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/database/seeders/UserPermissionsSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/.prettierrc" />
+    <entry file="file://$PROJECT_DIR$/database/seeders/AllPermissionsSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/User/Index.vue" />
+    <entry file="file://$PROJECT_DIR$/database/factories/ThreadFactory.php" />
+    <entry file="file://$PROJECT_DIR$/app/Models/Thread.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2024_01_29_095301_create_threads_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/database/seeders/ThreadSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/app/Services/AdditionService.php" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Services/PaginationService.js" />
+    <entry file="file://$PROJECT_DIR$/resources/js/utils/dropdownOptions.js" />
+    <entry file="file://$PROJECT_DIR$/resources/js/utils/dropdownListOptions.js" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/User/Partials/CreateUserModal.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/Thread/Partials/CreateThreadModal.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/User/Edit.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Composables/useTable.js" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Components/Index/TimestampColumns.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/Calculator/Partials/PowerConsumptionStep.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/Customer/Index.vue" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdditionController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Services/BaseService.php" />
+    <entry file="file://$PROJECT_DIR$/app/Transformers/ThreadTransformer.php" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Components/Show/ShowField.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Components/Show/ShowFieldsList.vue" />
+    <entry file="file://$PROJECT_DIR$/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/database/seeders/ThreadPermissionsSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/app/Services/ThreadService.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ThreadController.php" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/Thread/Index.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Components/Show/ShowTab.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Components/Show/ShowLayout.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/js/Pages/Thread/Show.vue" />
+    <entry file="file://$PROJECT_DIR$/app/jsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

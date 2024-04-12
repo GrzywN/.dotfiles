@@ -2,23 +2,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">TWFw</entry>
-        <entry encoding="base64">YnVpbGRFdmVudA==</entry>
-        <entry encoding="base64">aGVpZ2h0</entry>
-        <entry encoding="base64">V2llxbxh</entry>
-        <entry encoding="base64">aGFzVmFsaWRhdGlvbg==</entry>
-        <entry encoding="base64">X2ZpcnN0Rm9ybQ==</entry>
-        <entry encoding="base64">dmFsaWRhdGU=</entry>
-        <entry encoding="base64">dmFsaWRh</entry>
-        <entry encoding="base64">c2VydmljZQ==</entry>
-        <entry encoding="base64">XSk=</entry>
-        <entry encoding="base64">d3lkYXJ6ZW5pYQ==</entry>
-        <entry encoding="base64">V3LDs8SH</entry>
-        <entry encoding="base64">RmVlZA==</entry>
-        <entry encoding="base64">Zm9yZ290</entry>
-        <entry encoding="base64">fSk=</entry>
-        <entry encoding="base64">Jyk=</entry>
-        <entry encoding="base64">KSk=</entry>
         <entry encoding="base64">WmFsb2d1aiBzaQ==</entry>
         <entry encoding="base64">Qm90dG9tTWVudQ==</entry>
         <entry encoding="base64">bWFw</entry>
@@ -52,13 +35,25 @@
         <entry encoding="base64">bGVhZGluZw==</entry>
         <entry encoding="base64">VGl0bGU=</entry>
         <entry encoding="base64">Ym9keU1l</entry>
+        <entry encoding="base64">Y2hldnJvbg==</entry>
+        <entry encoding="base64">bmV4dA==</entry>
+        <entry encoding="base64">Ym9keU1lZGl1bQ==</entry>
+        <entry encoding="base64">YnVpbGQ=</entry>
+        <entry encoding="base64">R29vZ2xl</entry>
+        <entry encoding="base64">c2V0</entry>
+        <entry encoding="base64">IQ==</entry>
+        <entry encoding="base64">Pz8gJyc=</entry>
+        <entry encoding="base64">dGl0bGVNZWRpdW0=</entry>
+        <entry encoding="base64">QmFyY29kZVNjYW5uZXI=</entry>
+        <entry encoding="base64">c3RhdHM=</entry>
+        <entry encoding="base64">U3RhdGk=</entry>
+        <entry encoding="base64">VGV4dA==</entry>
+        <entry encoding="base64">Zmx1dHRlcl9ob29rcw==</entry>
+        <entry encoding="base64">aG9va2Vk</entry>
+        <entry encoding="base64">ZGVzaXJlZA==</entry>
+        <entry encoding="base64">ZGVz</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXDxcPi9ib3NhZGJvZGFzby9nSQ==</entry>
-        <entry encoding="base64">JXMvXDxcPi9ic29kYWJ1b2FzZC9nSQ==</entry>
-        <entry encoding="base64">JXMvXDxcPi9sZWFkZXIvZ0k=</entry>
-        <entry encoding="base64">Rm9ybWF0</entry>
-        <entry encoding="base64">MTU=</entry>
         <entry encoding="base64">JXMvJy8iL2c=</entry>
         <entry encoding="base64">MTAx</entry>
         <entry encoding="base64">MTA5</entry>
@@ -98,11 +93,16 @@
         <entry encoding="base64">JXMvJykvJywpL2c=</entry>
         <entry encoding="base64">JXMvKSkvKSwpL2c=</entry>
         <entry encoding="base64">d3M=</entry>
-        <entry encoding="base64">Vw==</entry>
         <entry encoding="base64">JzwsJz5zLy0vXy8=</entry>
         <entry encoding="base64">JXMvLCB0ZXh0U3R5bGUvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy0vXy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2JvZHlNZWRpdW0vYm9keUxhcmdlL2c=</entry>
+        <entry encoding="base64">JXMvIS8gPz8gJycvZw==</entry>
+        <entry encoding="base64">JXMvPz8gJycvPz8gRmllbGRWYWx1ZXMubm9WYWx1ZS9n</entry>
         <entry encoding="base64" />
+        <entry encoding="base64">JXMvdGl0bGVNZWRpdW0vdGl0bGVTbWFsbC9n</entry>
+        <entry encoding="base64">JXMvQmFyY29kZVNjYW5uZXIvTWVhbENhbWVyYS9n</entry>
+        <entry encoding="base64">Vw==</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-expr />
@@ -213,171 +213,108 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/p/ltapp/lib/src/config/routing.dart" timestamp="1698318083111">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="61" column="68" />
+      <file name="$USER_HOME$/p/smartholapp/pubspec.yaml" timestamp="1711722175589">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" timestamp="1698578092064">
-        <mark key="'" line="56" column="19" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/models/stats_response.dart" timestamp="1711711747946">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/l10n/app_en.arb" timestamp="1698410337033">
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="60" column="24" />
-        <mark key="^" line="60" column="23" />
-        <mark key="." line="60" column="24" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/cubit/stats_cards_state.dart" timestamp="1711711140411">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/dragable_widget.dart" timestamp="1698401336324">
-        <mark key="'" line="172" column="32" />
-        <mark key="[" line="184" column="37" />
-        <mark key="]" line="184" column="48" />
-        <mark key="^" line="184" column="48" />
-        <mark key="." line="184" column="47" />
+      <file name="$USER_HOME$/p/smartholapp/lib/core/l10n/app_en.arb" timestamp="1711726014034">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" timestamp="1698405928557">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="36" column="9" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/auth/cubit/login_cubit.dart" timestamp="1711719647170">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" timestamp="1698413221201">
-        <mark key="'" line="28" column="43" />
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="91" column="6" />
-        <mark key="." line="218" column="44" />
-        <mark key="^" line="218" column="45" />
+      <file name="$USER_HOME$/p/smartholapp/lib/core/l10n/app_pl.arb" timestamp="1711726006125">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="58" column="38" />
+        <mark key="." line="59" column="1" />
+        <mark key="^" line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/feature_auth/login/presentation/login.dart" timestamp="1698319652465">
-        <mark key="[" line="152" column="51" />
-        <mark key="]" line="152" column="51" />
-        <mark key="^" line="99" column="29" />
-        <mark key="." line="152" column="52" />
+      <file name="$USER_HOME$/p/smartholapp/lib/core/providers.dart" timestamp="1711720021916">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="65" />
+        <mark key="^" line="24" column="65" />
+        <mark key="." line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/list_card_builder_widget.dart" timestamp="1698405446005">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="178" column="65" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/auth/models/user_profile.dart" timestamp="1711709481706" />
+      <file name="$USER_HOME$/p/smartholapp/lib/core/theme/ui.dart" timestamp="1711716084871">
+        <mark key="[" line="38" column="56" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="57" />
+        <mark key="^" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" timestamp="1698318222429">
-        <mark key="'" line="0" column="38" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="256" column="1" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/ui/stats_screen.dart" timestamp="1711724968214">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/timer_widget.dart" timestamp="1698332208715">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="48" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/data/stats_service.dart" timestamp="1711720373795">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="43" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="44" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/config/themes/spacing.dart" timestamp="1698407954453">
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="15" column="53" />
-        <mark key="^" line="15" column="58" />
-        <mark key="." line="15" column="53" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/ui/widgets/stats_search_bar.dart" timestamp="1711725441447">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="13" column="49" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" timestamp="1698313194922">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="75" column="25" />
+      <file name="$USER_HOME$/p/smartholapp/lib/common/widgets/overlay_indicator.dart" timestamp="1711712653945" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/cubit/stats_cards_cubit.dart" timestamp="1711721462331">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="32" column="2" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" timestamp="1698410140553">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="76" />
-        <mark key="^" line="63" column="31" />
-        <mark key="." line="63" column="30" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/ui/widgets/stats_card.dart" timestamp="1711725326972">
+        <mark key="[" line="43" column="38" />
+        <mark key="]" line="43" column="45" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/map_screen.dart" timestamp="1698405519921">
-        <mark key="'" line="18" column="39" />
-        <mark key="[" line="72" column="37" />
-        <mark key="]" line="72" column="53" />
-        <mark key="." line="72" column="52" />
-        <mark key="^" line="72" column="53" />
+      <file name="$USER_HOME$/p/smartholapp/android/app/src/main/AndroidManifest.xml" timestamp="1711726345904">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/widget/tracker_card_widget.dart" timestamp="1698412008212">
-        <mark key="[" line="42" column="87" />
-        <mark key="]" line="42" column="87" />
-        <mark key="." line="42" column="87" />
-        <mark key="^" line="23" column="45" />
+      <file name="$USER_HOME$/p/smartholapp/lib/features/stats/ui/stats_card.dart" timestamp="1711716459463">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/widgets/auth_layout.dart" timestamp="1698314345744">
-        <mark key="f" line="14" column="53" />
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="20" />
+      <file name="$USER_HOME$/p/smartholapp/lib/core/di.dart" timestamp="1711719780151">
+        <mark key="[" line="59" column="4" />
+        <mark key="]" line="59" column="23" />
+        <mark key="^" line="59" column="23" />
+        <mark key="." line="59" column="22" />
       </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/create_checkpoint_widget.dart" timestamp="1698408077093">
-        <mark key="[" line="171" column="14" />
-        <mark key="]" line="171" column="14" />
-        <mark key="^" line="127" column="46" />
-        <mark key="." line="171" column="15" />
-      </file>
-      <file name="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/custom_rounded_button.dart" timestamp="1698401082197">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="26" />
-      </file>
-      <file name="$USER_HOME$/p/ltapp/pubspec.yaml" timestamp="1698321063822">
-        <mark key="[" line="64" column="17" />
-        <mark key="]" line="64" column="17" />
-        <mark key="^" line="64" column="13" />
-        <mark key="." line="64" column="17" />
+      <file name="$USER_HOME$/p/smartholapp/.gitignore" timestamp="1711715269787">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="5" />
+        <mark key="." line="50" column="4" />
+        <mark key="^" line="50" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="889" column="29" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="956" column="11" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="957" column="11" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="993" column="63" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="1057" column="20" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="1121" column="35" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="1152" column="28" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="1183" column="51" filename="/opt/flutter/packages/flutter/lib/src/painting/text_style.dart" />
-      <jump line="48" column="0" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
-      <jump line="43" column="7" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
-      <jump line="100" column="23" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
-      <jump line="430" column="22" filename="$USER_HOME$/p/partyapp/lib/src/screens/auth/register.dart" />
-      <jump line="7" column="0" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
-      <jump line="35" column="38" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
-      <jump line="1" column="29" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
-      <jump line="6" column="14" filename="$USER_HOME$/p/partyapp/lib/src/states/promote_event/promote_event_bloc.dart" />
-      <jump line="66" column="25" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_event_step.dart" />
-      <jump line="245" column="10" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_event_step.dart" />
-      <jump line="118" column="24" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_area.dart" />
-      <jump line="267" column="8" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_area.dart" />
-      <jump line="228" column="33" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_event_step.dart" />
-      <jump line="137" column="8" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_select_area.dart" />
-      <jump line="24" column="29" filename="$USER_HOME$/p/partyapp/lib/src/widgets/promote_event/promote_event_layout.dart" />
-      <jump line="80" column="26" filename="$USER_HOME$/p/partyapp/lib/src/screens/feature_events/event_details/presentation/widgets/card_under_image_widget.dart" />
-      <jump line="37" column="9" filename="$USER_HOME$/p/partyapp/lib/src/screens/feature_events/event_details/presentation/widgets/card_under_image_widget.dart" />
-      <jump line="63" column="46" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
-      <jump line="31" column="8" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
-      <jump line="70" column="10" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
-      <jump line="83" column="21" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" />
-      <jump line="115" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" />
-      <jump line="68" column="13" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/change_password.dart" />
-      <jump line="109" column="21" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
-      <jump line="226" column="22" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
-      <jump line="0" column="38" filename="$USER_HOME$/p/ltapp/lib/src/screens/auth/login.dart" />
-      <jump line="78" column="6" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
-      <jump line="79" column="8" filename="$USER_HOME$/p/ltapp/lib/src/widgets/layout.dart" />
-      <jump line="284" column="46" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="118" column="14" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="261" column="31" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="264" column="42" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="8" column="43" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="107" column="13" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="123" column="35" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="161" column="25" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="214" column="41" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
       <jump line="258" column="34" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
-      <jump line="146" column="37" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
       <jump line="71" column="14" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
       <jump line="296" column="26" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
       <jump line="274" column="51" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
@@ -415,7 +352,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/summary_widget.dart" />
       <jump line="64" column="45" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/widgets/create_checkpoint_widget.dart" />
       <jump line="128" column="26" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
-      <jump line="268" column="21" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
       <jump line="255" column="35" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
       <jump line="263" column="17" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
       <jump line="112" column="19" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
@@ -431,6 +367,53 @@
       <jump line="83" column="63" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
       <jump line="252" column="22" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
       <jump line="56" column="19" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="172" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="268" column="6" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="174" column="0" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="47" column="32" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/widget/tracker_card_widget.dart" />
+      <jump line="233" column="32" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="34" column="9" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="44" column="10" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="57" column="28" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_list_task/presentation/task_list/tasks_screen.dart" />
+      <jump line="83" column="45" filename="$USER_HOME$/p/ltapp/lib/src/screens/features_map/presentation/map_screen.dart" />
+      <jump line="77" column="41" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="136" column="26" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="146" column="37" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="149" column="38" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="161" column="31" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="169" column="42" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="203" column="38" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="249" column="38" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="272" column="37" filename="$USER_HOME$/p/ltapp/lib/src/screens/feature_dashboard/dashboard.dart" />
+      <jump line="0" column="13" filename="$USER_HOME$/p/partyapp/lib/src/services/analytics.dart" />
+      <jump line="7" column="0" filename="$USER_HOME$/p/partyapp/lib/src/screens/analytics/analytics_observer.dart" />
+      <jump line="0" column="38" filename="$USER_HOME$/p/partyapp/lib/src/screens/analytics/analytics_observer.dart" />
+      <jump line="16" column="10" filename="$USER_HOME$/p/partyapp/lib/src/screens/analytics/analytics_observer.dart" />
+      <jump line="15" column="36" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="147" column="12" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="37" column="13" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="111" column="53" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="39" column="10" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="53" column="0" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="21" column="13" filename="$USER_HOME$/r/gymrat/lib/features/calories/presentation/calories_view.dart" />
+      <jump line="13" column="16" filename="$USER_HOME$/r/karbin_calories/android/app/src/main/AndroidManifest.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/r/karbin_calories/android/app/src/main/AndroidManifest.xml" />
+      <jump line="15" column="6" filename="$USER_HOME$/r/karbin_calories/lib/features/meal_camera_view/meal_camera_view.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/p/smartholapp/lib/core/routing.dart" />
+      <jump line="10" column="35" filename="$USER_HOME$/p/smartholapp/lib/core/routing.dart" />
+      <jump line="11" column="0" filename="$USER_HOME$/p/smartholapp/lib/core/routing.dart" />
+      <jump line="15" column="12" filename="$USER_HOME$/p/smartholapp/lib/core/routing.dart" />
+      <jump line="49" column="30" filename="$USER_HOME$/p/smartholapp/lib/core/routing.dart" />
+      <jump line="25" column="33" filename="$USER_HOME$/p/smartholapp/lib/features/dashboard/ui/dashboard_screen.dart" />
+      <jump line="5" column="18" filename="$USER_HOME$/p/smartholapp/lib/features/auth/models/login_response.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/p/smartholapp/lib/features/auth/models/login_response.dart" />
+      <jump line="29" column="29" filename="$USER_HOME$/p/smartholapp/lib/features/stats/ui/stats_screen.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/p/smartholapp/lib/features/stats/ui/widgets/stats_search_bar.dart" />
+      <jump line="16" column="20" filename="$USER_HOME$/p/smartholapp/lib/features/stats/ui/widgets/stats_search_bar.dart" />
+      <jump line="29" column="6" filename="$USER_HOME$/p/smartholapp/lib/features/stats/ui/widgets/stats_search_bar.dart" />
+      <jump line="39" column="21" filename="$USER_HOME$/p/smartholapp/pubspec.yaml" />
+      <jump line="24" column="2" filename="$USER_HOME$/p/smartholapp/pubspec.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -487,10 +470,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">Ym9keU1l</last-search>
-      <last-substitute encoding="base64">LQ==</last-substitute>
-      <last-replace encoding="base64">Xw==</last-replace>
-      <last-pattern encoding="base64">Ym9keU1l</last-pattern>
+      <last-search encoding="base64">ZGVz</last-search>
+      <last-substitute encoding="base64">QmFyY29kZVNjYW5uZXI=</last-substitute>
+      <last-replace encoding="base64">TWVhbENhbWVyYQ==</last-replace>
+      <last-pattern encoding="base64">ZGVz</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

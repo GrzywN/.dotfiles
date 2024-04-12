@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <artifacts>
+  <repository id="alibaba" url="https://maven.aliyun.com/repository/public/"/>
   <artifact name="HSQLDB">
     <version version="2.3.2">
       <item type="maven" url="org.hsqldb:hsqldb:2.3.2"/>
@@ -24,6 +25,10 @@
   </artifact>
 
   <artifact name="MySQL Connector/J">
+    <version version="5.1.21">
+      <item type="maven" url="mysql:mysql-connector-java:5.1.21"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/mysql-connector-license.txt"/>
+    </version>
     <version version="5.1.35">
       <item type="maven" url="mysql:mysql-connector-java:5.1.35"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/mysql-connector-license.txt"/>
@@ -66,6 +71,14 @@
     <version version="8.0.25" id="MySQL ConnectorJ">
       <item type="maven" url="mysql:mysql-connector-java:8.0.25"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/MySQL/8/LICENSE.txt"/>
+    </version>
+    <version version="8.1.0" id="MySQL ConnectorJ">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/MySQL/8.1/mysql-connector-j-8.1.0.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/MySQL/8.1/LICENSE.txt"/>
+    </version>
+    <version version="8.2.0" id="MySQL ConnectorJ">
+      <item type="maven" url="com.mysql:mysql-connector-j:8.2.0"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/MySQL/8.1/LICENSE.txt"/>
     </version>
     <constraint from="8" dbms="MYSQL" db-from="5.2"/>
     <unsupported from="8" dbms="MYSQL" db-to="5.2"/>
@@ -269,6 +282,10 @@
       <item type="maven" url="org.xerial:sqlite-jdbc:3.43.0.0"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/sqlite/license.txt"/>
     </version>
+    <version version="3.45.1">
+      <item type="maven" url="org.xerial:sqlite-jdbc:3.45.1.0"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/sqlite/license.txt"/>
+    </version>
   </artifact>
 
   <artifact name="H2">
@@ -290,6 +307,11 @@
     </version>
     <version version="2.1.210">
       <item type="maven" url="com.h2database:h2:2.1.210"/>
+      <item type="license" name="license-mpl.txt" url="https://download.jetbrains.com/idea/jdbc-drivers/h2/h2-license-mpl20.txt"/>
+      <item type="license" name="license-epl.txt" url="https://download.jetbrains.com/idea/jdbc-drivers/h2/h2-license-epl10.txt"/>
+    </version>
+    <version version="2.2.220">
+      <item type="maven" url="com.h2database:h2:2.2.220"/>
       <item type="license" name="license-mpl.txt" url="https://download.jetbrains.com/idea/jdbc-drivers/h2/h2-license-mpl20.txt"/>
       <item type="license" name="license-epl.txt" url="https://download.jetbrains.com/idea/jdbc-drivers/h2/h2-license-epl10.txt"/>
     </version>
@@ -580,6 +602,10 @@
     </version>
     <version version="3.14.1">
       <item type="maven" url="net.snowflake:snowflake-jdbc:3.14.1"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/snowflake/snowflake-license.txt"/>
+    </version>
+    <version version="3.14.4">
+      <item type="maven" url="net.snowflake:snowflake-jdbc:3.14.4"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/snowflake/snowflake-license.txt"/>
     </version>
   </artifact>
@@ -895,6 +921,20 @@
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Athena/LICENSE2.txt"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Athena/THIRD-PARTY-LICENSES.txt"/>
     </version>
+    <version version="2.1.3">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/Athena/athena-2.1.3.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Athena/LICENSE.txt"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Athena/LICENSE2.txt"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Athena/THIRD-PARTY-LICENSES.txt"/>
+    </version>
+  </artifact>
+
+  <artifact name="Databricks">
+    <version version="2.6.36">
+      <item type="maven" url="com.databricks:databricks-jdbc:2.6.36"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Databricks/LICENSE2.txt"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Databricks/THIRD-PARTY-LICENSES2.txt"/>
+    </version>
   </artifact>
 
   <artifact name="BigQuery">
@@ -915,6 +955,11 @@
     </version>
     <version version="1.3.3">
       <item type="pack" url="https://storage.googleapis.com/simba-bq-release/jdbc/SimbaJDBCDriverforGoogleBigQuery42_1.3.3.1004.zip"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/BigQuery/LICENSE.txt"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/BigQuery/THIRD-PARTY-LICENSES.txt"/>
+    </version>
+    <version version="1.5.2">
+      <item type="pack" url="https://storage.googleapis.com/simba-bq-release/jdbc/SimbaJDBCDriverforGoogleBigQuery42_1.5.2.1005.zip"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/BigQuery/LICENSE.txt"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/BigQuery/THIRD-PARTY-LICENSES.txt"/>
     </version>
@@ -939,6 +984,10 @@
     </version>
     <version version="0.7.0">
       <item type="maven" url="org.duckdb:duckdb_jdbc:0.7.0"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DuckDB/LICENSE.txt"/>
+    </version>
+    <version version="0.9.2">
+      <item type="maven" url="org.duckdb:duckdb_jdbc:0.9.2"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DuckDB/LICENSE.txt"/>
     </version>
   </artifact>
@@ -977,6 +1026,10 @@
       <item url="https://download.jetbrains.com/idea/jdbc-drivers/Redis/redis-jdbc-driver-1.4.jar"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Redis/LICENSE.txt"/>
     </version>
+    <version version="1.5">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/Redis/redis-jdbc-driver-1.5.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Redis/LICENSE.txt"/>
+    </version>
   </artifact>
 
   <artifact name="Cloud SQL Proxy (MySQL 8)" id="cloud_sql.mysql.8">
@@ -1004,6 +1057,29 @@
     <version version="1.13.1">
       <item type="maven" url="com.google.cloud.sql:cloud-sql-connector-jdbc-sqlserver:1.13.1"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/ProxySQL/LICENSE.txt"/>
+    </version>
+  </artifact>
+
+  <artifact name="Dynamo">
+    <version version="0.4">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.4.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
+    </version>
+    <version version="0.3">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.3.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
+    </version>
+    <version version="0.5">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.5.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
+    </version>
+    <version version="0.6">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.6.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
+    </version>
+    <version version="0.7">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.7.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
     </version>
   </artifact>
 </artifacts>

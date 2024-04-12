@@ -1,0 +1,534 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="projekt-ozc" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="3" lastUsed="1711640348678" />
+    </fileType>
+    <fileType name="Blade">
+      <summary usageCount="2" lastUsed="1711634534158" />
+    </fileType>
+    <fileType name="CSS">
+      <summary usageCount="9" lastUsed="1712056913819" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="18" lastUsed="1712056912505" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="12" lastUsed="1711702937755" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1711618309762" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="19" lastUsed="1711700219547" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="6" lastUsed="1711700401797" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="20" lastUsed="1712056919394" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="23" lastUsed="1712056916484" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1711619170164" />
+    </fileType>
+    <fileType name="tsconfig">
+      <summary usageCount="5" lastUsed="1712050266639" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tailwindcss</find>
+      <find>BlockViewer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/resources/js/Pages/Auth</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/Components</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/.env.example" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/app/tests/CreatesApplication.php" />
+      <option value="$PROJECT_DIR$/app/tests/Pest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/ExampleTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/TestCase.php" />
+      <option value="$PROJECT_DIR$/app/stubs/model-test.stub" />
+      <option value="$PROJECT_DIR$/app/tests/Unit/Models/UserTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Api/UserApiTest.php" />
+      <option value="$PROJECT_DIR$/app/stubs/api-test.stub" />
+      <option value="$PROJECT_DIR$/app/app/Console/Kernel.php" />
+      <option value="$PROJECT_DIR$/app/tests/Unit/ExampleTest.php" />
+      <option value="$PROJECT_DIR$/app/resources/css/utility.css" />
+      <option value="$PROJECT_DIR$/app/database/seeders/UserSeeder.php" />
+      <option value="$PROJECT_DIR$/app/vendor/karlos3098/laravel-primevue-table-service/src/Assets/Components/AdvanceColumn.vue" />
+      <option value="$PROJECT_DIR$/app/composer.json" />
+      <option value="$PROJECT_DIR$/app/tsconfig.json" />
+      <option value="$PROJECT_DIR$/app/vite.config.js" />
+      <option value="$PROJECT_DIR$/app/vite.config.ts" />
+      <option value="$PROJECT_DIR$/app/.eslintrc.cjs" />
+      <option value="$PROJECT_DIR$/app/resources/js/global.d.ts" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/Autocomplete.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Components/BlockViewer.vue" />
+      <option value="$PROJECT_DIR$/app/.eslintignore" />
+      <option value="$PROJECT_DIR$/app/app/Services/PackageService.php" />
+      <option value="$PROJECT_DIR$/app/database/seeders/PackageSeeder.php" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Dashboard.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Branch/Partials/CreateBranchModal.vue" />
+      <option value="$PROJECT_DIR$/app/package.json" />
+      <option value="$PROJECT_DIR$/app/resources/css/app.css" />
+      <option value="$PROJECT_DIR$/app/resources/js/karlos3098-LaravelPrimevueTable/Components/AdvanceColumn.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/app.ts" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Auth/Login.vue" />
+      <option value="$PROJECT_DIR$/app/resources/js/Pages/Auth/ForgotPassword.vue" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Blade">
+      <summary usageCount="2" lastUsage="1711634534158" />
+    </language>
+    <language id="CSS">
+      <summary usageCount="9" lastUsage="1712056913819" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="23" lastUsage="1712056912505" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="12" lastUsage="1711702937755" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1711618309762" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="19" lastUsage="1711700219547" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1711700401797" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="20" lastUsage="1712056919394" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="23" lastUsage="1712056916484" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1711619170164" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="projekt-ozc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/p/projekt-ozc" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="projekt-ozc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/p/projekt-ozc" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="projekt-ozc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/p/projekt-ozc" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/app" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/app" />
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$/app">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="2" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33776042" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" weight="0.45372993" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.45656282" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.45656282" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="SonarLint" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <unified_weights bottom="0.45656282" left="0.33776042" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="258" width="428" height="476" key="FileChooserDialogImpl" timestamp="1712057096615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="258" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1712057096615" />
+    <state x="1131" y="169" width="774" height="921" key="ProcessPopupWindow" timestamp="1712050398136">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1131" y="169" width="774" height="921" key="ProcessPopupWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1712050398136" />
+    <state x="447" y="135" key="SettingsEditor" timestamp="1711630535950">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="447" y="135" key="SettingsEditor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711630535950" />
+    <state x="1045" y="564" width="662" height="516" key="find.popup" timestamp="1711640161037">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1045" y="564" width="662" height="516" key="find.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711640161037" />
+    <state x="623" y="214" width="672" height="698" key="search.everywhere.popup" timestamp="1711703286628">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="672" height="698" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711640434073" />
+    <state x="623" y="214" width="672" height="698" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711703286628" />
+    <state x="683" y="411" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1711621595812">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="683" y="411" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711621595812" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#3742#3802#0#Markdown" expanded="true" />
+            <element signature="e#3838#3894#0#Markdown" expanded="true" />
+            <element signature="e#3926#3960#0#Markdown" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/CreatesApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#25#65#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Tescik.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Unit/Models/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Unit/Models/UserTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Api/UserApiTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Api/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/ExampleTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Unit/ExampleTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/ProfileTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/stubs/api-test.stub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/stubs/model-test.stub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/seeders/RoleSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Pest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tailwind.config.js" />
+    <entry file="file://$PROJECT_DIR$/app/postcss.config.js" />
+    <entry file="file://$PROJECT_DIR$/app/resources/css/utility.css" />
+    <entry file="file://$PROJECT_DIR$/app/database/seeders/UserSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/app/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/node_modules/primevue/autocomplete/AutoComplete.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="758" column="8" selection-start-line="758" selection-start-column="8" selection-end-line="758" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/global.d.ts" />
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Components/Autocomplete.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#25#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Components/BlockViewer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/ziggy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.eslintrc.cjs" />
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Resources/Package.resource.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Resources/Branch.resource.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/ziggy.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/PackageService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/seeders/PackageSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#36#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.eslintignore" />
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Dashboard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Branch/Partials/CreateBranchModal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/layout/AppTopbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="208" column="22" selection-start-line="208" selection-start-column="22" selection-end-line="208" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vite.config.ts" />
+    <entry file="file://$PROJECT_DIR$/app/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vite.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vendor/karlos3098/laravel-primevue-table-service/src/Assets/Components/AdvanceColumn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/karlos3098-LaravelPrimevueTable/Services/tableService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Auth/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#25#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composer.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/Pages/Auth/ForgotPassword.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+          <folding>
+            <element signature="e#15#62#0" expanded="true" />
+            <element signature="e#634#657#0" expanded="true" />
+            <element signature="e#3472#3497#0" expanded="true" />
+            <element signature="e#3562#3587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/karlos3098-LaravelPrimevueTable/Components/AdvanceColumn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#26#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/js/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,10 +2,13 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/p/braunapp2" value="true" />
         <entry key="$USER_HOME$/p/ltapp" value="true" />
         <entry key="$USER_HOME$/p/partyapp" value="true" />
+        <entry key="$USER_HOME$/p/smartholapp" value="true" />
         <entry key="$USER_HOME$/r/eli5" value="true" />
         <entry key="$USER_HOME$/r/gymrat" value="true" />
+        <entry key="$USER_HOME$/r/karbin_calories" value="true" />
       </map>
     </option>
   </component>

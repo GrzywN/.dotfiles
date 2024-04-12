@@ -1,0 +1,1080 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="partyappadmin" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/Services/Mobile/Feed.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/app/Support/MergeHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes/mobile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="832">
+              <caret line="32" column="86" selection-start-line="32" selection-start-column="86" selection-end-line="32" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/Services/Event/MobileEvent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3978">
+              <caret line="169" selection-start-line="169" selection-end-line="169" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/Transformers/Mobile/Feed/FeedTransformer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1196">
+              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/FeedApiTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8372">
+              <caret line="330" column="4" selection-start-line="330" selection-start-column="4" selection-end-line="330" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1697099997681" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="1" lastUsed="1695030940996" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="687" lastUsed="1698267961649" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1696936467090" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1695030954365" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="9" lastUsed="1697182596622" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>period</find>
+      <find>create</find>
+      <find>$validator =</find>
+      <find>is_spon</find>
+      <find>promote</find>
+      <find>advertise</find>
+      <find>Permission</find>
+      <find />
+      <find>location</find>
+      <find>AdvertisementAreaType</find>
+      <find>LogsA</find>
+      <find>activity()</find>
+      <find>Carbon</find>
+      <find>$event-&gt;owner</find>
+      <find>house</find>
+      <find>$event-&gt;</find>
+      <find>TODO</find>
+      <find>Zaczekaj na zaakceptowanie przez organizatora</find>
+      <find>housePartyManage</find>
+      <find>preference</find>
+      <find>mobile.users.me.preferences</find>
+      <find>Event::factor</find>
+      <find>advertisement()</find>
+      <find>Ta impre</find>
+      <find>mobile.events.random-events</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app</dir>
+      <dir>$PROJECT_DIR$/app/app/Http/Controllers/Admin</dir>
+      <dir>$PROJECT_DIR$/app/tests/Feature/Integrations</dir>
+      <dir>$PROJECT_DIR$/app/app/Transformers</dir>
+      <dir>$PROJECT_DIR$/app/app/Models</dir>
+      <dir>$PROJECT_DIR$/app/app/Services/PromoteEvent/Web</dir>
+      <dir>$PROJECT_DIR$/app/app/Services/Mobile</dir>
+      <dir>$PROJECT_DIR$/app/tests</dir>
+      <dir>$PROJECT_DIR$/app/app/Services/Event</dir>
+      <dir>$PROJECT_DIR$/app/app/Policies/Mobile</dir>
+      <dir>$PROJECT_DIR$/app/tests/Feature</dir>
+      <dir>$PROJECT_DIR$/app/routes</dir>
+      <dir>$PROJECT_DIR$/app/database/factories</dir>
+      <dir>$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/app/Models/Advertisement.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Controllers/Admin/PromoteEventController.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/PromoteEvent/Web/PromoteEvent.php" />
+      <option value="$PROJECT_DIR$/app/app/Transformers/PromotionAdvertisementTransformer.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/Notifications/Mobile/Notification.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/AttachUserToEventTest.php" />
+      <option value="$PROJECT_DIR$/app/.env" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/EventTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/Event/EventBase.php" />
+      <option value="$PROJECT_DIR$/app/database/factories/EventCategoryFactory.php" />
+      <option value="$PROJECT_DIR$/app/app/Transformers/PaymentTransformer.php" />
+      <option value="$PROJECT_DIR$/app/app/Filters/PaymentFilter.php" />
+      <option value="$PROJECT_DIR$/app/app/Enums/Currency.php" />
+      <option value="$PROJECT_DIR$/app/database/factories/PaymentFactory.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/ShowAllPaymentsTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/ReelsForCloseFriendsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyFriendsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/database/seeders/EventCategorySeeder.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyFriendsInvitationsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyGalleryApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyOnlyCloseFriendsFilterApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyParticipatesApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyPaymentsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyReelsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/database/factories/EventFactory.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Requests/AddPromotionRequest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Integrations/PromoteEventApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyEventsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Integrations/MobileUserApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Integrations/PostLikesApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Integrations/ReelLikesApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Integrations/TicketApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Transformers/TransformerPaginableTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Services/PaymentServiceTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Service/EventServiceTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Policies/Mobile/EventPolicy.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/HousePartyGuestsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Service/UserEventPreferenceServiceTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyPreferencesApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Http/Requests/UpdateUserEventsPreferenceRequest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/UserEventPreferenceApiTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Support/ListHelperTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Support/ListHelper.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Supports/ListHelperTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Supports/MergeHelperTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/FeedApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/Mobile/Feed.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/OpenAIModerationTest.php" />
+      <option value="$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/EventApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/Services/Event/MobileEvent.php" />
+      <option value="$PROJECT_DIR$/app/app/Support/MergeHelper.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="1" lastUsage="1695030940996" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="687" lastUsage="1698267961649" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1696936467090" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="9" lastUsage="1697182596622" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1695030954365" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Http/Controllers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Http/Controllers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Http/Controllers/Mobile}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Models}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Policies}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Policies}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Policies/Mobile}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Services}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Services}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Services/Event}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Services}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Services/Mobile}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Support}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Transformers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Transformers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Transformers/Mobile}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Transformers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Transformers/Mobile}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/app/Transformers/Mobile/Feed}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/routes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature/Mobile}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature/Mobile}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature/Mobile/Integrations}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Feature/Supports}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partyappadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/p/with-docker/partyappadmin/app/tests/Unit}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="PHPUnit.MyFriendsApiTest.test_get_friends" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyFriendsApiTest_test_get_friends - 2023.10.17 at 09h 36m 37s.xml">
+      <configuration name="MyFriendsApiTest.test_get_friends" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="248079000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <option name="selectedScope" value="All Places" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" weight="0.18932292" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Robo tasks" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005308" visible="true" weight="0.23880208" />
+      <window_info id="Commit" order="1" show_stripe_button="false" weight="0.32970244" />
+      <window_info id="Structure" order="2" show_stripe_button="false" sideWeight="0.49948347" side_tool="true" weight="0.32970244" />
+      <window_info id="Find" order="3" weight="0.32967556" />
+      <window_info id="Hierarchy" order="4" weight="0.3302338" />
+      <window_info id="TODO" order="5" sideWeight="0.49946922" side_tool="true" weight="0.17265625" />
+      <window_info id="Services" order="6" show_stripe_button="false" side_tool="true" weight="0.32967556" />
+      <window_info id="Problems View" order="7" side_tool="true" weight="0.32967556" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info active="true" anchor="bottom" x="34" y="412" width="1886" height="56" id="Terminal" order="0" visible="true" weight="0.028800756" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.33191693" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="bottom" id="Duplicates" order="4" weight="0.33002836" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.38101983" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" weight="0.3302338" />
+      <window_info anchor="right" id="Meet New UI" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" show_stripe_button="false" weight="0.3302338" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" show_stripe_button="false" weight="0.3302338" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info active="true" anchor="right" id="github.copilotToolWindow" order="5" weight="0.015885416" />
+      <unified_weights bottom="0.028800756" left="0.23880208" right="0.015885416" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" weight="0.18932292" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Robo tasks" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50051653" visible="true" weight="0.18411458" />
+      <window_info id="Commit" order="1" show_stripe_button="false" weight="0.32970244" />
+      <window_info id="Structure" order="2" show_stripe_button="false" sideWeight="0.49948347" side_tool="true" weight="0.32970244" />
+      <window_info id="Find" order="3" weight="0.32967556" />
+      <window_info id="Hierarchy" order="4" weight="0.3302338" />
+      <window_info id="TODO" order="5" side_tool="true" weight="0.32967556" />
+      <window_info id="Services" order="6" show_stripe_button="false" side_tool="true" weight="0.32967556" />
+      <window_info id="Problems View" order="7" side_tool="true" weight="0.32967556" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info active="true" anchor="bottom" x="34" y="412" width="1886" height="56" id="Terminal" order="0" visible="true" weight="0.0911237" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.33191693" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="bottom" id="Duplicates" order="4" weight="0.33002836" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" weight="0.3302338" />
+      <window_info anchor="right" id="Meet New UI" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" show_stripe_button="false" weight="0.3302338" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" show_stripe_button="false" weight="0.3302338" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info active="true" anchor="right" id="github.copilotToolWindow" order="5" weight="0.015885416" />
+      <unified_weights bottom="0.0911237" left="0.18411458" right="0.015885416" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>TODO</value>
+      <value>github.copilotToolWindow</value>
+      <value>Run</value>
+      <value>Version Control</value>
+      <value>Duplicates</value>
+      <value>Bookmarks</value>
+      <value>Services</value>
+      <value>Structure</value>
+      <value>make</value>
+      <value>Commit</value>
+      <value>Notifications</value>
+      <value>Database</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Hierarchy</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1388" y="369" width="678" height="574" key="#Notifications" timestamp="1694860145190">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1388" y="369" width="678" height="574" key="#Notifications/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1694860145190" />
+    <state x="1449" y="494" width="517" height="323" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1694859945659">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1449" y="494" width="517" height="323" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1694859945659" />
+    <state x="1555" y="353" width="549" height="605" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1694856636277">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1555" y="353" width="549" height="605" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1694856636277" />
+    <state x="1536" y="373" width="382" height="566" key="#com.intellij.ide.util.MemberChooser" timestamp="1695019928320">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1536" y="373" width="382" height="566" key="#com.intellij.ide.util.MemberChooser/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695019928320" />
+    <state x="1323" y="348" width="804" height="622" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1697526708180">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1323" y="348" width="804" height="622" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1697526708180" />
+    <state x="1482" y="513" width="486" height="293" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1698172990953">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1482" y="513" width="486" height="293" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1698172990953" />
+    <state x="693" y="278" width="528" height="476" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1697034853889">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="278" width="528" height="476" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1697034853889" />
+    <state x="1177" y="324" width="428" height="476" key="FileChooserDialogImpl" timestamp="1698256102412">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="841" y="286" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1698240800900" />
+    <state x="1177" y="324" width="428" height="476" key="FileChooserDialogImpl/0.0.2688.1223@0.0.2688.1223" timestamp="1698256102412" />
+    <state x="1609" y="429" width="432" height="484" key="FileChooserDialogImpl/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1694861193841" />
+    <state width="1854" height="371" key="GridCell.Tab.0.bottom" timestamp="1697528208051">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state width="1854" height="371" key="GridCell.Tab.0.bottom/0.0.2688.1223@0.0.2688.1223" timestamp="1697528208051" />
+    <state width="1854" height="371" key="GridCell.Tab.0.center" timestamp="1697528208051">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state width="1854" height="371" key="GridCell.Tab.0.center/0.0.2688.1223@0.0.2688.1223" timestamp="1697528208051" />
+    <state width="1854" height="371" key="GridCell.Tab.0.left" timestamp="1697528208050">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state width="1854" height="371" key="GridCell.Tab.0.left/0.0.2688.1223@0.0.2688.1223" timestamp="1697528208050" />
+    <state width="1854" height="371" key="GridCell.Tab.0.right" timestamp="1697528208051">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state width="1854" height="371" key="GridCell.Tab.0.right/0.0.2688.1223@0.0.2688.1223" timestamp="1697528208051" />
+    <state x="1413" y="388" width="609" height="505" key="NewPhpClassDialog" timestamp="1698158988748">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1009" y="343" width="609" height="505" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1697033854151" />
+    <state x="1413" y="388" width="700" height="542" key="NewPhpClassDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1698158988748" />
+    <state x="1200" y="168" key="SettingsEditor" timestamp="1698256332992">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="464" y="148" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1697031593303" />
+    <state x="1200" y="168" key="SettingsEditor/0.0.2688.1223@0.0.2688.1223" timestamp="1698256332992" />
+    <state x="1232" y="291" key="SettingsEditor/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695916296453" />
+    <state x="1724" y="117" width="968" height="1078" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1695038199224">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1724" y="117" width="968" height="1078" key="com.intellij.history.integration.ui.views.FileHistoryDialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695038199224" />
+    <state x="1726" y="123" width="964" height="1081" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1698153583304">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1726" y="123" width="964" height="1081" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1698153583304" />
+    <state x="1326" y="364" width="532" height="584" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1694858437586">
+      <screen x="768" y="143" width="1920" height="1080" />
+    </state>
+    <state x="1326" y="364" width="532" height="584" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1694858437586" />
+    <state x="1434" y="474" width="582" height="370" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1698168887004">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1434" y="474" width="582" height="370" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1698168887004" />
+    <state x="651" y="235" width="770" height="831" key="find.popup" timestamp="1698228193359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="651" y="235" width="770" height="831" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1698228193359" />
+    <state x="920" y="281" width="1078" height="942" key="find.popup/0.0.2688.1223@0.0.2688.1223" timestamp="1698148815601" />
+    <state x="1409" y="278" width="770" height="831" key="find.popup/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1694858012406" />
+    <state x="1049" y="441" width="624" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1698256144575">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1049" y="441" width="624" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1698256144575" />
+    <state x="1517" y="532" width="628" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695916198499" />
+    <state x="872" y="234" width="982" height="789" key="search.everywhere.popup" timestamp="1698267961627">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="623" y="207" width="702" height="697" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1698227664083" />
+    <state x="872" y="234" width="982" height="789" key="search.everywhere.popup/0.0.2688.1223@0.0.2688.1223" timestamp="1698267961627" />
+    <state x="1391" y="350" width="701" height="696" key="search.everywhere.popup/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1695045353602" />
+    <state x="685" y="429" width="470" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1697014031557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="429" width="470" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1697014031557" />
+    <state x="959" y="486" width="544" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1696934885261" />
+    <state x="1453" y="572" width="548" height="167" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/768.143.1920.1080/0.0.768.1366@768.143.1920.1080" timestamp="1694980995209" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Exports/EventApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Integrations/PostLikesApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Integrations/ReelLikesApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1551">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Integrations/TicketApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="e#40#71#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Transformers/TransformerPaginableTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="297" column="4" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/VerificationApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyEventsApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Services/PaymentServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/LogTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/UserTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="283" column="12" selection-start-line="283" selection-start-column="12" selection-end-line="283" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Transformers/Events/Show/EventTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Service/EventServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
+          <folding>
+            <element signature="e#42#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/MobileUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2028">
+          <caret line="199" column="4" selection-start-line="199" selection-start-column="4" selection-end-line="199" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Transformers/EventTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/Event/EventBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="214" column="12" selection-start-line="214" selection-start-column="12" selection-end-line="214" selection-end-column="12" />
+          <folding>
+            <element signature="e#38#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/Mobile/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+          <folding>
+            <element signature="e#39#67#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Enums/EventParticipantsStatus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/HousePartyGuestsApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#39#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/BaseService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Transformers/EventPreferenceMobileUserTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/MobileUserTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/UserEventPreferenceApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Controllers/Mobile/MobileUserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Requests/UpdateUserEventsPreferenceRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Controllers/UserEventsPreferenceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factories/HasFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/factories/EventFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/factories/AdvertisementFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/Me/MyPreferencesApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/Advertisement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Service/UserEventPreferenceServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1147">
+          <caret line="95" column="33" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="33" />
+          <folding>
+            <element signature="e#48#77#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/ShowAllPaymentsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="197" column="20" selection-start-line="197" selection-start-column="20" selection-end-line="197" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Controllers/Mobile/FeedController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Models/Traits/Advertisementable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="347" column="4" selection-start-line="347" selection-start-column="4" selection-end-line="347" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Policies/Mobile/EventPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Supports/ImageHelperTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#42#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Support/ImageHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Supports/MergeHelperTest.php" />
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/OpenAIModerationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Http/Controllers/Mobile/EventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="147" column="42" lean-forward="true" selection-start-line="147" selection-start-column="42" selection-end-line="147" selection-end-column="42" />
+          <folding>
+            <element signature="e#47#97#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/EventApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="587" column="4" selection-start-line="587" selection-start-column="4" selection-end-line="587" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/Mobile/Feed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="32" column="86" selection-start-line="32" selection-start-column="86" selection-end-line="32" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Services/Event/MobileEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Transformers/Mobile/Feed/FeedTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/Feature/Mobile/Integrations/FeedApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8372">
+          <caret line="330" column="4" selection-start-line="330" selection-start-column="4" selection-end-line="330" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/Support/MergeHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

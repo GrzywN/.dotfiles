@@ -1,0 +1,622 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="borbot" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Family of 2 table (host: schema main)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Family of 2 table (host: schema main)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="emotes: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Family of 2 table (host: schema main)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="emotes: table" type="3d80ac25:SqliteImplModel$Table" />
+        <item name="Family of 2 column (host: table emotes)" type="d958bea4:BaseModel$BasePositioningNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/channel-points-service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/providers/channel-points-provider/twitch-channel-points-provider.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Database Element">
+      <summary usageCount="5" lastUsed="1698005961535" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1697964197543" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="3" lastUsed="1698006191387" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="6" lastUsed="1698256341556" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="9" lastUsed="1698263125661" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="2" lastUsed="1697992303237" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="68" lastUsed="1698264476977" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="5" lastUsed="1698260921511" />
+    </fileType>
+    <fileType name="tsconfig">
+      <summary usageCount="1" lastUsed="1697971922797" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/services/ChatMessageService.ts" />
+      <option value="$PROJECT_DIR$/src/types/types.d.ts" />
+      <option value="$PROJECT_DIR$/src/services/periodic-message-notification-service.ts" />
+      <option value="$PROJECT_DIR$/src/notifications/email-notification.ts" />
+      <option value="$PROJECT_DIR$/src/notifications/discord-notification.ts" />
+      <option value="$PROJECT_DIR$/src/providers/notification-provider/notification-provider.ts" />
+      <option value="$PROJECT_DIR$/src/notifications/notification.ts" />
+      <option value="$PROJECT_DIR$/src/notifications/pool-notification.ts" />
+      <option value="$PROJECT_DIR$/src/providers/notification-provider/tmi-notification-provider.ts" />
+      <option value="$PROJECT_DIR$/src/utils/queue.ts" />
+      <option value="$PROJECT_DIR$/src/utils/logger.util.ts" />
+      <option value="$PROJECT_DIR$/src/services/periodic-notification-service.ts" />
+      <option value="$PROJECT_DIR$/src/database/sqlite-database/tables/table.ts" />
+      <option value="$PROJECT_DIR$/src/database/sqlite-database/sqlite-database-singleton.ts" />
+      <option value="$PROJECT_DIR$/src/database/sqlite-database/tables/emotes-table.ts" />
+      <option value="$PROJECT_DIR$/src/repositories/emotes-repository/emotes-repository-impl.ts" />
+      <option value="$PROJECT_DIR$/src/repositories/emotes-repository/emotes-repository.ts" />
+      <option value="$PROJECT_DIR$/src/services/chat-message-service.ts" />
+      <option value="$PROJECT_DIR$/src/providers/command-provider/command-provider.ts" />
+      <option value="$PROJECT_DIR$/src/services/emote-counter-service.ts" />
+      <option value="$PROJECT_DIR$/src/providers/command-provider/dummy-command-provider.ts" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/docs/todo.md" />
+      <option value="$PROJECT_DIR$/src/services/channel-points-service.ts" />
+      <option value="$PROJECT_DIR$/src/providers/channel-points-provider/channel-points-provider.ts" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/index.ts" />
+      <option value="$PROJECT_DIR$/src/providers/channel-points-provider/twitch-channel-points-provider.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1697964197543" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1698006191387" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="6" lastUsage="1698256341556" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="2" lastUsage="1697992303237" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="9" lastUsage="1698263125661" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="68" lastUsage="1698264476977" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="5" lastUsage="1698260921511" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/docs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/node_modules}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/node_modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/node_modules/@types}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/node_modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/node_modules/@types}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/node_modules/@types/tmi.js}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/providers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/providers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/providers/channel-points-provider}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/providers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/providers/command-provider}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/providers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/providers/notification-provider}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/grzywn/r/borbot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/grzywn/r/borbot/src/services}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="borbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Database Consoles" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50648000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Robo tasks" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18151042" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" sideWeight="0.50026965" weight="0.33002836" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" sideWeight="0.50026965" weight="0.33002836" />
+      <window_info anchor="bottom" id="Services" order="3" />
+      <window_info active="true" anchor="bottom" x="798" y="1053" width="1854" height="170" id="Terminal" order="4" sideWeight="0.49973032" side_tool="true" visible="true" weight="0.028800756" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.2502604" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <unified_weights bottom="0.028800756" left="0.18151042" right="0.2502604" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Problems View</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1095" y="505" width="1260" height="309" key="#SQL_Dialects" timestamp="1697992261938">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1095" y="505" width="1260" height="309" key="#SQL_Dialects/0.0.2688.1223@0.0.2688.1223" timestamp="1697992261938" />
+    <state x="1323" y="325" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1697992303178">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1323" y="325" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1697992303178" />
+    <state x="1536" y="380" width="378" height="558" key="#com.intellij.ide.util.MemberChooser" timestamp="1698264501448">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1536" y="380" width="378" height="558" key="#com.intellij.ide.util.MemberChooser/0.0.2688.1223@0.0.2688.1223" timestamp="1698264501448" />
+    <state x="1542" y="298" key="SettingsEditor" timestamp="1698256403278">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1542" y="298" key="SettingsEditor/0.0.2688.1223@0.0.2688.1223" timestamp="1698256403278" />
+    <state x="1827" y="539" width="624" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1698256398486">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1827" y="539" width="624" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.2688.1223@0.0.2688.1223" timestamp="1698256398486" />
+    <state x="1391" y="357" width="672" height="696" key="search.everywhere.popup" timestamp="1697972708184">
+      <screen x="0" y="0" width="2688" height="1223" />
+    </state>
+    <state x="1391" y="357" width="672" height="696" key="search.everywhere.popup/0.0.2688.1223@0.0.2688.1223" timestamp="1697972708184" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="131" column="13" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/types/types.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notifications/email-notification.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notifications/discord-notification.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notifications/notification.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notifications/pool-notification.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/queue.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/logger.util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/eece6940-c878-4240-b589-f23edad6f546/console.sql" />
+    <entry file="das://d6b52159-7713-4dd3-8c6d-e073d84cf775/schema/main/table/sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1697992306617" presentationMode="TABLE" projectRestartId="05e8ad6a-044f-486a-a52c-f96f522cdaef" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="rowid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d6b52159-7713-4dd3-8c6d-e073d84cf775/console.sql" />
+    <entry file="file://$PROJECT_DIR$/src/services/periodic-notification-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/sqlite-database/tables/table.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/sqlite-database/tables/emotes-table.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/sqlite-database/sqlite-database-singleton.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repositories/emotes-repository/emotes-repository-impl.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repositories/emotes-repository/emotes-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/emote-counter-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d6b52159-7713-4dd3-8c6d-e073d84cf775/schema/main/table/emotes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1698005961470" presentationMode="TABLE" projectRestartId="05e8ad6a-044f-486a-a52c-f96f522cdaef" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="emote" />
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/providers/notification-provider/twitch-notification-provider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/providers/notification-provider/notification-provider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/providers/command-provider/dummy-command-provider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/tmi.js/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2330">
+          <caret line="420" column="8" selection-start-line="420" selection-start-column="8" selection-end-line="420" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/providers/channel-points-provider/channel-points-provider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/providers/command-provider/command-provider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/chat-message-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/todo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="130">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpremi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="279" lean-forward="true" selection-start-line="279" selection-end-line="279" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/providers/channel-points-provider/twitch-channel-points-provider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/channel-points-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

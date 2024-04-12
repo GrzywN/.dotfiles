@@ -1,0 +1,1359 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ecosun" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-301-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-301-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ecosun.onx.ovh" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-301-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ecosun.onx.ovh" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:admin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-384-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-384-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ecosun.onx.ovh" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-384-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ecosun.onx.ovh" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:admin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-385-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-385-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ecosun.onx.ovh" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:EE-385-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ecosun.onx.ovh" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:admin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="ecosun: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="ecosun: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 48 table (host: schema ecosun)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="ecosun: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 48 table (host: schema ecosun)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="reports: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="ecosun: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 48 table (host: schema ecosun)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="reports: table" type="285a2a93:MysqlImplModel$Table" />
+        <item name="Family of 17 column (host: table reports)" type="d958bea4:BaseModel$BasePositioningNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="ecosun: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 48 table (host: schema ecosun)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="roles: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="ecosun: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 48 table (host: schema ecosun)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="ecosun@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="ecosun: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 48 table (host: schema ecosun)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
+        <item name="Family of 23 column (host: table users)" type="d958bea4:BaseModel$BasePositioningNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/auth/pages/login/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+              <folding>
+                <element signature="e#3331#3387#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/components/Comments.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/AddAttachmentsDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ChangeAttachedUserDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="856">
+              <caret line="188" column="35" selection-start-line="188" selection-start-column="35" selection-end-line="188" selection-end-column="35" />
+              <folding>
+                <element signature="e#2729#2784#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ChangeStatusDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="247" column="23" selection-start-line="247" selection-start-column="23" selection-end-line="247" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/PlannedActionStatusDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="168" column="36" selection-start-line="168" selection-start-column="36" selection-end-line="168" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/RejectReportDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ReportHistory.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-384">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/UrgeDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="145" column="17" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/WaitingForClientDocumentsStatusDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Blade">
+      <summary usageCount="42" lastUsed="1711531461495" />
+    </fileType>
+    <fileType name="CSS">
+      <summary usageCount="2" lastUsed="1711360211437" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1702291377072" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="16" lastUsed="1709905071347" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="3" lastUsed="1706864715310" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="2" lastUsed="1711531760632" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="21" lastUsed="1711360699856" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="247" lastUsed="1711613962443" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="850" lastUsed="1711613957623" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="4" lastUsed="1710947453675" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="3" lastUsed="1709723275356" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="2" lastUsed="1708528643542" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="1" lastUsed="1711531747972" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="10" lastUsed="1708334087514" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="878" lastUsed="1711615794299" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="2" lastUsed="1706791056705" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="17" lastUsed="1710947425767" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toast</find>
+      <find>$toast</find>
+      <find>this.$noti</find>
+      <find>this.$toast</find>
+      <find>detail</find>
+      <find>this.$notifications.add</find>
+      <find>`</find>
+      <find>add</find>
+      <find>axios</find>
+      <find>params</find>
+      <find>/api/users</find>
+      <find>get(</find>
+      <find>AutoComplete</find>
+      <find>filters</find>
+      <find>Dodaj klien</find>
+      <find>Wybierz rodzaj kli</find>
+      <find>FileUp</find>
+      <find>getE</find>
+      <find>compu</find>
+      <find>reports</find>
+      <find>Dodaj</find>
+      <find>Utwórz</find>
+      <find>wiadomo</find>
+      <find>Utwórz z</find>
+      <find>filter</find>
+      <find>priorities</find>
+      <find>Załączone</find>
+      <find>Upload</find>
+      <find>&lt;Upload</find>
+      <find>Doł</find>
+      <find>Załącz plik</find>
+      <find>createRouter</find>
+      <find>attachment</find>
+      <find>Dropdown</find>
+      <find>ReportStatus</find>
+      <find>Reportstat</find>
+      <find>Status</find>
+      <find>save</find>
+      <find>pi-save</find>
+      <find>Zapisz</find>
+      <find>fa-save</find>
+      <find>Import Urge</find>
+      <find>$can</find>
+      <find>TRANSFERRED</find>
+      <find>reports.update</find>
+      <find>reload</find>
+      <find>window</find>
+      <find>createUrge</find>
+      <find>600</find>
+      <find>text-red-600</find>
+      <find>=== `</find>
+      <find>role</find>
+      <find>hasRol</find>
+      <find>useUserStor</find>
+      <find>XLSX</find>
+      <find>id:</find>
+      <find>this.id</find>
+      <find>Kod pocztowy</find>
+      <find>componene</find>
+      <find>Kod</find>
+      <find>postcode</find>
+      <find>Pesel</find>
+      <find>Pesel1</find>
+      <find>pesel:</find>
+      <find>Kreator umów</find>
+      <find>contracts.create</find>
+      <find>Piorytet</find>
+      <find>buffer</find>
+      <find>Link do Do</find>
+      <find>DataTable</find>
+      <find>&lt;DataTable</find>
+      <find>Niepoprawna data</find>
+      <find>w przypadku jego</find>
+      <find>Niepoprawna</find>
+      <find>useUs</find>
+      <find>SkeletonLoader</find>
+      <find>v-if=&quot;data&quot;</find>
+      <find>row menu</find>
+      <find>PLN</find>
+      <find>roles</find>
+      <find>hasRole</find>
+      <find>SalesManagerForm</find>
+      <find>sales_manager</find>
+      <find>min-width:</find>
+      <find>data</find>
+      <find>filterCallback</find>
+      <find>:value-as</find>
+      <find>:value-as-integer</find>
+      <find>Cena</find>
+      <find>netto</find>
+      <find>brutto</find>
+      <find>markTestS</find>
+      <find>toLocale</find>
+      <find>Dodaj Klient</find>
+      <find>TabMenu</find>
+      <find>Carousel</find>
+      <find>component</find>
+      <find>findOrFail</find>
+      <find>ammount</find>
+      <find>amm</find>
+      <find>Amount</find>
+      <find>avarage</find>
+      <find>Klienci</find>
+      <find>Zgłoszenia</find>
+      <find>date_</find>
+      <find>Calendar</find>
+      <find>date'</find>
+      <find>Dodaj proces</find>
+      <find>.show</find>
+      <find>this.</find>
+      <find>this.$router.push</find>
+      <find>app.direc</find>
+      <find>OverlayPa</find>
+      <find>LIKE</find>
+      <find>rounded</find>
+      <find>Notifications</find>
+      <find>admin</find>
+      <find>ReportUrge</find>
+      <find>helpers</find>
+      <find>export</find>
+      <find>is_active</find>
+      <find>dd</find>
+      <find>dump</find>
+      <find>Dofinansowania do systemu</find>
+      <find>handleDraft</find>
+      <find>saveDraf</find>
+      <find>Dinero</find>
+      <find>RenderM</find>
+      <find>Dane techniczne</find>
+      <find>deserunt</find>
+      <find>thread_comment_should_send</find>
+      <find>can_update_contract_pc</find>
+      <find>toLocaleLowerCase</find>
+      <find>contract.</find>
+      <find>contract.data</find>
+      <find>Podgląd procesu sprzedażowego</find>
+      <find>$request</find>
+      <find>Fileupload</find>
+      <find>FileUpload</find>
+      <find>Dodaj klient</find>
+      <find>Splitte</find>
+      <find>dropdownOptionsFromEnum(report</find>
+      <find>Edytuj</find>
+      <find>Dane dla</find>
+      <find>Yup</find>
+      <find>u</find>
+      <find>download</find>
+      <find>Response::download</find>
+      <find>Generuj</find>
+      <find>Ostatnio dodane umowy</find>
+      <find>Dodaj użytkownika</find>
+      <find>PrimeVue</find>
+      <find>#3B82F6</find>
+      <find>p-button</find>
+      <find>p-button-label</find>
+      <find>--</find>
+      <find>Usługi termomodernizacji</find>
+      <find>Prefinansowanie</find>
+      <find>Historia statusów</find>
+      <find>$.</find>
+      <find>Szukaj...</find>
+      <find>searchByKeywords</find>
+      <find>@click=&quot;searchByKeywords&quot;</find>
+      <find>store.form.general.client</find>
+      <find>store.form.general.client_full</find>
+      <find>client_id</find>
+      <find>rows</find>
+      <find>Li</find>
+      <find>:row</find>
+      <find>:rows=&quot;5&quot;</find>
+      <find>:rows=&quot;5&quot;(?:(?!rows-per-page-options).)*$</find>
+      <find>:rows=&quot;5&quot;([\s\S]*?)(?!\brows-per-page-options\b)</find>
+      <find>:rows</find>
+      <find>defaultRows</find>
+      <find>Autocomplete</find>
+      <find>{</find>
+      <find>Dane kontaktowe</find>
+      <find>userValidation</find>
+      <find>new Date()</find>
+      <find>contract_signed_at</find>
+      <find>The completion date</find>
+      <find>Zmień status</find>
+      <find>requiredIf</find>
+      <find>ReportNotification</find>
+      <find>ReportUserWasChangedNotification</find>
+      <find>router</find>
+      <find>this.$router</find>
+      <find>Nie można ponagl</find>
+      <find>&lt;Calendar</find>
+      <find>Mail::fake()</find>
+      <find>date</find>
+      <find>new Date</find>
+      <find />
+      <find>Notification</find>
+      <find>-&gt;notify</find>
+      <find>ReportChangeUserNotification</find>
+      <find>$bo</find>
+      <find>NewCommentIn</find>
+      <find>ProductSaleStatusUpdatedNotification</find>
+      <find>NewContract</find>
+      <find>ReportMail</find>
+      <find>Urge</find>
+      <find>Notification::</find>
+      <find>kbinkowski</find>
+      <find>'pl'</find>
+      <find>@lang</find>
+      <find>If you're having trouble clicking the \&quot;:actionText\&quot; button, copy and paste the URL below\ninto your web browser:</find>
+      <find>&lt;head&gt;</find>
+      <find>Comment</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>text-red-500</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/plugins</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/config</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/shared/plugins</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contract-executions/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/products</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/sources</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/roles</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/auth/pages/change-password</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/auth/pages/reset-password</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/auth/pages/resend-email</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/auth/pages/register</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/auth/pages/login</dir>
+      <dir>$PROJECT_DIR$/app/routes/api</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/services</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/stores</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts/components/steps/rw</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/router</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/clients/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/shared/utils</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/additional-services</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/elements/pv-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/elements/rw-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/database/factories</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/components/AdvisorAutocomplete</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts-accountant</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts-accountant/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/clients</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contract-executions</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/news</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/permissions</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/threads</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/elements/co-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/elements/insulation-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/elements</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/elements/pc-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/shared/valuations/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts/components/steps/pv</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/valuations</dir>
+      <dir>$PROJECT_DIR$/app/resources</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/crews</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/users/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/branches</dir>
+      <dir>$PROJECT_DIR$/app/app/Rules</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/reports/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/dashboard/components</dir>
+      <dir>$PROJECT_DIR$/app/app/DTOs</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/utils</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/threads/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/components/Layout</dir>
+      <dir>$PROJECT_DIR$/app/app/Events</dir>
+      <dir>$PROJECT_DIR$/app/app/Http/Controllers/Admin</dir>
+      <dir>$PROJECT_DIR$/app/app/Notifications</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/notifications/components</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts/components/steps/co</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts/components/steps/pc</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts</dir>
+      <dir>$PROJECT_DIR$/app/app/Transformers</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/contracts/components/steps</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/shared/components</dir>
+      <dir>$PROJECT_DIR$/app/app/Services</dir>
+      <dir>$PROJECT_DIR$/app/tests/Feature</dir>
+      <dir>$PROJECT_DIR$/app/node_modules/primevue/fileupload</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/reports</dir>
+      <dir>$PROJECT_DIR$/app/resources/js/admin/pages/users</dir>
+      <dir>$PROJECT_DIR$/app</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/dashboard</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/dashboard/components</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/css</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/product-sales/components/steps/rw</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports/components/steps/rw</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Http/Controllers</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/elements/insulation-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/elements/pc-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/elements/pv-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/elements/rw-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports/components/steps/insulation</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/product-sales/components/steps/co</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports/components/steps/co</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports/components/steps/pc</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports/components/steps/pv</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports/components/steps</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/news</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/additional-services</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/branches</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/clients</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-executions</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contract-exports/components</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contracts-accountant</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/contracts-accountant/components</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/crews</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/elements/co-elements/elements</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/users</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/permissions</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/product-sales</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/products</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/threads</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/sources</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/roles</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/mixins</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/users/components</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/reports</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/product-sales/utils</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Http/Requests</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Notifications/Traits</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/notifications/components</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/admin/utils</dir>
+      <dir>$PROJECT_DIR$/app/app/tests/Unit/Models</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Notifications</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Jobs</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Http/Controllers/Admin</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Services</dir>
+      <dir>$PROJECT_DIR$/app/app/tests/Feature/Notifications</dir>
+      <dir>$PROJECT_DIR$/app/app/app/Console/Commands</dir>
+      <dir>$PROJECT_DIR$/app/app/config</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/views/vendor/mail/text</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/lang</dir>
+      <dir>$PROJECT_DIR$/app/app/tests/Feature</dir>
+      <dir>$PROJECT_DIR$/app/app/resources/js/auth/pages/login</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/app/app/Services/Pump.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Services/Role.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Services/Source.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Services/Thread.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/UserApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/ThreadApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/ProcessFundingThreadApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/NewsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/ContractExecutionApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/ContractApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Events/ProductSaleStatusUpdatedEvent.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Events/NewContractCreatedEvent.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/ClientsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Notifications/ReportDeadlineReminder0DaysNotification.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Notifications/ReportDeadlineReminder3DaysNotification.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Notifications/ReportSetActionRemindNotification.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Notifications/ReportActionDeadlineReminder0DaysNotification.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Jobs/ReportNotificationSchedulerJob.php" />
+      <option value="$PROJECT_DIR$/app/app/database/factories/ReportFactory.php" />
+      <option value="$PROJECT_DIR$/app/app/app/helpers.php" />
+      <option value="$PROJECT_DIR$/app/app/.env" />
+      <option value="$PROJECT_DIR$/app/app/database/seeders/OverdueReportsSeeder.php" />
+      <option value="$PROJECT_DIR$/app/app/routes/web.php" />
+      <option value="$PROJECT_DIR$/app/app/resources/views/mail/report-overdue-summary-notification.blade.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Console/Commands/TestEmailCommand.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Notifications/ReportOverdueSummaryNotification.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Policies/ReportPolicy.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Http/Requests/ReportChangeUserRequest.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Http/Controllers/Admin/ReportController.php" />
+      <option value="$PROJECT_DIR$/app/app/database/seeders/ReportPermissionSeeder.php" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/Notifications/ReportNotificationsApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Services/Report.php" />
+      <option value="$PROJECT_DIR$/app/app/routes/api/admin.php" />
+      <option value="$PROJECT_DIR$/app/app/resources/views/vendor/notifications/email.blade.php" />
+      <option value="$PROJECT_DIR$/app/app/config/app.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Http/Controllers/Admin/UserController.php" />
+      <option value="$PROJECT_DIR$/app/app/app/Services/User.php" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/Show.vue" />
+      <option value="$PROJECT_DIR$/app/app/tests/Feature/ReportApiTest.php" />
+      <option value="$PROJECT_DIR$/app/app/resources/views/layouts/auth.blade.php" />
+      <option value="$PROJECT_DIR$/app/app/resources/views/layouts/admin.blade.php" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/bootstrap.js" />
+      <option value="$PROJECT_DIR$/app/app/app/Http/Middleware/Authenticate.php" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/auth/pages/login/Login.vue" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ChangeAttachedUserDialog.vue" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ChangeStatusDialog.vue" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/PlannedActionStatusDialog.vue" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/RejectReportDialog.vue" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/UrgeDialog.vue" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/WaitingForClientDocumentsStatusDialog.vue" />
+      <option value="$PROJECT_DIR$/app/app/resources/js/admin/components/Comments.vue" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Blade">
+      <summary usageCount="42" lastUsage="1711531461495" />
+    </language>
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1711360211437" />
+    </language>
+    <language id="Dockerfile">
+      <summary usageCount="3" lastUsage="1706864715310" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="21" lastUsage="1711360699856" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="247" lastUsage="1711613962443" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="850" lastUsage="1711613957623" />
+    </language>
+    <language id="SCSS">
+      <summary usageCount="3" lastUsage="1709723275356" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="2" lastUsage="1708528643542" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="1" lastUsage="1711531747972" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1710947453675" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="10" lastUsage="1708334087514" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="878" lastUsage="1711615794299" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="17" lastUsage="1710947425767" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1706791056705" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/app/Http/Middleware}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin/pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin/pages}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin/pages/reports}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin/pages}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin/pages/reports}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/admin/pages/reports/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecosun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/p/onx/ecosun/app/app/resources/js/auth}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Vite" userDefinedTabTitle="true" currentWorkingDirectory="$PROJECT_DIR$/app/app" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/app/app">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/app/app">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="2" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="771017000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23046875" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1419271" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" weight="0.028800756" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Find" weight="0.22710104" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.2941454" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.22710104" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32058543" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3045326" />
+      <window_info anchor="bottom" id="GraphQL" order="5" />
+      <window_info anchor="bottom" id="Duplicates" order="6" weight="0.33002836" />
+      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.23087819" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.33002836" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25338542" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.21276042" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.32994792" />
+      <unified_weights bottom="0.32058543" left="0.23046875" right="0.25338542" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23046875" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1419271" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" weight="0.028800756" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Find" weight="0.22710104" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.2941454" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.22710104" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.302644" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3045326" />
+      <window_info anchor="bottom" id="GraphQL" order="5" />
+      <window_info anchor="bottom" id="Duplicates" order="6" weight="0.33002836" />
+      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.23087819" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.33002836" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25338542" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.21276042" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.32994792" />
+      <unified_weights bottom="0.302644" left="0.23046875" right="0.25338542" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>SonarLint</value>
+      <value>Database</value>
+      <value>Find</value>
+      <value>GitHub Copilot Chat</value>
+      <value>Welcome to GitHub Copilot</value>
+      <value>Problems View</value>
+      <value>Duplicates</value>
+      <value>github.copilotToolWindow</value>
+      <value>Services</value>
+      <value>TODO</value>
+      <value>Debug</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="82" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1708528643345">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="545" y="82" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1708528643345" />
+    <state x="750" y="157" width="405" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1706798377168">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="750" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1706798377168" />
+    <state x="750" y="105" width="500" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1710497753341">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="758" y="185" width="500" height="341" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1706801970883" />
+    <state x="756" y="165" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1707739305222" />
+    <state x="750" y="105" width="500" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710497753341" />
+    <state x="681" y="149" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1710501623443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="149" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710501623443" />
+    <state x="687" y="218" width="528" height="476" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1710513694779">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="238" width="528" height="476" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1708597609133" />
+    <state x="687" y="218" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710513694779" />
+    <state x="741" y="428" width="428" height="137" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#" timestamp="1710502179967">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="428" width="428" height="137" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710502179967" />
+    <state x="739" y="238" width="428" height="476" key="FileChooserDialogImpl" timestamp="1711617935742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="238" key="FileChooserDialogImpl/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711617935742" />
+    <state x="741" y="258" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1711107295950" />
+    <state x="643" y="176" width="696" height="560" key="NewPhpClassDialog" timestamp="1710502315443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="645" y="196" width="696" height="560" key="NewPhpClassDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1706789259243" />
+    <state x="643" y="176" key="NewPhpClassDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710502315443" />
+    <state x="439" y="55" key="SettingsEditor" timestamp="1711356428003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="439" y="55" key="SettingsEditor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711356428003" />
+    <state x="435" y="15" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1709815456759" />
+    <state x="958" y="-20" width="964" height="1081" key="VCS.FileHistoryDialog" timestamp="1711379317048">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="958" y="-20" width="964" height="1081" key="VCS.FileHistoryDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711379317048" />
+    <state x="772" y="298" width="361" height="356" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1708528548312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="772" y="298" key="com.intellij.database.actions.DbDeleteProvider$2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1708528548312" />
+    <state x="774" y="318" width="361" height="356" key="com.intellij.database.actions.DbDeleteProvider$2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1707478749324" />
+    <state x="261" y="367" width="1387" height="258" key="data.grid.dml.preview.dialog" timestamp="1708529189596">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="261" y="367" width="1387" height="258" key="data.grid.dml.preview.dialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1708529189596" />
+    <state x="1041" y="564" width="733" height="516" key="find.popup" timestamp="1711614657905">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1041" y="564" width="733" height="516" key="find.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711614657905" />
+    <state x="1149" y="156" width="771" height="924" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1711112723736" />
+    <state x="1149" y="156" width="771" height="924" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1709812093963" />
+    <state x="1151" y="176" width="771" height="924" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711531427127" />
+    <state x="739" y="294" width="612" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1709799881719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="294" width="612" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1709799881719" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup" timestamp="1711615745518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711615745518" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1711123361679" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1709827885854" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1711532928258" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/text/panel.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/text/subcopy.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/subcopy.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/table.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/themes/default.css" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/text/table.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/text/footer.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/footer.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/button.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/header.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/layout.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/message.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/mail/html/panel.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/app/resources/lang/en.json" />
+    <entry file="file://$PROJECT_DIR$/app/app/app/Notifications/ReportChangeUserNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="e#37#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/app/Http/Requests/ReportChangeUserRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/vendor/notifications/email.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/routes/api/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/database/seeders/UserPermissionsSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/app/Services/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/app/Http/Controllers/Admin/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/app/Services/Report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="481" column="62" selection-start-line="481" selection-start-column="62" selection-end-line="481" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/layouts/auth.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/public/images/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/public/android-chrome-512x512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/public/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/views/layouts/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/tests/Feature/ReportApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
+          <folding>
+            <element signature="e#33#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/services/UserService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/app/Http/Controllers/Admin/ReportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="107" column="4" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/database/seeders/UserSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1340">
+          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/Show.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/auth/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/auth/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/auth/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/auth/pages/login/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+          <folding>
+            <element signature="e#3331#3387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/AddAttachmentsDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ChangeAttachedUserDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="188" column="35" selection-start-line="188" selection-start-column="35" selection-end-line="188" selection-end-column="35" />
+          <folding>
+            <element signature="e#2729#2784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/Overview.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ChangeStatusDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="247" column="23" selection-start-line="247" selection-start-column="23" selection-end-line="247" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/PlannedActionStatusDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="168" column="36" selection-start-line="168" selection-start-column="36" selection-end-line="168" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/RejectReportDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/ReportHistory.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/UrgeDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="145" column="17" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/pages/reports/components/WaitingForClientDocumentsStatusDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/resources/js/admin/components/Comments.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1074 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="partyappfrontend" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1865-panel-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1894-panel-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1402-b-w-routingu--users" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1402-b-w-routingu--users" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:my" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1434-panel-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1734-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1734-https-" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:panel.events-app.net" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1762-panel-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1865-panel-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1311-panel-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:PAR-1894-panel-https-" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 56 table (host: schema db)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 56 table (host: schema db)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="media: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 56 table (host: schema db)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="mobile_users: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 56 table (host: schema db)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="mobile_users: table" type="dbc44a63:MariaImplModel$Table" />
+        <item name="Family of 23 column (host: table mobile_users)" type="d958bea4:BaseModel$BasePositioningNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/Mobile/NotificationController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Notifications/Mobile/Notification.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/NotificationListTransformer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/Mobile/Integrations/NotificationApiTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1534">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/TestFakeNotification.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1378">
+              <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="das://ba5f20f0-6475-46d4-879f-3903eb04bd14/schema/db/table/mobile_users">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1707409162171" presentationMode="TABLE" projectRestartId="770a995c-e4fd-4a3a-9a2b-4977ae1a1f68" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/Events/Show/MobileUserTransformer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AddCommentToPostNotification.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+              <folding>
+                <element signature="e#37#76#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/Traits/HasAvatar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Blade">
+      <summary usageCount="4" lastUsed="1707228320656" />
+    </fileType>
+    <fileType name="CSS">
+      <summary usageCount="3" lastUsed="1707402129637" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1706269322974" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="30" lastUsed="1707409164628" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="2" lastUsed="1707227893352" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="4" lastUsed="1707123083543" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="22" lastUsed="1706270474480" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1703148047542" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="530" lastUsed="1707409164987" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="4" lastUsed="1706276419624" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="6" lastUsed="1706267634209" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="1" lastUsed="1706186289267" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="64" lastUsed="1707220613216" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="3" lastUsed="1707123084083" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="16" lastUsed="1707402128805" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Wybierz typ imprezy</find>
+      <find>forClient</find>
+      <find>search</find>
+      <find>detach-source</find>
+      <find>event.detac</find>
+      <find>$this-&gt;adminRequest()</find>
+      <find>update(</find>
+      <find>facebook</find>
+      <find>Input</find>
+      <find>useVue</find>
+      <find>ticket</find>
+      <find>provider</find>
+      <find>ticketProviders</find>
+      <find>RequiredIf</find>
+      <find>app\Services\Traits</find>
+      <find>app\Services\Traits\Loggable</find>
+      <find>`</find>
+      <find>wygenerewany</find>
+      <find>Lista postów</find>
+      <find>mobile-users</find>
+      <find>fetchData</find>
+      <find>setPer</find>
+      <find>$filters</find>
+      <find>filter</find>
+      <find>#filter</find>
+      <find>onFilter</find>
+      <find>logUserAc</find>
+      <find>sendPush</find>
+      <find>sendPushNo</find>
+      <find>PeriodNotificationsOfEvents</find>
+      <find>Wybierz typ imp</find>
+      <find>map</find>
+      <find>maps-api</find>
+      <find>Harmonogra</find>
+      <find>voivodeship</find>
+      <find>area</find>
+      <find>voivodo</find>
+      <find>Miasto</find>
+      <find>is_mailing_subscribed</find>
+      <find>auth()-&gt;user()</find>
+      <find>frac</find>
+      <find>::where</find>
+      <find>dd</find>
+      <find>mobile_user</find>
+      <find>age</find>
+      <find>age migra</find>
+      <find>AddCommentToPost</find>
+      <find>AddCommentToPostNotification</find>
+      <find>\HasAvatar</find>
+      <find>app\Notifications\Traits\HasAvatar</find>
+      <find>Wybierz dostaw</find>
+      <find>ticket-providers</find>
+      <find>provider_name</find>
+      <find>Jeśli nie dzia</find>
+      <find>HasAvatar</find>
+      <find>'avatar' =&gt; $this-&gt;getAvatar(</find>
+      <find>getSourceUser</find>
+      <find>getFirstMedia</find>
+      <find>avatar</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/EventCategories</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Category/Web</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/routes</dir>
+      <dir>$PROJECT_DIR$/src/views/admin/pages/events/components</dir>
+      <dir>$PROJECT_DIR$/src/services</dir>
+      <dir>$PROJECT_DIR$/src/views/admin/pages/eventCategories</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Requests</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/AbuseReport</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Login/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Logout/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Register/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Restore/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Ticket/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Verification/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/Mobile/Integrations</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/views/admin/pages/mobileUsers</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services</dir>
+      <dir>$PROJECT_DIR$/src/views/admin/pages/mobileUsers/componets/user</dir>
+      <dir>$PROJECT_DIR$/src/views/admin/pages/phrases</dir>
+      <dir>$PROJECT_DIR$/src/mixins</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Mobile</dir>
+      <dir>$PROJECT_DIR$/src/views/admin/pages/events</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/PromoteEvent/Mobile</dir>
+      <dir>$PROJECT_DIR$/src/views/admin/pages/events/components/PromoteEventModal/components</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/database/migrations</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/MobileUser</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Console/Commands</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Jobs</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/Integrations</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Post/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/database/seeders</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/Mobile</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Event</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/Traits</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers</dir>
+      <dir>$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/database/factories/MobileUserFactory.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Enums/LogModelType.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/MailingApiTest.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/Integrations/MobileUserApiTest.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Models/MobileUser.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/MailingMobileUserTransformer.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/Mobile/MobileUserController.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/External/EventController.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/routes/external.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/External/MailingController.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/MobileUser/MobileUserService.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/Integrations/MailingApiTest.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/Mobile/TicketController.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/database/migrations/2023_08_01_120706_update_mobile_users_by_changing_age_column_table.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/composer.json" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/NotificationTransformer.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/SimilarEventNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Post/Mobile/Post.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/NewAbuseReportArrived.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/NewTicketByMobileUserNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AddedNewParticipantToEventNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AbuseReportConfirmation.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AcceptToFriendsListNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AcceptedToHousePartyNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AddCommentToPostNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AddPostToEventNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/ChatNewMessage.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/ConfirmDeletedResourceAfterAbuseReport.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/InviteToFriendsListNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/ReelLikeNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/RestorePassword.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/ThanksForReportingAbuseReport.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/ShareEventForUsers.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/SignUpToHousePartyNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/PushNotificationTest.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/InviteToFriendsListNotificationTest.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Filters/EventFilter.php" />
+      <option value="$PROJECT_DIR$/src/views/admin/pages/events/List.vue" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Event/EventBase.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/resources/views/vendor/mail/html/themes/default.css" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/.env" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/database/seeders/DatabaseSeeder.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/resources/views/vendor/notifications/email.blade.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Console/Commands/SendPeriodNotificationsCommand.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/SuggestedEventsNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/database/migrations/2024_02_08_161056_add_default_avatar_to_mobile_users.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/Traits/HasAvatar.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/NotificationListTransformer.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/TestFakeNotification.php" />
+      <option value="$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/Mobile/Integrations/NotificationApiTest.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Blade">
+      <summary usageCount="4" lastUsage="1707228320656" />
+    </language>
+    <language id="CSS">
+      <summary usageCount="3" lastUsage="1707402129637" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1707123083543" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="22" lastUsage="1706270474480" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1703148047542" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="530" lastUsage="1707409164987" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="6" lastUsage="1706267634209" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1706276419624" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="1" lastUsage="1706186289268" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="64" lastUsage="1707220613216" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="16" lastUsage="1707402128805" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1707123084083" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/../trackmark" />
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$/../crm">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="2" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160202000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Robo tasks" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2893229" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Welcome to GitHub Copilot" order="3" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.24881963" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38479698" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.723796" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.43106705" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.19713542" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.17473958" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <unified_weights bottom="0.723796" left="0.2893229" right="0.19713542" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Database</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Services</value>
+      <value>Find</value>
+      <value>github.copilotToolWindow</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="122" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1704704431866">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="549" y="122" width="804" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1704704431866" />
+    <state x="701" y="309" width="500" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1706181559182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="701" y="309" width="500" height="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1706181559182" />
+    <state x="739" y="238" width="428" height="476" key="FileChooserDialogImpl" timestamp="1704364636866">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="238" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1704364636866" />
+    <state width="1297" height="424" key="GridCell.Tab.0.bottom" timestamp="1705578501957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="424" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1705578501957" />
+    <state width="1297" height="424" key="GridCell.Tab.0.center" timestamp="1705578501957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="424" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1705578501957" />
+    <state width="1297" height="424" key="GridCell.Tab.0.left" timestamp="1705578501957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="424" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1705578501957" />
+    <state width="1297" height="424" key="GridCell.Tab.0.right" timestamp="1705578501957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="424" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1705578501957" />
+    <state width="1297" height="497" key="GridCell.Tab.1.bottom" timestamp="1705578452266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="497" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1705578452266" />
+    <state width="1297" height="497" key="GridCell.Tab.1.center" timestamp="1705578452266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="497" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1705578452266" />
+    <state width="1297" height="497" key="GridCell.Tab.1.left" timestamp="1705578452266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="497" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1705578452266" />
+    <state width="1297" height="497" key="GridCell.Tab.1.right" timestamp="1705578452266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1297" height="497" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1705578452266" />
+    <state x="647" y="216" width="616" height="560" key="NewPhpClassDialog" timestamp="1705334469350">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="216" width="616" height="560" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1705334469350" />
+    <state x="756" y="425" width="398" height="143" key="NewPhpFileDialog" timestamp="1705574216627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="425" width="398" height="143" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1705574216627" />
+    <state x="640" y="265" width="622" height="383" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1705575462676">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="265" width="622" height="383" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1705575462676" />
+    <state x="819" y="564" width="782" height="516" key="find.popup" timestamp="1707407467266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="819" y="564" width="782" height="516" key="find.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1707407467266" />
+    <state x="809" y="564" width="782" height="516" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1707221612790" />
+    <state x="693" y="564" width="863" height="516" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706278417867" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1707220939293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1707220939293" />
+    <state x="191" y="284" width="568" height="425" key="refactoring.ChangeSignatureDialog" timestamp="1705407914963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="191" y="284" width="568" height="425" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1705407914963" />
+    <state x="622" y="236" key="run.anything.popup" timestamp="1707132544450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="236" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1707132544450" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup" timestamp="1707406375972">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1707406375972" />
+    <state x="623" y="214" width="806" height="698" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1707229389314" />
+    <state x="623" y="214" width="719" height="698" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706281954806" />
+    <state x="673" y="301" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1707405104329">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="673" y="301" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1707405104329" />
+    <state x="677" y="341" width="544" height="191" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1707224405382" />
+    <state x="671" y="281" width="544" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1706274153231" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/PushNotificationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/InviteToFriendsListNotificationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#33#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Register/Mobile/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/public/avatar-base.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/AttachUserToEventTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/ShareEventForUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Geohash36.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Facades/Geohash36.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ba5f20f0-6475-46d4-879f-3903eb04bd14/schema/db/table/events">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1707137589462" presentationMode="TABLE" projectRestartId="74d5e49f-5f00-4162-b78c-7d5941c9ae1a" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/admin/pages/events/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7514">
+          <caret line="296" selection-start-line="296" selection-end-line="296" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/Mobile/TicketController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="64" column="99" selection-start-line="64" selection-start-column="99" selection-end-line="64" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/EventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3484">
+          <caret line="139" column="48" selection-start-line="139" selection-start-column="48" selection-end-line="139" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Filters/EventFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5512">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Console/Commands/AddingEvents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/AddingEvents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6188">
+          <caret line="248" column="13" selection-start-line="248" selection-start-column="13" selection-end-line="248" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Event/EventBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="413" lean-forward="true" selection-start-line="413" selection-end-line="413" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/resources/views/vendor/mail/html/button.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/vendor/laravel/framework/src/Illuminate/Contracts/Support/Renderable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/vendor/laravel/framework/src/Illuminate/Notifications/Messages/SimpleMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#53#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/database/seeders/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/public/logo_dodatkowe_1_rgb_354x44.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/resources/views/vendor/notifications/email.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/resources/views/vendor/mail/html/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Jobs/PeriodNotificationsOfEvents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-892">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#28#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Console/Commands/SendPeriodNotificationsCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/resources/views/vendor/mail/html/themes/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7540">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/SuggestedEventsNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#37#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/NotificationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/routes/mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="135" column="54" selection-start-line="135" selection-start-column="54" selection-end-line="135" selection-end-column="54" />
+          <folding>
+            <element signature="e#7#54#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/database/migrations/2023_05_22_084557_create_notifications_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ba5f20f0-6475-46d4-879f-3903eb04bd14/schema/db/table/notifications">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1707402770361" presentationMode="TABLE" projectRestartId="abe05879-5f05-4f28-bb64-135a3562825c" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/database/seeders/UserSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/database/seeders/MobileUserSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/database/migrations/2023_03_16_000000_create_mobile_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/database/migrations/2024_02_08_161056_add_default_avatar_to_mobile_users.php" />
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/InviteToFriendsListNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/UserTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ba5f20f0-6475-46d4-879f-3903eb04bd14/schema/db/table/media">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1707407003588" presentationMode="TABLE" projectRestartId="abe05879-5f05-4f28-bb64-135a3562825c" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Http/Controllers/Mobile/NotificationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Services/Notifications/Mobile/Notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/NotificationListTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/tests/Feature/Mobile/Integrations/NotificationApiTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1534">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/TestFakeNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ba5f20f0-6475-46d4-879f-3903eb04bd14/schema/db/table/mobile_users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1707409162171" presentationMode="TABLE" projectRestartId="770a995c-e4fd-4a3a-9a2b-4977ae1a1f68" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Transformers/Events/Show/MobileUserTransformer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/AddCommentToPostNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding>
+            <element signature="e#37#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../onx/partyappadmin/app/app/Notifications/Traits/HasAvatar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/p/ltbackend">
-          <value>
-            <RecentProjectMetaInfo frameTitle="ltbackend – pre-push" projectWorkspaceId="2XG1sKxcDNdO7hdDN3qaX5luOX9">
-              <option name="activationTimestamp" value="1698245646946" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986610254" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="-2" y="-20" width="1924" height="1080" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1698240807546" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/r/borbot">
           <value>
             <RecentProjectMetaInfo frameTitle="borbot – index.ts" projectWorkspaceId="2X2bddnZJpJfvWlDLqmpuJgk80d">
@@ -50,8 +34,328 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/p/addresfinder">
+          <value>
+            <RecentProjectMetaInfo frameTitle="addresfinder – mobile.php" opened="true" projectWorkspaceId="2XcX4XZujnXQs6YNyK3P0ekbIs2">
+              <option name="activationTimestamp" value="1698930252868" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202310002" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698929150349" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/r/mapper-ts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mapper-ts – index.ts" projectWorkspaceId="2XcfXmhzAQktVCaFMkCsQgVa2RX">
+              <option name="activationTimestamp" value="1698999934119" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202316172" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698933331080" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/mapper">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mapper – mobile.php" projectWorkspaceId="2XcX4XZujnXQs6YNyK3P0ekbIs2">
+              <option name="activationTimestamp" value="1699022776659" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202313432" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1699022156057" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/roadfinder">
+          <value>
+            <RecentProjectMetaInfo frameTitle="roadfinder – app.module.ts" projectWorkspaceId="2XfaqY9vIfGVzrVtFpt7gT6mWge">
+              <option name="activationTimestamp" value="1699610837708" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202306177" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1699610746125" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/roadfinder-frontend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="roadfinder-frontend – components.ts" projectWorkspaceId="2XnhuGGq2pCmV7glQwly5IHdvsi">
+              <option name="activationTimestamp" value="1699619759809" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202306177" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1699610853147" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/onx/partyappadmin">
+          <value>
+            <RecentProjectMetaInfo frameTitle="partyappadmin – FindDuplicateEventsServiceTest.php" projectWorkspaceId="2XeqXw6yMU5cQhLKjXEm72IRZZI">
+              <option name="activationTimestamp" value="1701247370612" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202329876" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1701246584159" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/onx/mainservice/app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="app – GetCarOffers.php" projectWorkspaceId="2ZCvLcd1fAIC21pa6XzH4ZD50eB">
+              <option name="activationTimestamp" value="1701942728601" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202318493" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1701941090278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/translateservice">
+          <value>
+            <RecentProjectMetaInfo frameTitle="translateservice – translate.controller.spec.ts" projectWorkspaceId="2Z7ZCqOS4blkNjXLkunQnsUhZ1K">
+              <option name="activationTimestamp" value="1701944273384" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202318493" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1701943420263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/ai-translate-service">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ai-translate-service – translate.e2e-spec.ts" projectWorkspaceId="2Z7oPRjUTr9Y1yI7QBeG7aY3iOR">
+              <option name="activationTimestamp" value="1702031585615" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202350632" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1702026705739" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/onx/mainservice">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mainservice – AdderResource.php" projectWorkspaceId="2ZCzRv8axQ1lKb8fYCiNgQlYFaF">
+              <option name="activationTimestamp" value="1702285682014" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202350632" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1702031688395" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/ltbackend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ltbackend – auth.service.ts" projectWorkspaceId="2XUEre0WQshA4gDo6h1le5Sex6n">
+              <option name="activationTimestamp" value="1703148038835" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202320534" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1703000416958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/ltfrontend">
+          <value>
+            <RecentProjectMetaInfo displayName="ltfrontend, ltbackend" frameTitle="ltfrontend" projectWorkspaceId="2XUHDo8F1KtxppT0sESnAyo1YLv">
+              <option name="activationTimestamp" value="1706867982185" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202323785" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1706866511995" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/partyappfrontend">
+          <value>
+            <RecentProjectMetaInfo displayName="partyappfrontend, app" frameTitle="partyappfrontend – NotificationController.php [app]" projectWorkspaceId="2ZqSJ6zi4bEHtfHii7axOBoHPlV">
+              <option name="activationTimestamp" value="1707409543423" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202304822" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1707409165139" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/onx/crm-ekoradcy">
+          <value>
+            <RecentProjectMetaInfo frameTitle="crm-ekoradcy – subcopy.blade.php" projectWorkspaceId="2aUEDmSONI37RJXANphWdu0ZgZU">
+              <option name="activationTimestamp" value="1708341873789" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202321558" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1708341455391" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/trackmark/apps">
+          <value>
+            <RecentProjectMetaInfo frameTitle="apps – ~/p/trackmark/apps/backend/node_modules/mongodb/src/cmap/connection_pool.ts" projectWorkspaceId="2bo4GXGt5t68sCXkQ4TBBbGU7Bb">
+              <option name="activationTimestamp" value="1709721061946" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202356825" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1709280083753" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/ozc-modern">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ozc-modern – UserSeeder.php" projectWorkspaceId="2e2erJM3kA2tqrXyf2rej90kfzA">
+              <option name="activationTimestamp" value="1711109742852" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202304925" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1711107297600" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/crm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="crm – UserService.php" projectWorkspaceId="2biEAPlyYKcJkGS2iu1qP1nf3U6">
+              <option name="activationTimestamp" value="1711378753495" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202325820" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1711372241343" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/onx/ecosun">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ecosun – Comments.vue" projectWorkspaceId="2Xvmupq17WQo6Rxfb0YRqKHlkNd">
+              <option name="activationTimestamp" value="1711617935777" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202309909" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1711378804656" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/projekt-ozc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="projekt-ozc" projectWorkspaceId="2eJLrzrR7XVesi73GCzqYt81DIb">
+              <option name="activationTimestamp" value="1712057096649" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202331039" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1711626955519" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/p/smartholweb">
+          <value>
+            <RecentProjectMetaInfo frameTitle="smartholweb – README.md" opened="true" projectWorkspaceId="2eXi0FRGQgPPhB49ry4GBXCe21d">
+              <option name="activationTimestamp" value="1712058674065" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202308957" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="-20" width="1924" height="1081" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1712057098943" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/p/with-docker/partyappadmin" />
+    <option name="lastOpenedProject" value="$USER_HOME$/p/smartholweb" />
   </component>
 </application>

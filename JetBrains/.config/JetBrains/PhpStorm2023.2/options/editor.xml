@@ -7,6 +7,12 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="references" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
     <option name="disabledOptions">
@@ -29,5 +35,9 @@
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
