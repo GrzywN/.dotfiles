@@ -4,7 +4,36 @@ local capabilities = require("nvchad.configs.lspconfig").capabilities
 
 local lspconfig = require "lspconfig"
 local util = require "lspconfig/util"
-local servers = { "html", "cssls" }
+
+-- :LspInfo
+local servers = { 
+  -- Lua
+  "lua_ls",
+
+  -- HTML
+  "html", "htmx",
+
+  -- CSS
+  "cssls", "tailwindcss",
+
+  -- JavaScript / TypeScript
+  "tsserver",
+
+  -- Frontend frameworks
+  "astro", "volar", "vuels",
+
+  -- PHP
+  "intelephense", "pest_ls",
+
+  -- Go
+  "gopls",
+
+  -- DevOps
+  "terraform_lsp", "terraformls", "snyk_ls", "docker_compose_language_service", "bashls", "dockerls", "yamlls",
+
+  -- Databases
+  "prismals", 
+}
 
 for _, lsp in ipairs(servers) do
   lspconfig[lsp].setup {
