@@ -191,7 +191,6 @@ workspace $ws10 output nonprimary
 assign [class="Chromium"] $ws1
 assign [class="firefox"] $ws1
 
-assign [class="Alacritty"] $ws2
 assign [class="code"] $ws2
 
 assign [class="GitKraken"] $ws3
