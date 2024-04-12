@@ -10,10 +10,17 @@ Uses GNU Stow – https://www.gnu.org/software/stow/
 
 ## Usage: 
 
+Install stow
 ```bash
-cd ~
-git clone git@github.com:GrzywN/.dotfiles.git
-cd .dotfiles
-rm README.md
-stow * 
+sudo apt-get install stow
+```
+
+Clone .dotfiles
+```bash
+git clone git@github.com:GrzywN/.dotfiles.git ~/.dotfiles
+```
+
+Stow files
+```bash
+cd $HOME/.dotfiles && ./popos
 ```
