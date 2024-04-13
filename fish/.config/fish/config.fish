@@ -5,8 +5,9 @@ set -gx TERM xterm-256color
 # Aliases
 alias ls='ls --color=auto'
 alias ll='ls -la'
+alias todo='nvim ~/todo.md'
+
 command -qv nvim && alias vim nvim
-command -qv nvim ~/todo.md && alias todo
 
 # Neovim
 set -gx EDITOR nvim
