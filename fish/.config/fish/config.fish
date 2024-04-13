@@ -17,6 +17,10 @@ set -gx PATH bin $PATH
 set -gx PATH ~/bin $PATH
 set -gx PATH ~/.local/bin $PATH
 
+# NVM
+set --universal nvm_default_version v20.12.2
+set --universal nvm_default_packages yarn
+
 # PNPM
 set -gx PNPM_HOME "/home/grzywn/.local/share/pnpm"
 if not string match -q -- $PNPM_HOME $PATH
