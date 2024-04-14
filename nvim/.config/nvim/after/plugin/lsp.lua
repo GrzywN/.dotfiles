@@ -85,6 +85,8 @@ require 'lspconfig'.volar.setup {
   filetypes = { 'typescript', 'javascript', 'javascriptreact', 'typescriptreact', 'vue', 'json' }
 }
 
+lsp_zero.setup_servers({'dartls', force = true})
+
 local cmp = require('cmp')
 local cmp_action = lsp_zero.cmp_action()
 local cmp_select = { behavior = cmp.SelectBehavior.Select }
