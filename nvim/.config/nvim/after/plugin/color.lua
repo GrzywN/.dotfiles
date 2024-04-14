@@ -1,4 +1,4 @@
-require('onedark').load()
+require('catppuccin').load()
 
 function configureColors(color)
   color = color or 'onedark'
@@ -10,4 +10,4 @@ function configureColors(color)
   -- vim.api.nvim_set_hl(0, 'NormalFloat', { bg = 'none', })
 end
 
-configureColors('onedark')
+configureColors('catppuccin-mocha')

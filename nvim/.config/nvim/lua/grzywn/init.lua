@@ -1,3 +1,3 @@
 require('grzywn.set')
-require('grzywn.packer')
+require('grzywn.lazy')
 require('grzywn.remap')

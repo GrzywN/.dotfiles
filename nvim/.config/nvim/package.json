@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vue/typescript-plugin": "2.0.13",
+    "typescript": "5.4.5"
+  }
+}
