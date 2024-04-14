@@ -42,3 +42,4 @@ set -gx PATH $FLYCTL_INSTALL/bin $PATH
 set -x PATH "$PATH" "$HOME/flutter/bin"
 
 starship init fish | source
+zoxide init fish --cmd="cd" | source
