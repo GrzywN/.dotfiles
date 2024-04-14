@@ -28,13 +28,15 @@ if not string match -q -- $PNPM_HOME $PATH
 end
 
 # Flutter / Android SDK
-set -gx PATH /opt/flutter/bin $PATH
-set -x PATH $PATH $HOME/.pub-cache/bin
-set -gx PATH /home/grzywn/Android/Sdk/platform-tools $PATH
-set -x JAVA_HOME /usr/lib/jvm/default
-set -x PATH $PATH $JAVA_HOME/bin
-set -x PATH "$PATH" "$HOME/flutter/bin"
-set -x CHROME_EXECUTABLE firefox
+
+## Exposes flutter and dart binaries
+set -gx PATH $HOME/sdks/flutter/bin $PATH
+
+## Exposes cached dart and dartaotruntime binaries
+set -gx PATH $HOME/sdks/flutter/bin/cache/dart-sdk/bin $PATH
+
+## Exposes adb, fastboot and other platform-tools binaries
+set -gx PATH $HOME/sdks/Android/Sdk/platform-tools $PATH
 
 # Fly.io
 set -x FLYCTL_INSTALL "/home/grzywn/.fly"
