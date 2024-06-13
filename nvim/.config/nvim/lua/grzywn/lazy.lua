@@ -64,15 +64,24 @@ require("lazy").setup({
 	  dependencies = { "nvim-tree/nvim-web-devicons" },
   },
   {'ThePrimeagen/harpoon'},
-
-  -- TODO: configure nvim for flutter development
-  -- Flutter development
-  -- use 'dart-lang/dart-vim-plugin'
-  -- use 'thosakwe/vim-flutter'
-  -- use 'RobertBrunhage/flutter-riverpod-snippets'
-  -- use 'Neevash/awesome-flutter-snippets'
+  {
+    "stevearc/oil.nvim",
+    dependencies = { "nvim-tree/nvim-web-devicons" },
+    config = function()
+      require("oil").setup {
+        columns = { "icon" },
+        view_options = {
+          show_hidden = true,
+        },
+      }
+    end,
+  },
 
   -- Utility
   {'christoomey/vim-tmux-navigator'},
   {'Oldenborg/vim-px-to-rem'},
+
+  -- AI
+  --
+  {'github/copilot.vim'},
 })
