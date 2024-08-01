@@ -1,0 +1,803 @@
+2024-08-02 00:36:47.533 [info] Extension host with pid 404358 started
+2024-08-02 00:36:47.533 [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/75c96781bda7b6a3eddc7200cf2c15d1.
+2024-08-02 00:36:48.148 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-08-02 00:36:48.229 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-02 00:36:48.428 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'api', root cause: Vue.volar
+2024-08-02 00:36:49.459 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-02 00:36:49.473 [info] ExtensionService#_doActivateExtension dooez.alt-catppuccin-vsc, startup: true, activationEvent: '*'
+2024-08-02 00:36:49.495 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-08-02 00:36:49.511 [info] ExtensionService#_doActivateExtension tal7aouy.rainbow-bracket, startup: true, activationEvent: '*'
+2024-08-02 00:36:49.530 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-08-02 00:36:49.546 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-08-02 00:36:49.759 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-02 00:36:49.901 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-02 00:36:50.186 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: true, activationEvent: 'workspaceContains:**/*.php'
+2024-08-02 00:36:52.373 [info] Eager extensions activated
+2024-08-02 00:36:52.432 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 00:36:52.440 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 00:36:52.490 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 00:36:52.593 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 00:36:52.750 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 00:36:53.516 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 00:36:53.725 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 00:36:54.204 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-08-02 00:37:04.220 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-02 00:37:04.258 [error] An error occurred when disposing the subscriptions for extension 'Gruntfuggly.todo-tree':
+2024-08-02 00:37:04.259 [error] AggregateError: Encountered errors while disposing of store
+    at $ (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:820)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:13379
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+    at Object.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11354)
+    at m.eb (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10056)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7927
+    at Array.map (<anonymous>)
+    at m.$ (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7914)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8187)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-02 00:37:04.263 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.263 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.264 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.264 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.264 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.265 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.265 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.266 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-02 00:37:04.276 [error] Fake Auth request failed
+2024-08-02 00:37:04.276 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-02 00:37:04.276 [error] Fake Auth request failed
+2024-08-02 00:37:04.276 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-02 00:37:04.276 [error] Fake Auth request failed
+2024-08-02 00:37:04.276 [error] Canceled: Canceled
+    at Object.u [as $5] (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at E.dispose (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+    at $.terminate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-02 00:37:04.311 [error] Fake Auth request failed
+2024-08-02 00:37:04.312 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.312 [error] Fake Auth request failed
+2024-08-02 00:37:04.312 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.312 [error] Fake Auth request failed
+2024-08-02 00:37:04.312 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.331 [error] Fake Auth request failed
+2024-08-02 00:37:04.332 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.332 [error] Fake Auth request failed
+2024-08-02 00:37:04.332 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.332 [error] Fake Auth request failed
+2024-08-02 00:37:04.332 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.332 [error] Fake Auth request failed
+2024-08-02 00:37:04.332 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.332 [error] Fake Auth request failed
+2024-08-02 00:37:04.332 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.332 [error] Fake Auth request failed
+2024-08-02 00:37:04.332 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.333 [error] Fake Auth request failed
+2024-08-02 00:37:04.337 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.337 [error] Fake Auth request failed
+2024-08-02 00:37:04.337 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.337 [error] Fake Auth request failed
+2024-08-02 00:37:04.337 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.337 [error] Fake Auth request failed
+2024-08-02 00:37:04.338 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.338 [error] Fake Auth request failed
+2024-08-02 00:37:04.338 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.338 [error] Fake Auth request failed
+2024-08-02 00:37:04.338 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.338 [error] Fake Auth request failed
+2024-08-02 00:37:04.339 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.339 [error] Fake Auth request failed
+2024-08-02 00:37:04.339 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.339 [error] Fake Auth request failed
+2024-08-02 00:37:04.339 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.339 [error] Fake Auth request failed
+2024-08-02 00:37:04.339 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.339 [error] Fake Auth request failed
+2024-08-02 00:37:04.339 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.339 [error] Fake Auth request failed
+2024-08-02 00:37:04.339 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.339 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.340 [error] Fake Auth request failed
+2024-08-02 00:37:04.340 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.341 [error] Fake Auth request failed
+2024-08-02 00:37:04.341 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.341 [error] Fake Auth request failed
+2024-08-02 00:37:04.341 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.341 [error] Fake Auth request failed
+2024-08-02 00:37:04.341 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.341 [error] Fake Auth request failed
+2024-08-02 00:37:04.341 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.341 [error] Fake Auth request failed
+2024-08-02 00:37:04.341 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.341 [error] Fake Auth request failed
+2024-08-02 00:37:04.341 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.341 [error] Fake Auth request failed
+2024-08-02 00:37:04.342 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.342 [error] Fake Auth request failed
+2024-08-02 00:37:04.342 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.342 [error] Fake Auth request failed
+2024-08-02 00:37:04.342 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.342 [error] Fake Auth request failed
+2024-08-02 00:37:04.342 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.342 [error] Fake Auth request failed
+2024-08-02 00:37:04.342 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.342 [error] Fake Auth request failed
+2024-08-02 00:37:04.342 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.343 [error] Fake Auth request failed
+2024-08-02 00:37:04.343 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.343 [error] Fake Auth request failed
+2024-08-02 00:37:04.343 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.343 [error] Fake Auth request failed
+2024-08-02 00:37:04.343 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.343 [error] Fake Auth request failed
+2024-08-02 00:37:04.343 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.343 [error] Fake Auth request failed
+2024-08-02 00:37:04.343 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.343 [error] Fake Auth request failed
+2024-08-02 00:37:04.343 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.344 [error] Fake Auth request failed
+2024-08-02 00:37:04.344 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.344 [error] Fake Auth request failed
+2024-08-02 00:37:04.344 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.344 [error] Fake Auth request failed
+2024-08-02 00:37:04.344 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.344 [error] Fake Auth request failed
+2024-08-02 00:37:04.344 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.344 [error] Fake Auth request failed
+2024-08-02 00:37:04.344 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.344 [error] Fake Auth request failed
+2024-08-02 00:37:04.344 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.344 [error] Fake Auth request failed
+2024-08-02 00:37:04.345 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.345 [error] Fake Auth request failed
+2024-08-02 00:37:04.345 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.345 [error] Fake Auth request failed
+2024-08-02 00:37:04.345 [error] Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at /snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60083
+    at I.getOrCreate (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:61607)
+    at c.getSession (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:60031)
+    at d.n (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157105)
+    at d.q (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:157577)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-02 00:37:04.358 [warning] Canceled
+2024-08-02 00:37:04.360 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new C (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at F.resolveProxy (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:44187)
+    at Object.resolveProxy (/snap/code/165/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:32108)
+    at useProxySettings (/snap/code/165/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:179:16)
+    at /snap/code/165/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:114:13
+    at /snap/code/165/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:483:13
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-08-02 00:37:04.399 [info] Extension host with pid 404358 exiting with code 0

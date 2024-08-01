@@ -1,0 +1,244 @@
+2024-07-31 20:38:42.757 [info] Started initializing default profile extensions in extensions installation folder. file:///home/user/.vscode/extensions
+2024-07-31 20:38:42.893 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/user/.vscode/extensions Unable to create file 'vscode-userdata:/home/user/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-07-31 20:38:42.893 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/user/.vscode/extensions
+2024-07-31 20:39:56.184 [info] Getting Manifest... dooez.alt-catppuccin-vsc
+2024-07-31 20:39:56.194 [info] Installing extension: dooez.alt-catppuccin-vsc {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 20:39:58.527 [info] Extension signature verification result for dooez.alt-catppuccin-vsc: Success. Executed: true. Duration: 1542ms.
+2024-07-31 20:39:58.626 [info] Extracted extension to file:///home/user/.vscode/extensions/dooez.alt-catppuccin-vsc-2.7.4: dooez.alt-catppuccin-vsc
+2024-07-31 20:39:58.638 [info] Renamed to /home/user/.vscode/extensions/dooez.alt-catppuccin-vsc-2.7.4
+2024-07-31 20:39:58.652 [info] Extension installed successfully: dooez.alt-catppuccin-vsc vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 20:39:58.714 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 20:41:24.147 [info] Getting Manifest... esbenp.prettier-vscode
+2024-07-31 20:41:24.182 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 20:41:25.728 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Executed: true. Duration: 801ms.
+2024-07-31 20:41:25.852 [info] Extracted extension to file:///home/user/.vscode/extensions/esbenp.prettier-vscode-10.4.0: esbenp.prettier-vscode
+2024-07-31 20:41:25.863 [info] Renamed to /home/user/.vscode/extensions/esbenp.prettier-vscode-10.4.0
+2024-07-31 20:41:25.877 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 20:41:25.911 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 20:41:33.355 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-07-31 20:41:33.380 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 20:41:34.975 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Executed: true. Duration: 1190ms.
+2024-07-31 20:41:34.997 [info] Extracted extension to file:///home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-07-31 20:41:35.009 [info] Renamed to /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-07-31 20:41:35.023 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 20:41:35.091 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 20:41:38.966 [info] Getting Manifest... xabikos.javascriptsnippets
+2024-07-31 20:41:38.974 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 20:41:40.212 [info] Extension signature verification result for xabikos.javascriptsnippets: Success. Executed: true. Duration: 888ms.
+2024-07-31 20:41:40.228 [info] Extracted extension to file:///home/user/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2024-07-31 20:41:40.239 [info] Renamed to /home/user/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2024-07-31 20:41:40.260 [info] Extension installed successfully: xabikos.javascriptsnippets vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 20:41:40.323 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 20:41:47.658 [info] Getting Manifest... christian-kohler.npm-intellisense
+2024-07-31 20:41:47.672 [info] Installing extension: christian-kohler.npm-intellisense {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 20:41:49.118 [info] Extension signature verification result for christian-kohler.npm-intellisense: Success. Executed: true. Duration: 917ms.
+2024-07-31 20:41:49.162 [info] Extracted extension to file:///home/user/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5: christian-kohler.npm-intellisense
+2024-07-31 20:41:49.174 [info] Renamed to /home/user/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5
+2024-07-31 20:41:49.189 [info] Extension installed successfully: christian-kohler.npm-intellisense vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 20:41:49.257 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 20:41:51.583 [info] Getting Manifest... vue.volar
+2024-07-31 20:41:51.590 [info] Installing extension: vue.volar {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 20:41:53.067 [info] Extension signature verification result for vue.volar: Success. Executed: true. Duration: 907ms.
+2024-07-31 20:41:53.151 [info] Extracted extension to file:///home/user/.vscode/extensions/vue.volar-2.0.28: vue.volar
+2024-07-31 20:41:53.161 [info] Renamed to /home/user/.vscode/extensions/vue.volar-2.0.28
+2024-07-31 20:41:53.179 [info] Extension installed successfully: vue.volar vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 20:41:53.244 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 20:42:24.815 [info] Getting Manifest... tal7aouy.rainbow-bracket
+2024-07-31 20:42:24.827 [info] Installing extension: tal7aouy.rainbow-bracket {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 20:42:26.298 [info] Extension signature verification result for tal7aouy.rainbow-bracket: Success. Executed: true. Duration: 841ms.
+2024-07-31 20:42:26.916 [info] Extracted extension to file:///home/user/.vscode/extensions/tal7aouy.rainbow-bracket-1.0.2: tal7aouy.rainbow-bracket
+2024-07-31 20:42:26.928 [info] Renamed to /home/user/.vscode/extensions/tal7aouy.rainbow-bracket-1.0.2
+2024-07-31 20:42:26.953 [info] Extension installed successfully: tal7aouy.rainbow-bracket vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 20:42:27.013 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 21:59:45.723 [info] Getting Manifest... editorconfig.editorconfig
+2024-07-31 21:59:45.753 [info] Installing extension: editorconfig.editorconfig {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 21:59:47.168 [info] Extension signature verification result for editorconfig.editorconfig: Success. Executed: true. Duration: 885ms.
+2024-07-31 21:59:47.277 [info] Extracted extension to file:///home/user/.vscode/extensions/editorconfig.editorconfig-0.16.4: editorconfig.editorconfig
+2024-07-31 21:59:47.291 [info] Renamed to /home/user/.vscode/extensions/editorconfig.editorconfig-0.16.4
+2024-07-31 21:59:47.343 [info] Extension installed successfully: editorconfig.editorconfig vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 21:59:47.366 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 21:59:49.220 [info] Getting Manifest... mikestead.dotenv
+2024-07-31 21:59:49.236 [info] Installing extension: mikestead.dotenv {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 21:59:50.511 [info] Extension signature verification result for mikestead.dotenv: Success. Executed: true. Duration: 892ms.
+2024-07-31 21:59:50.531 [info] Extracted extension to file:///home/user/.vscode/extensions/mikestead.dotenv-1.0.1: mikestead.dotenv
+2024-07-31 21:59:50.535 [info] Renamed to /home/user/.vscode/extensions/mikestead.dotenv-1.0.1
+2024-07-31 21:59:50.549 [info] Extension installed successfully: mikestead.dotenv vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 21:59:50.615 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 21:59:51.324 [info] Getting Manifest... onecentlin.laravel-blade
+2024-07-31 21:59:51.335 [info] Installing extension: onecentlin.laravel-blade {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 21:59:53.757 [info] Extension signature verification result for onecentlin.laravel-blade: Success. Executed: true. Duration: 852ms.
+2024-07-31 21:59:54.036 [info] Getting Manifest... onecentlin.laravel5-snippets
+2024-07-31 21:59:54.048 [info] Installing extension: onecentlin.laravel5-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 21:59:54.421 [info] Extracted extension to file:///home/user/.vscode/extensions/onecentlin.laravel-blade-1.36.1: onecentlin.laravel-blade
+2024-07-31 21:59:54.426 [info] Renamed to /home/user/.vscode/extensions/onecentlin.laravel-blade-1.36.1
+2024-07-31 21:59:54.488 [info] Extension installed successfully: onecentlin.laravel-blade vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 21:59:54.558 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 21:59:55.344 [info] Extension signature verification result for onecentlin.laravel5-snippets: Success. Executed: true. Duration: 955ms.
+2024-07-31 21:59:55.412 [info] Extracted extension to file:///home/user/.vscode/extensions/onecentlin.laravel5-snippets-1.18.0: onecentlin.laravel5-snippets
+2024-07-31 21:59:55.424 [info] Renamed to /home/user/.vscode/extensions/onecentlin.laravel5-snippets-1.18.0
+2024-07-31 21:59:55.442 [info] Extension installed successfully: onecentlin.laravel5-snippets vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 21:59:55.507 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:00.185 [info] Getting Manifest... amiralizadeh9480.laravel-extra-intellisense
+2024-07-31 22:00:00.195 [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 22:00:01.691 [info] Extension signature verification result for amiralizadeh9480.laravel-extra-intellisense: Success. Executed: true. Duration: 826ms.
+2024-07-31 22:00:01.737 [info] Extracted extension to file:///home/user/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.6: amiralizadeh9480.laravel-extra-intellisense
+2024-07-31 22:00:01.747 [info] Renamed to /home/user/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.6
+2024-07-31 22:00:01.762 [info] Extension installed successfully: amiralizadeh9480.laravel-extra-intellisense vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:01.828 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:07.140 [info] Getting Manifest... naoray.laravel-goto-components
+2024-07-31 22:00:07.152 [info] Installing extension: naoray.laravel-goto-components {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 22:00:08.460 [info] Extension signature verification result for naoray.laravel-goto-components: Success. Executed: true. Duration: 923ms.
+2024-07-31 22:00:08.469 [info] Extracted extension to file:///home/user/.vscode/extensions/naoray.laravel-goto-components-1.2.0: naoray.laravel-goto-components
+2024-07-31 22:00:08.478 [info] Renamed to /home/user/.vscode/extensions/naoray.laravel-goto-components-1.2.0
+2024-07-31 22:00:08.494 [info] Extension installed successfully: naoray.laravel-goto-components vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:08.558 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:17.915 [info] Getting Manifest... damms005.devdb
+2024-07-31 22:00:17.932 [info] Installing extension: damms005.devdb {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 22:00:22.479 [info] Extension signature verification result for damms005.devdb: Success. Executed: true. Duration: 944ms.
+2024-07-31 22:00:26.284 [info] Extracted extension to file:///home/user/.vscode/extensions/damms005.devdb-1.11.4-linux-x64: damms005.devdb
+2024-07-31 22:00:26.311 [info] Renamed to /home/user/.vscode/extensions/damms005.devdb-1.11.4-linux-x64
+2024-07-31 22:00:26.329 [info] Extension installed successfully: damms005.devdb vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:26.399 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:33.108 [info] Getting Manifest... xdebug.php-pack
+2024-07-31 22:00:33.121 [info] Installing extension: xdebug.php-pack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-31 22:00:33.404 [info] Getting Manifest... xdebug.php-debug
+2024-07-31 22:00:33.438 [info] Getting Manifest... zobo.php-intellisense
+2024-07-31 22:00:33.513 [info] Installing extension: xdebug.php-debug {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-31 22:00:33.513 [info] Installing extension: zobo.php-intellisense {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-31 22:00:35.635 [info] Extension signature verification result for xdebug.php-pack: Success. Executed: true. Duration: 818ms.
+2024-07-31 22:00:35.648 [info] Extracted extension to file:///home/user/.vscode/extensions/xdebug.php-pack-1.0.3: xdebug.php-pack
+2024-07-31 22:00:35.657 [info] Renamed to /home/user/.vscode/extensions/xdebug.php-pack-1.0.3
+2024-07-31 22:00:35.744 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:35.853 [info] Extension signature verification result for xdebug.php-debug: Success. Executed: true. Duration: 867ms.
+2024-07-31 22:00:36.372 [info] Extension signature verification result for zobo.php-intellisense: Success. Executed: true. Duration: 1090ms.
+2024-07-31 22:00:36.829 [info] Extracted extension to file:///home/user/.vscode/extensions/xdebug.php-debug-1.35.0: xdebug.php-debug
+2024-07-31 22:00:36.839 [info] Renamed to /home/user/.vscode/extensions/xdebug.php-debug-1.35.0
+2024-07-31 22:00:36.932 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:39.192 [info] Extracted extension to file:///home/user/.vscode/extensions/zobo.php-intellisense-1.3.3: zobo.php-intellisense
+2024-07-31 22:00:39.207 [info] Renamed to /home/user/.vscode/extensions/zobo.php-intellisense-1.3.3
+2024-07-31 22:00:39.227 [info] Extension installed successfully: xdebug.php-pack vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:39.227 [info] Extension installed successfully: xdebug.php-debug vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:39.228 [info] Extension installed successfully: zobo.php-intellisense vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:39.295 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:44.790 [info] Uninstalling extension from the profile: damms005.devdb@1.11.4 vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:44.821 [info] Marked extension as uninstalled damms005.devdb-1.11.4-linux-x64
+2024-07-31 22:00:44.886 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:44.996 [info] Successfully uninstalled extension from the profile damms005.devdb@1.11.4 vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:50.074 [info] Uninstalling extension from the profile: mikestead.dotenv@1.0.1 vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-07-31 22:00:50.097 [info] Marked extension as uninstalled mikestead.dotenv-1.0.1
+2024-07-31 22:00:50.166 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-31 22:00:50.258 [info] Successfully uninstalled extension from the profile mikestead.dotenv@1.0.1 vscode-userdata:/home/user/.vscode/extensions/extensions.json

@@ -1,0 +1,16 @@
+[Info  - 00:36:53] ESLint server is starting.
+[Info  - 00:36:54] ESLint server running in node v20.14.0
+[Info  - 00:36:54] ESLint server is running.
+[Info  - 00:36:55] ESLint library loaded from: /home/user/p/projekt-ozc/app/node_modules/eslint/lib/api.js
+[Error - 00:36:55] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step8.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Info  - 00:37:04] ESLint server stopped.

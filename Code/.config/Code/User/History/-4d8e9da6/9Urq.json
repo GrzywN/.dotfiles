@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Alt Catppuccin Mocha",
+  "RainbowBrackets.depreciation-notice": false,
+  "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "compact",
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "debug.console.fontSize": 16,
+  "window.customTitleBarVisibility": "auto",
+  "workbench.activityBar.location": "bottom",
+  "workbench.sideBar.location": "right",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "editor.renderWhitespace": "all"
+}

@@ -1,0 +1,47 @@
+2024-08-01 09:11:45.579 [info] Deleted uninstalled extension from disk damms005.devdb /home/user/.vscode/extensions/damms005.devdb-1.11.4-linux-x64
+2024-08-01 09:11:45.580 [info] Deleted uninstalled extension from disk mikestead.dotenv /home/user/.vscode/extensions/mikestead.dotenv-1.0.1
+2024-08-01 12:15:42.210 [info] Getting Manifest... github.copilot
+2024-08-01 12:15:42.222 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-08-01 12:15:43.167 [info] Getting Manifest... github.copilot-chat
+2024-08-01 12:15:43.268 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-08-01 12:15:47.416 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 1023ms.
+2024-08-01 12:15:47.529 [info] Extension signature verification result for github.copilot-chat: Success. Executed: true. Duration: 1055ms.
+2024-08-01 12:15:48.256 [info] Extracted extension to file:///home/user/.vscode/extensions/github.copilot-chat-0.17.1: github.copilot-chat
+2024-08-01 12:15:48.263 [info] Renamed to /home/user/.vscode/extensions/github.copilot-chat-0.17.1
+2024-08-01 12:15:48.324 [info] Extracted extension to file:///home/user/.vscode/extensions/github.copilot-1.219.0: github.copilot
+2024-08-01 12:15:48.329 [info] Renamed to /home/user/.vscode/extensions/github.copilot-1.219.0
+2024-08-01 12:15:48.354 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-01 12:15:48.359 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-08-01 12:15:48.359 [info] Extension installed successfully: github.copilot vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-08-01 14:38:55.604 [info] Getting Manifest... gruntfuggly.todo-tree
+2024-08-01 14:38:55.624 [info] Installing extension: gruntfuggly.todo-tree {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-08-01 14:38:57.219 [info] Extension signature verification result for gruntfuggly.todo-tree: Success. Executed: true. Duration: 887ms.
+2024-08-01 14:38:57.307 [info] Extracted extension to file:///home/user/.vscode/extensions/gruntfuggly.todo-tree-0.0.226: gruntfuggly.todo-tree
+2024-08-01 14:38:57.322 [info] Renamed to /home/user/.vscode/extensions/gruntfuggly.todo-tree-0.0.226
+2024-08-01 14:38:57.355 [info] Extension installed successfully: gruntfuggly.todo-tree vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-08-01 14:38:57.415 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-01 14:39:01.485 [info] Getting Manifest... wayou.vscode-todo-highlight
+2024-08-01 14:39:01.499 [info] Installing extension: wayou.vscode-todo-highlight {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-08-01 14:39:03.141 [info] Extension signature verification result for wayou.vscode-todo-highlight: Success. Executed: true. Duration: 967ms.
+2024-08-01 14:39:03.246 [info] Extracted extension to file:///home/user/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5: wayou.vscode-todo-highlight
+2024-08-01 14:39:03.262 [info] Renamed to /home/user/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5
+2024-08-01 14:39:03.307 [info] Extension installed successfully: wayou.vscode-todo-highlight vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-08-01 14:39:03.324 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/snap/code/164/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)

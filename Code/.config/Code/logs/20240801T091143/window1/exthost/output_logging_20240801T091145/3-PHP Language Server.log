@@ -1,0 +1,891 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The Xdebug extension is not loaded
+
+[Info  - 09:11:52] OK!
+[Info  - 09:11:52] 10480 files total (unfiltered 10480)
+[Info  - 09:11:52] Indexing project for definitions and static references
+Parsing file:///home/user/p/projekt-ozc/app/storage/framework/views/be4b983db7afa26600524eadc49be7a1.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/web.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/inertia-api.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/api.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/webhooks.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/channels.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/mobile.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/console.php
+Parsing file:///home/user/p/projekt-ozc/app/.phpstorm.meta.php
+[Info  - 09:11:53] Ignoring file file:///home/user/p/projekt-ozc/app/.phpstorm.meta.php because it exceeds size limit of 150000 bytes (249588)
+Parsing file:///home/user/p/projekt-ozc/app/_ide_helper.php
+[Info  - 09:11:53] Ignoring file file:///home/user/p/projekt-ozc/app/_ide_helper.php because it exceeds size limit of 150000 bytes (901271)
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/passwords.php
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/pagination.php
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/validation.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Pest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/TestCase.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/CreatesApplication.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/EmailVerificationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/PasswordResetTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/AuthenticationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/RegistrationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/PasswordUpdateTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/PasswordConfirmationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/DoorApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/PaymentApiTestApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/UserApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/WindowApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/OZCLimitApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/PackageApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/IsolatorApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/MaterialApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/BranchApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/CalculationApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/ProfileTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/BreadcrumbsTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/RoofHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/BasementExternalWallHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/BasementSlabOnGroundHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/UnheatedBasementSlabHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/MaterialTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/PaymentPriceTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/UserTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/OZCLimitTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/DoorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/TransactionTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/PackageTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/IsolatorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/CalculationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/InvitationToBranchTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/WindowTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/BranchTest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Policies/BranchPolicy.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/UserService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/CalculationService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/OZCLimitsService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/Auth/AuthService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/BranchService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/ChartService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/PaymentService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/Traits/Loggable.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/PackageService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/TransactionService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/InvitationToBranchService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/DoorService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/ClimaticStationService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/MaterialService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/SeeklyService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/IsolatorService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/WindowService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/SearchableService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/ClimaticStationUpdaterService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/PvGisService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/DashboardService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Kernel.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/ImportOldOzcDatabase.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/MakeModelTest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/MakeApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/UpdateClimaticStations.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/MathHelper.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/AtticHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/WindowAndDoorHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Roof/RoofHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/VentilationHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/UnheatedBasementSlabHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/BasementSlabOnGroundHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/BasementExternalWallHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/BasementHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/HotWaterHeating.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Abstracts/BaseLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/InternalHeatGain.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/WallHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/CalculatorFactorsDto.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Calculator.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Wrappers/Payment/PaymentInterface.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Wrappers/Payment/Payment.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Wrappers/Payment/Providers/Przelewy24.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/RoofInsulationType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PaymentProviders.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Methods/ValuesToList.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/UserType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Voivodeships.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/TypesOfVentilation.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/YearOfConstruction.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PaymentStatus.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PaymentPeriod.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/SubstrateType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PropertyType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/ChartTimeRange.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/YearOfWindows.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Month.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Provider.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/GetsAttributes.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Description.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Value.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/AfterRegisterFreeLimitNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/NewBranchInvitationNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/CalculationLimitIsRunningOutNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/UserRemovedFromBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/CyclicalRemindersAboutExpiringLimitsNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/SuccessPaymentNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/DeclineInviteToBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/UserLeaveBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/helpers.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Listeners/UpdateLastLoginTimestamp.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/InvitationToBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Package.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Role.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/OZCLimit.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Door.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Transaction.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Permission.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Calculation.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Branch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/User.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Window.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Material.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/PaymentPrice.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Isolator.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/CalculationHistoryDebug.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Jobs/UpdateClimaticStationsJob.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Jobs/CyclicalRemindersAboutExpiringLimits.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Requests/LoginRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Health.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/LoginUnprocessable.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Package.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/OZCLimit.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Login.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Calculation.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/User.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Unauthorized.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateUserRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/ChangeStatusUserRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdatePackageRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/Auth/LoginRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreOZCLimitRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/ProfileUpdateRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/PayRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StorePaymentRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreMaterialRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StepByStepForm/StepByStepRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StepByStepForm/StepByStepInterface.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/CalculatorFactorsRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateOZCLimitRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreDoorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateMaterialRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/ChangeBranchStatusRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreUserRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/PatchBranchRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateWindowRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreWindowRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateDoorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/InviteUserToBranchRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreBranchRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StorePackageRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateIsolatorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreCalculationRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreIsolatorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/ActivityResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/PaymentPriceResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/IsolatorResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/DoorResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/BranchResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/InvitationToBranchResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/WindowResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/PackageResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/TransactionResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/CalculationResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/UserResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/MaterialResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/OZCLimitResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/ClimaticStationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/MaterialController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/AuthenticatedSessionController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/EmailVerificationNotificationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/PasswordController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/NewPasswordController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/RegisteredUserController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/VerifyEmailController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/ConfirmablePasswordController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/PasswordResetLinkController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/EmailVerificationPromptController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/PaymentController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/BranchController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/IsolatorController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/SearchableController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/UserController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/ProfileController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/DashboardController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/OZCLimitController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/CalculationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/PackageController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/DoorController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/WindowController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/BaseMobileController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/UserController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/OZCLimitController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/AuthController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/HealthController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Webhooks/PaymentPrzelewy24Controller.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Api/BaseApiController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Api/CalculationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Api/HealthController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/SeeklyController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Middleware/HandleInertiaRequests.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Middleware/ForceJsonResponse.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Facades/InviteToBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Providers/AppServiceProvider.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Providers/TelescopeServiceProvider.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Exports/CalculationExport.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Rules/TurnstileRule.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Rules/SimpleEmailRule.php
+Parsing file:///home/user/p/projekt-ozc/app/node_modules/flatted/php/flatted.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/app.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/providers.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/cache/services.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/cache/packages.php
+Parsing file:///home/user/p/projekt-ozc/app/public/index.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/InstalledVersions.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_static.php
+[Info  - 09:11:55] Ignoring file file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (1246383)
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/ClassLoader.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/installed.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_real.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_classmap.php
+[Info  - 09:11:55] Ignoring file file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (1134424)
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_namespaces.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_files.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_psr4.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/autoload.php
+Parsing file:///home/user/p/projekt-ozc/app/config/laratrust.php
+Parsing file:///home/user/p/projekt-ozc/app/config/services.php
+Parsing file:///home/user/p/projekt-ozc/app/config/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/config/logging.php
+Parsing file:///home/user/p/projekt-ozc/app/config/app.php
+Parsing file:///home/user/p/projekt-ozc/app/config/sanctum.php
+Parsing file:///home/user/p/projekt-ozc/app/config/mail.php
+Parsing file:///home/user/p/projekt-ozc/app/config/broadcasting.php
+Parsing file:///home/user/p/projekt-ozc/app/config/l5-swagger.php
+Parsing file:///home/user/p/projekt-ozc/app/config/database.php
+Parsing file:///home/user/p/projekt-ozc/app/config/scout.php
+Parsing file:///home/user/p/projekt-ozc/app/config/turnstile.php
+Parsing file:///home/user/p/projekt-ozc/app/config/cache.php
+Parsing file:///home/user/p/projekt-ozc/app/config/filesystems.php
+Parsing file:///home/user/p/projekt-ozc/app/config/session.php
+Parsing file:///home/user/p/projekt-ozc/app/config/telescope.php
+Parsing file:///home/user/p/projekt-ozc/app/config/queue.php
+Parsing file:///home/user/p/projekt-ozc/app/config/seekly.php
+Parsing file:///home/user/p/projekt-ozc/app/config/transfers24.php
+Parsing file:///home/user/p/projekt-ozc/app/_ide_helper_models.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_113931_create_branches_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_102828_create_isolators_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_123242_laratrust_setup_tables.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_135121_create_packages_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_05_090155_create_invitation_to_branches_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/0001_01_01_000001_create_cache_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_131423_create_personal_access_tokens_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_04_094356_create_transactions_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_29_112556_create_payment_price_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_095604_create_materials_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_18_074828_create_telescope_entries_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_11_073945_create_calculation_history_debugs_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_091309_create_windows_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/0001_01_01_000000_create_users_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_114912_create_o_z_c_limits_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/0001_01_01_000002_create_jobs_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_074525_create_doors_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_28_115241_add_batch_uuid_column_to_activity_log_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_05_130636_create_calculations_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_28_115240_add_event_column_to_activity_log_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_28_115239_create_activity_log_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/MaterialSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/RoleSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PermissionsBaseSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/DoorPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/AllPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/UserSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/IsolatorPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PackageSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/CalculationPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/BranchPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/ClimaticStationSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/BranchSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/MaterialPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/DatabaseSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/IsolatorSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/CalculationSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/WindowSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PackagePermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/OZCLimitSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/WindowPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/UserPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/DoorSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/OzcLimitPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PaymentPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/IsolatorFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/DoorFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/BranchFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/WindowFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/MaterialFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/OZCLimitFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/CalculationFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/UserFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/PackageFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/breadcrumbs.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/passwords.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/email.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/pagination.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/validation.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/app.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/l5-swagger/index.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/notifications/email.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/welcome.blade.php
+[Info  - 09:11:56] Indexing project for dynamic references
+Parsing file:///home/user/p/projekt-ozc/app/storage/framework/views/be4b983db7afa26600524eadc49be7a1.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/web.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/inertia-api.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/api.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/webhooks.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/channels.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/mobile.php
+Parsing file:///home/user/p/projekt-ozc/app/routes/console.php
+Parsing file:///home/user/p/projekt-ozc/app/.phpstorm.meta.php
+[Info  - 09:11:56] Ignoring file file:///home/user/p/projekt-ozc/app/.phpstorm.meta.php because it exceeds size limit of 150000 bytes (249588)
+Parsing file:///home/user/p/projekt-ozc/app/_ide_helper.php
+[Info  - 09:11:56] Ignoring file file:///home/user/p/projekt-ozc/app/_ide_helper.php because it exceeds size limit of 150000 bytes (901271)
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/passwords.php
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/pagination.php
+Parsing file:///home/user/p/projekt-ozc/app/lang/en/validation.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Pest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/TestCase.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/CreatesApplication.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/EmailVerificationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/PasswordResetTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/AuthenticationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/RegistrationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/PasswordUpdateTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Auth/PasswordConfirmationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/DoorApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/PaymentApiTestApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/UserApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/WindowApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/OZCLimitApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/PackageApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/IsolatorApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/MaterialApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/BranchApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/Api/CalculationApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Feature/ProfileTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/BreadcrumbsTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/RoofHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/BasementExternalWallHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/BasementSlabOnGroundHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/OzcCalculator/Algorithms/UnheatedBasementSlabHeatLoseFactorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/MaterialTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/PaymentPriceTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/UserTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/OZCLimitTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/DoorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/TransactionTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/PackageTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/IsolatorTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/CalculationTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/InvitationToBranchTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/WindowTest.php
+Parsing file:///home/user/p/projekt-ozc/app/tests/Unit/Models/BranchTest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Policies/BranchPolicy.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/UserService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/CalculationService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/OZCLimitsService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/Auth/AuthService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/BranchService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/ChartService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/PaymentService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/Traits/Loggable.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/PackageService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/TransactionService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/InvitationToBranchService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/DoorService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/ClimaticStationService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/MaterialService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/SeeklyService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/IsolatorService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/WindowService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/SearchableService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/ClimaticStationUpdaterService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/PvGisService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Services/DashboardService.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Kernel.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/ImportOldOzcDatabase.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/MakeModelTest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/MakeApiTest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Console/Commands/UpdateClimaticStations.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/MathHelper.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/AtticHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/WindowAndDoorHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Roof/RoofHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/VentilationHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/UnheatedBasementSlabHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/BasementSlabOnGroundHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/BasementExternalWallHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Basement/BasementHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/HotWaterHeating.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/Abstracts/BaseLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/InternalHeatGain.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Algorithms/WallHeatLoseFactor.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/CalculatorFactorsDto.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Supports/OzcCalculator/Calculator.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Wrappers/Payment/PaymentInterface.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Wrappers/Payment/Payment.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Wrappers/Payment/Providers/Przelewy24.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/RoofInsulationType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PaymentProviders.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Methods/ValuesToList.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/UserType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Voivodeships.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/TypesOfVentilation.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/YearOfConstruction.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PaymentStatus.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PaymentPeriod.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/SubstrateType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/PropertyType.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/ChartTimeRange.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/YearOfWindows.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Month.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Provider.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/GetsAttributes.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Description.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Enums/Attributes/Value.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/AfterRegisterFreeLimitNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/NewBranchInvitationNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/CalculationLimitIsRunningOutNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/UserRemovedFromBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/CyclicalRemindersAboutExpiringLimitsNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/SuccessPaymentNotification.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/DeclineInviteToBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Notifications/UserLeaveBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/helpers.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Listeners/UpdateLastLoginTimestamp.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/InvitationToBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Package.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Role.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/OZCLimit.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Door.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Transaction.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Permission.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Calculation.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Branch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/User.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Window.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Material.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/PaymentPrice.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/Isolator.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Models/CalculationHistoryDebug.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Jobs/UpdateClimaticStationsJob.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Jobs/CyclicalRemindersAboutExpiringLimits.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Requests/LoginRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Health.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/LoginUnprocessable.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Package.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/OZCLimit.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Login.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Calculation.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/User.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Virtual/Models/Unauthorized.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateUserRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/ChangeStatusUserRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdatePackageRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/Auth/LoginRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreOZCLimitRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/ProfileUpdateRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/PayRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StorePaymentRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreMaterialRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StepByStepForm/StepByStepRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StepByStepForm/StepByStepInterface.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/CalculatorFactorsRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateOZCLimitRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreDoorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateMaterialRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/ChangeBranchStatusRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreUserRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/PatchBranchRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateWindowRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreWindowRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateDoorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/InviteUserToBranchRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreBranchRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StorePackageRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/UpdateIsolatorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreCalculationRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Requests/StoreIsolatorRequest.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/ActivityResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/PaymentPriceResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/IsolatorResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/DoorResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/BranchResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/InvitationToBranchResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/WindowResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/PackageResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/TransactionResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/CalculationResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/UserResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/MaterialResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Resources/OZCLimitResource.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/ClimaticStationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/MaterialController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/AuthenticatedSessionController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/EmailVerificationNotificationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/PasswordController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/NewPasswordController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/RegisteredUserController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/VerifyEmailController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/ConfirmablePasswordController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/PasswordResetLinkController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/Auth/EmailVerificationPromptController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/PaymentController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/BranchController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/IsolatorController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/SearchableController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/UserController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/ProfileController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/DashboardController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/OZCLimitController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/CalculationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/PackageController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/DoorController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Web/WindowController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/BaseMobileController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/UserController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/OZCLimitController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/AuthController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Mobile/HealthController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Webhooks/PaymentPrzelewy24Controller.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Api/BaseApiController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Api/CalculationController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/Api/HealthController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Controllers/SeeklyController.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Middleware/HandleInertiaRequests.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Http/Middleware/ForceJsonResponse.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Facades/InviteToBranch.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Providers/AppServiceProvider.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Providers/TelescopeServiceProvider.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Exports/CalculationExport.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Rules/TurnstileRule.php
+Parsing file:///home/user/p/projekt-ozc/app/app/Rules/SimpleEmailRule.php
+Parsing file:///home/user/p/projekt-ozc/app/node_modules/flatted/php/flatted.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/app.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/providers.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/cache/services.php
+Parsing file:///home/user/p/projekt-ozc/app/bootstrap/cache/packages.php
+Parsing file:///home/user/p/projekt-ozc/app/public/index.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/InstalledVersions.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_static.php
+[Info  - 09:11:58] Ignoring file file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (1246383)
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/ClassLoader.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/installed.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_real.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_classmap.php
+[Info  - 09:11:58] Ignoring file file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (1134424)
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_namespaces.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_files.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/composer/autoload_psr4.php
+Parsing file:///home/user/p/projekt-ozc/app/vendor/autoload.php
+Parsing file:///home/user/p/projekt-ozc/app/config/laratrust.php
+Parsing file:///home/user/p/projekt-ozc/app/config/services.php
+Parsing file:///home/user/p/projekt-ozc/app/config/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/config/logging.php
+Parsing file:///home/user/p/projekt-ozc/app/config/app.php
+Parsing file:///home/user/p/projekt-ozc/app/config/sanctum.php
+Parsing file:///home/user/p/projekt-ozc/app/config/mail.php
+Parsing file:///home/user/p/projekt-ozc/app/config/broadcasting.php
+Parsing file:///home/user/p/projekt-ozc/app/config/l5-swagger.php
+Parsing file:///home/user/p/projekt-ozc/app/config/database.php
+Parsing file:///home/user/p/projekt-ozc/app/config/scout.php
+Parsing file:///home/user/p/projekt-ozc/app/config/turnstile.php
+Parsing file:///home/user/p/projekt-ozc/app/config/cache.php
+Parsing file:///home/user/p/projekt-ozc/app/config/filesystems.php
+Parsing file:///home/user/p/projekt-ozc/app/config/session.php
+Parsing file:///home/user/p/projekt-ozc/app/config/telescope.php
+Parsing file:///home/user/p/projekt-ozc/app/config/queue.php
+Parsing file:///home/user/p/projekt-ozc/app/config/seekly.php
+Parsing file:///home/user/p/projekt-ozc/app/config/transfers24.php
+Parsing file:///home/user/p/projekt-ozc/app/_ide_helper_models.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_113931_create_branches_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_102828_create_isolators_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_123242_laratrust_setup_tables.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_135121_create_packages_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_05_090155_create_invitation_to_branches_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/0001_01_01_000001_create_cache_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_131423_create_personal_access_tokens_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_04_094356_create_transactions_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_29_112556_create_payment_price_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_095604_create_materials_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_18_074828_create_telescope_entries_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_11_073945_create_calculation_history_debugs_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_091309_create_windows_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/0001_01_01_000000_create_users_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_27_114912_create_o_z_c_limits_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/0001_01_01_000002_create_jobs_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_16_074525_create_doors_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_28_115241_add_batch_uuid_column_to_activity_log_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_04_05_130636_create_calculations_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_28_115240_add_event_column_to_activity_log_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/migrations/2024_03_28_115239_create_activity_log_table.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/MaterialSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/RoleSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PermissionsBaseSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/DoorPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/AllPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/UserSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/IsolatorPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PackageSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/CalculationPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/BranchPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/ClimaticStationSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/BranchSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/MaterialPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/DatabaseSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/IsolatorSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/CalculationSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/WindowSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PackagePermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/OZCLimitSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/WindowPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/UserPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/DoorSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/OzcLimitPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/seeders/PaymentPermissionsSeeder.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/IsolatorFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/DoorFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/BranchFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/WindowFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/MaterialFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/OZCLimitFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/CalculationFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/UserFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/database/factories/PackageFactory.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/auth.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/breadcrumbs.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/passwords.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/email.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/pagination.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/lang/pl/validation.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/app.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/l5-swagger/index.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/notifications/email.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/welcome.blade.php
+[Info  - 09:11:59] 174 Packages
+[Info  - 09:11:59] Restored egulias/email-validator:4.0.2 from cache
+[Info  - 09:11:59] Restored hamcrest/hamcrest-php:2.0.1 from cache
+[Info  - 09:11:59] Restored phpunit/phpunit:10.5.15 from cache
+[Info  - 09:11:59] Restored phpunit/php-text-template:3.0.1 from cache
+[Info  - 09:11:59] Restored phpunit/php-timer:6.0.0 from cache
+[Info  - 09:11:59] Restored phpunit/php-code-coverage:10.1.14 from cache
+[Info  - 09:11:59] Restored phpunit/php-invoker:4.0.0 from cache
+[Info  - 09:11:59] Restored phpunit/php-file-iterator:4.1.0 from cache
+[Info  - 09:11:59] Restored carbonphp/carbon-doctrine-types:3.2.0 from cache
+[Info  - 09:11:59] Restored guzzlehttp/promises:2.0.2 from cache
+[Info  - 09:11:59] Restored guzzlehttp/guzzle:7.8.1 from cache
+[Info  - 09:11:59] Restored guzzlehttp/uri-template:1.0.3 from cache
+[Info  - 09:11:59] Restored guzzlehttp/psr7:2.6.2 from cache
+[Info  - 09:11:59] Restored dflydev/dot-access-data:3.0.2 from cache
+[Info  - 09:11:59] Restored psy/psysh:0.12.3 from cache
+[Info  - 09:11:59] Restored tightenco/ziggy:2.1.0 from cache
+[Info  - 09:11:59] Restored vlucas/phpdotenv:5.6.0 from cache
+[Info  - 09:11:59] Restored phpoffice/phpspreadsheet:1.29.0 from cache
+[Info  - 09:11:59] Restored ezyang/htmlpurifier:4.17.0 from cache
+[Info  - 09:11:59] Restored nunomaduro/termwind:2.0.1 from cache
+[Info  - 09:11:59] Restored nunomaduro/collision:8.1.1 from cache
+[Info  - 09:11:59] Restored nette/schema:1.3.0 from cache
+[Info  - 09:11:59] Restored nette/utils:4.0.4 from cache
+[Info  - 09:11:59] Restored doctrine/deprecations:1.1.3 from cache
+[Info  - 09:11:59] Restored doctrine/lexer:3.0.1 from cache
+[Info  - 09:11:59] Restored doctrine/inflector:2.0.10 from cache
+[Info  - 09:11:59] Restored doctrine/annotations:2.0.1 from cache
+[Info  - 09:11:59] Restored psr/http-client:1.0.3 from cache
+[Info  - 09:11:59] Restored psr/simple-cache:3.0.0 from cache
+[Info  - 09:11:59] Restored psr/container:2.0.2 from cache
+[Info  - 09:11:59] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 09:11:59] Restored psr/log:3.0.0 from cache
+[Info  - 09:11:59] Restored psr/http-message:2.0 from cache
+[Info  - 09:11:59] Restored psr/http-factory:1.0.2 from cache
+[Info  - 09:11:59] Restored psr/clock:1.0.0 from cache
+[Info  - 09:11:59] Restored psr/cache:3.0.0 from cache
+[Info  - 09:11:59] Restored dragonmantank/cron-expression:3.3.3 from cache
+[Info  - 09:11:59] Restored composer/pcre:3.1.3 from cache
+[Info  - 09:11:59] Restored composer/semver:3.4.0 from cache
+[Info  - 09:11:59] Restored composer/class-map-generator:1.1.1 from cache
+[Info  - 09:11:59] Restored tijsverkoyen/css-to-inline-styles:2.2.7 from cache
+[Info  - 09:11:59] Restored laravel/sail:1.29.1 from cache
+[Info  - 09:12:00] Restored laravel/breeze:2.0.1 from cache
+[Info  - 09:12:00] Restored laravel/sanctum:4.0.1 from cache
+[Info  - 09:12:00] Restored laravel/telescope:5.0.4 from cache
+[Info  - 09:12:00] Restored laravel/prompts:0.1.21 from cache
+[Info  - 09:12:00] Restored laravel/framework:11.1.0 from cache
+[Info  - 09:12:00] Restored laravel/scout:10.8.6 from cache
+[Info  - 09:12:00] Restored laravel/tinker:2.9.0 from cache
+[Info  - 09:12:00] Restored laravel/serializable-closure:1.3.3 from cache
+[Info  - 09:12:00] Restored php-http/discovery:1.19.4 from cache
+[Info  - 09:12:00] Restored php-http/client-common:2.7.1 from cache
+[Info  - 09:12:00] Restored php-http/message:1.16.1 from cache
+[Info  - 09:12:00] Restored php-http/httplug:2.4.0 from cache
+[Info  - 09:12:00] Restored php-http/promise:1.3.1 from cache
+[Info  - 09:12:00] Restored zircote/swagger-php:4.9.2 from cache
+[Info  - 09:12:00] Restored jean85/pretty-package-versions:2.0.6 from cache
+[Info  - 09:12:00] Restored inertiajs/inertia-laravel:1.0.0 from cache
+[Info  - 09:12:00] Restored sebastian/code-unit:2.0.0 from cache
+[Info  - 09:12:00] Restored sebastian/version:4.0.1 from cache
+[Info  - 09:12:00] Restored sebastian/type:4.0.0 from cache
+[Info  - 09:12:00] Restored sebastian/environment:6.1.0 from cache
+[Info  - 09:12:00] Restored sebastian/comparator:5.0.1 from cache
+[Info  - 09:12:00] Restored sebastian/lines-of-code:2.0.2 from cache
+[Info  - 09:12:00] Restored sebastian/complexity:3.2.0 from cache
+[Info  - 09:12:00] Restored sebastian/global-state:6.0.2 from cache
+[Info  - 09:12:00] Restored sebastian/code-unit-reverse-lookup:3.0.0 from cache
+[Info  - 09:12:00] Restored sebastian/object-reflector:3.0.0 from cache
+[Info  - 09:12:00] Restored sebastian/cli-parser:2.0.1 from cache
+[Info  - 09:12:00] Restored sebastian/diff:5.1.1 from cache
+[Info  - 09:12:00] Restored sebastian/exporter:5.1.2 from cache
+[Info  - 09:12:00] Restored sebastian/recursion-context:5.0.0 from cache
+[Info  - 09:12:00] Restored sebastian/object-enumerator:5.0.0 from cache
+[Info  - 09:12:00] Restored theseer/tokenizer:1.2.3 from cache
+[Info  - 09:12:00] Restored karlos3098/laravel-primevue-table-service:0.0.10 from cache
+[Info  - 09:12:00] Restored kkszymanowski/traitor:1.1.0 from cache
+[Info  - 09:12:00] Restored evenement/evenement:3.0.2 from cache
+[Info  - 09:12:00] Restored meilisearch/meilisearch-php:1.8.0 from cache
+[Info  - 09:12:00] Restored graham-campbell/result-type:1.1.2 from cache
+[Info  - 09:12:00] Restored santigarcor/laratrust:8.3.0 from cache
+[Info  - 09:12:00] Restored nesbot/carbon:3.3.1 from cache
+[Info  - 09:12:00] Restored ta-tikoma/phpunit-architecture-test:0.8.4 from cache
+[Info  - 09:12:00] Restored sentry/sentry:4.7.0 from cache
+[Info  - 09:12:00] Restored sentry/sentry-laravel:4.5.1 from cache
+[Info  - 09:12:00] Restored maennchen/zipstream-php:3.1.0 from cache
+[Info  - 09:12:00] Restored symfony/mailer:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/psr-http-message-bridge:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-intl-grapheme:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/var-dumper:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-uuid:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/routing:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/event-dispatcher-contracts:3.5.0 from cache
+[Info  - 09:12:00] Restored symfony/css-selector:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/console:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/service-contracts:3.5.0 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-php72:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/deprecation-contracts:3.5.0 from cache
+[Info  - 09:12:00] Restored symfony/error-handler:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-intl-normalizer:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/finder:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/translation:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/event-dispatcher:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/mime:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/yaml:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/process:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/http-kernel:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/options-resolver:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/translation-contracts:3.5.0 from cache
+[Info  - 09:12:00] Restored symfony/http-foundation:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/string:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-mbstring:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-php80:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-intl-idn:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-php83:1.29.0 from cache
+[Info  - 09:12:00] Restored symfony/uid:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/clock:7.0.7 from cache
+[Info  - 09:12:00] Restored symfony/polyfill-ctype:1.29.0 from cache
+[Info  - 09:12:00] Restored mockery/mockery:1.6.11 from cache
+[Info  - 09:12:00] Restored fruitcake/php-cors:1.3.0 from cache
+[Info  - 09:12:00] Restored nyholm/psr7:1.8.1 from cache
+[Info  - 09:12:00] Restored webmozart/assert:1.11.0 from cache
+[Info  - 09:12:00] Restored react/event-loop:1.5.0 from cache
+[Info  - 09:12:00] Restored react/child-process:0.6.5 from cache
+[Info  - 09:12:00] Restored react/stream:1.3.0 from cache
+[Info  - 09:12:00] Restored phpstan/phpdoc-parser:1.29.0 from cache
+[Info  - 09:12:00] Restored myclabs/deep-copy:1.11.1 from cache
+[Info  - 09:12:00] Restored pestphp/pest-plugin-watch:2.1.0 from cache
+[Info  - 09:12:00] Restored pestphp/pest-plugin-laravel:2.3.0 from cache
+[Info  - 09:12:00] Restored pestphp/pest-plugin-faker:2.0.0 from cache
+[Info  - 09:12:00] Restored pestphp/pest-plugin-drift:2.6.0 from cache
+[Info  - 09:12:00] Restored pestphp/pest-plugin-arch:2.7.0 from cache
+[Info  - 09:12:00] Restored pestphp/pest-plugin:2.1.1 from cache
+[Info  - 09:12:00] Restored pestphp/pest:2.34.5 from cache
+[Info  - 09:12:00] Restored ralouphie/getallheaders:3.0.3 from cache
+[Info  - 09:12:00] Restored darkaonline/l5-swagger:8.6.0 from cache
+[Info  - 09:12:00] Restored phar-io/version:3.2.1 from cache
+[Info  - 09:12:00] Restored phar-io/manifest:2.0.4 from cache
+[Info  - 09:12:00] Restored spatie/laravel-ignition:2.4.2 from cache
+[Info  - 09:12:00] Restored spatie/laravel-activitylog:4.8.0 from cache
+[Info  - 09:12:00] Restored spatie/ignition:1.14.1 from cache
+[Info  - 09:12:00] Restored spatie/laravel-package-tools:1.16.4 from cache
+[Info  - 09:12:00] Restored spatie/flare-client-php:1.5.1 from cache
+[Info  - 09:12:00] Restored spatie/backtrace:1.6.1 from cache
+[Info  - 09:12:00] Restored monolog/monolog:3.6.0 from cache
+[Info  - 09:12:00] Restored brick/math:0.12.1 from cache
+[Info  - 09:12:00] Restored maatwebsite/excel:3.1.55 from cache
+[Info  - 09:12:00] Restored ramsey/collection:2.0.0 from cache
+[Info  - 09:12:00] Restored ramsey/uuid:4.7.6 from cache
+[Info  - 09:12:00] Restored phpdocumentor/reflection-docblock:5.4.0 from cache
+[Info  - 09:12:00] Restored phpdocumentor/type-resolver:1.8.2 from cache
+[Info  - 09:12:00] Restored phpdocumentor/reflection-common:2.2.0 from cache
+[Info  - 09:12:00] Restored http-interop/http-factory-guzzle:1.2.0 from cache
+[Info  - 09:12:00] Restored nikic/php-parser:5.0.2 from cache
+[Info  - 09:12:00] Restored filp/whoops:2.15.4 from cache
+[Info  - 09:12:00] Restored monicahq/laravel-cloudflare:3.7.1 from cache
+[Info  - 09:12:00] Restored barryvdh/reflection-docblock:2.1.1 from cache
+[Info  - 09:12:00] Restored barryvdh/laravel-ide-helper:3.0.0 from cache
+[Info  - 09:12:01] Restored brianium/paratest:7.4.3 from cache
+[Info  - 09:12:01] Restored devpark/laravel-przelewy24:3.0.3 from cache
+[Info  - 09:12:01] Restored fidry/cpu-core-counter:1.1.0 from cache
+[Info  - 09:12:01] Restored fakerphp/faker:1.23.1 from cache
+[Info  - 09:12:01] Restored phpoption/phpoption:1.9.2 from cache
+[Info  - 09:12:01] Restored markbaker/matrix:3.0.1 from cache
+[Info  - 09:12:01] Restored markbaker/complex:3.0.2 from cache
+[Info  - 09:12:01] Restored voku/portable-ascii:2.0.1 from cache
+[Info  - 09:12:01] Restored league/mime-type-detection:1.15.0 from cache
+[Info  - 09:12:01] Restored league/flysystem-local:3.25.1 from cache
+[Info  - 09:12:01] Restored league/csv:9.15.0 from cache
+[Info  - 09:12:01] Restored league/commonmark:2.4.2 from cache
+[Info  - 09:12:01] Restored league/flysystem:3.27.0 from cache
+[Info  - 09:12:01] Restored league/config:1.2.0 from cache
+[Info  - 09:12:01] Restored clue/stream-filter:1.7.0 from cache
+[Info  - 09:12:01] Indexing mail/html for definitions and static references
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/subcopy.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/table.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/button.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/panel.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/footer.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/layout.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/header.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/message.blade.php
+[Info  - 09:12:01] Indexing mail/html for dynamic references
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/subcopy.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/table.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/button.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/panel.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/footer.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/layout.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/header.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/html/message.blade.php
+[Warn  - 09:12:01] Could not compute cache key for mail/html
+[Info  - 09:12:01] Indexing mail/text for definitions and static references
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/subcopy.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/table.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/button.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/panel.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/footer.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/layout.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/header.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/message.blade.php
+[Info  - 09:12:01] Indexing mail/text for dynamic references
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/subcopy.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/table.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/button.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/panel.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/footer.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/layout.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/header.blade.php
+Parsing file:///home/user/p/projekt-ozc/app/resources/views/vendor/mail/text/message.blade.php
+[Warn  - 09:12:01] Could not compute cache key for mail/text
+[Info  - 09:12:01] All 10480 PHP files parsed in 8 seconds. 728 MiB allocated.

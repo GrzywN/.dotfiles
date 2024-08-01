@@ -1,0 +1,124 @@
+2024-08-01 12:15:50.052 [info] [FetcherService] Using the Helix fetcher.
+2024-08-01 12:15:50.052 [info] [gitExtensionService] Initializing Git extension service.
+2024-08-01 12:15:50.052 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-08-01 12:15:50.052 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-08-01 12:15:50.052 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-08-01 12:15:50.057 [info] [auth] GitHub login failed
+2024-08-01 12:15:50.057 [info] [auth] GitHub login failed
+2024-08-01 12:15:50.058 [info] [extension] Error: GitHubLoginFailed
+    at O_.authShowWarnings (/home/user/.vscode/extensions/github.copilot-chat-0.17.1/dist/extension.js:137:17439)
+    at O_.getCopilotToken (/home/user/.vscode/extensions/github.copilot-chat-0.17.1/dist/extension.js:137:15505)
+    at M_.getCopilotToken (/home/user/.vscode/extensions/github.copilot-chat-0.17.1/dist/extension.js:137:18462)
+    at sRe (/home/user/.vscode/extensions/github.copilot-chat-0.17.1/dist/extension.js:1115:187)
+    at Yct (/home/user/.vscode/extensions/github.copilot-chat-0.17.1/dist/extension.js:1317:883)
+    at c.n (/snap/code/164/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/snap/code/164/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/snap/code/164/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:5804)
+2024-08-01 12:15:50.058 [info] [registerChatResponseProvider] Chat response providers are not available without auth token
+2024-08-01 12:15:50.063 [info] [RemoteAgents] Unable to fetch remote agents because user is not signed in.
+2024-08-01 12:15:50.072 [info] [auth] GitHub login failed
+2024-08-01 12:15:50.072 [info] [auth] GitHub login failed
+2024-08-01 12:15:50.073 [info] [ContextKeysContribution] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-08-01 12:16:07.188 [info] [auth] Logged in as GrzywN
+2024-08-01 12:16:07.188 [info] [auth] Logged in as GrzywN
+2024-08-01 12:16:07.583 [info] [chat] copilot token chat_enabled: true
+2024-08-01 12:16:07.583 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-08-01 12:16:07.584 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 12:16:07.655 [info] [chat] copilot token chat_enabled: true
+2024-08-01 12:16:07.655 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 12:16:07.656 [info] [auth] Logged in as GrzywN
+2024-08-01 12:16:07.659 [info] [chat] copilot token chat_enabled: true
+2024-08-01 12:16:07.660 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 12:41:07.669 [info] [auth] Logged in as GrzywN
+2024-08-01 12:41:08.021 [info] [chat] copilot token chat_enabled: true
+2024-08-01 12:41:08.021 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 13:06:08.098 [info] [auth] Logged in as GrzywN
+2024-08-01 13:06:08.436 [info] [chat] copilot token chat_enabled: true
+2024-08-01 13:06:08.436 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 13:31:08.551 [info] [auth] Logged in as GrzywN
+2024-08-01 13:31:08.877 [info] [chat] copilot token chat_enabled: true
+2024-08-01 13:31:08.877 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 13:56:08.978 [info] [auth] Logged in as GrzywN
+2024-08-01 13:56:09.332 [info] [chat] copilot token chat_enabled: true
+2024-08-01 13:56:09.332 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 14:06:09.245 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1017 ms
+2024-08-01 14:06:10.294 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-01 14:06:10.298 [info] [streamChoices] request done: requestId: [98a51abf-df67-4f99-b935-1a132594b4ad] model deployment ID: []
+2024-08-01 14:07:47.811 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 570 ms
+2024-08-01 14:07:53.064 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-01 14:07:53.065 [info] [streamChoices] request done: requestId: [7702bb26-a626-4640-883a-4155644dade7] model deployment ID: []
+2024-08-01 14:21:09.455 [info] [auth] Logged in as GrzywN
+2024-08-01 14:21:09.834 [info] [chat] copilot token chat_enabled: true
+2024-08-01 14:21:09.834 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 14:46:09.954 [info] [auth] Logged in as GrzywN
+2024-08-01 14:46:10.268 [info] [chat] copilot token chat_enabled: true
+2024-08-01 14:46:10.268 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 15:11:10.336 [info] [auth] Logged in as GrzywN
+2024-08-01 15:11:10.710 [info] [chat] copilot token chat_enabled: true
+2024-08-01 15:11:10.710 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 15:36:10.836 [info] [auth] Logged in as GrzywN
+2024-08-01 15:36:11.200 [info] [chat] copilot token chat_enabled: true
+2024-08-01 15:36:11.201 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 16:01:11.239 [info] [auth] Logged in as GrzywN
+2024-08-01 16:01:11.580 [info] [chat] copilot token chat_enabled: true
+2024-08-01 16:01:11.581 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 16:26:11.595 [info] [auth] Logged in as GrzywN
+2024-08-01 16:26:11.978 [info] [chat] copilot token chat_enabled: true
+2024-08-01 16:26:11.978 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 16:51:12.125 [info] [auth] Logged in as GrzywN
+2024-08-01 16:51:12.543 [info] [chat] copilot token chat_enabled: true
+2024-08-01 16:51:12.543 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 17:16:12.550 [info] [auth] Logged in as GrzywN
+2024-08-01 17:16:12.867 [info] [chat] copilot token chat_enabled: true
+2024-08-01 17:16:12.867 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 17:41:12.957 [info] [auth] Logged in as GrzywN
+2024-08-01 17:41:13.290 [info] [chat] copilot token chat_enabled: true
+2024-08-01 17:41:13.291 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 18:06:13.397 [info] [auth] Logged in as GrzywN
+2024-08-01 18:06:13.711 [info] [chat] copilot token chat_enabled: true
+2024-08-01 18:06:13.711 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 18:31:13.717 [info] [auth] Logged in as GrzywN
+2024-08-01 18:31:14.071 [info] [chat] copilot token chat_enabled: true
+2024-08-01 18:31:14.071 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 18:56:14.171 [info] [auth] Logged in as GrzywN
+2024-08-01 18:56:14.533 [info] [chat] copilot token chat_enabled: true
+2024-08-01 18:56:14.533 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 19:21:14.628 [info] [auth] Logged in as GrzywN
+2024-08-01 19:21:14.927 [info] [chat] copilot token chat_enabled: true
+2024-08-01 19:21:14.927 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 19:46:14.938 [info] [auth] Logged in as GrzywN
+2024-08-01 19:46:15.319 [info] [chat] copilot token chat_enabled: true
+2024-08-01 19:46:15.319 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 20:11:15.401 [info] [auth] Logged in as GrzywN
+2024-08-01 20:11:15.786 [info] [chat] copilot token chat_enabled: true
+2024-08-01 20:11:15.786 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 20:36:15.855 [info] [auth] Logged in as GrzywN
+2024-08-01 20:36:16.238 [info] [chat] copilot token chat_enabled: true
+2024-08-01 20:36:16.238 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 21:01:16.297 [info] [auth] Logged in as GrzywN
+2024-08-01 21:01:16.659 [info] [chat] copilot token chat_enabled: true
+2024-08-01 21:01:16.659 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 21:26:16.767 [info] [auth] Logged in as GrzywN
+2024-08-01 21:26:17.108 [info] [chat] copilot token chat_enabled: true
+2024-08-01 21:26:17.108 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 21:51:17.144 [info] [auth] Logged in as GrzywN
+2024-08-01 21:51:17.471 [info] [chat] copilot token chat_enabled: true
+2024-08-01 21:51:17.471 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 22:16:17.493 [info] [auth] Logged in as GrzywN
+2024-08-01 22:16:17.821 [info] [chat] copilot token chat_enabled: true
+2024-08-01 22:16:17.822 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 22:41:17.846 [info] [auth] Logged in as GrzywN
+2024-08-01 22:41:18.204 [info] [chat] copilot token chat_enabled: true
+2024-08-01 22:41:18.205 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 23:06:18.223 [info] [auth] Logged in as GrzywN
+2024-08-01 23:06:18.570 [info] [chat] copilot token chat_enabled: true
+2024-08-01 23:06:18.570 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 23:31:18.578 [info] [auth] Logged in as GrzywN
+2024-08-01 23:31:18.894 [info] [chat] copilot token chat_enabled: true
+2024-08-01 23:31:18.895 [info] [auth] Got Copilot token for GrzywN
+2024-08-01 23:56:18.903 [info] [auth] Logged in as GrzywN
+2024-08-01 23:56:19.196 [info] [chat] copilot token chat_enabled: true
+2024-08-01 23:56:19.196 [info] [auth] Got Copilot token for GrzywN
+2024-08-02 00:21:19.333 [info] [auth] Logged in as GrzywN
+2024-08-02 00:21:19.605 [info] [chat] copilot token chat_enabled: true
+2024-08-02 00:21:19.605 [info] [auth] Got Copilot token for GrzywN

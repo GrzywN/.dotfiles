@@ -1,0 +1,35 @@
+2024-08-01 09:11:43.095 [info] update#setState idle
+2024-08-01 09:12:13.098 [info] update#setState checking for updates
+2024-08-01 09:12:13.099 [info] update#setState idle
+2024-08-01 10:12:13.100 [info] update#setState checking for updates
+2024-08-01 10:12:13.107 [info] update#setState idle
+2024-08-01 11:12:13.104 [info] update#setState checking for updates
+2024-08-01 11:12:13.109 [info] update#setState idle
+2024-08-01 12:12:13.108 [info] update#setState checking for updates
+2024-08-01 12:12:13.112 [info] update#setState idle
+2024-08-01 13:12:13.124 [info] update#setState checking for updates
+2024-08-01 13:12:13.131 [info] update#setState idle
+2024-08-01 14:12:13.139 [info] update#setState checking for updates
+2024-08-01 14:12:13.146 [info] update#setState idle
+2024-08-01 15:12:13.150 [info] update#setState checking for updates
+2024-08-01 15:12:13.157 [info] update#setState idle
+2024-08-01 16:12:13.160 [info] update#setState checking for updates
+2024-08-01 16:12:13.166 [info] update#setState idle
+2024-08-01 17:12:13.164 [info] update#setState checking for updates
+2024-08-01 17:12:13.167 [info] update#setState idle
+2024-08-01 18:12:13.166 [info] update#setState checking for updates
+2024-08-01 18:12:13.169 [info] update#setState idle
+2024-08-01 19:12:13.170 [info] update#setState checking for updates
+2024-08-01 19:12:13.173 [info] update#setState idle
+2024-08-01 20:12:13.172 [info] update#setState checking for updates
+2024-08-01 20:12:13.175 [info] update#setState idle
+2024-08-01 21:12:13.192 [info] update#setState checking for updates
+2024-08-01 21:12:13.195 [info] update#setState idle
+2024-08-01 22:12:13.208 [info] update#setState checking for updates
+2024-08-01 22:12:13.216 [info] update#setState idle
+2024-08-01 23:12:13.220 [info] update#setState checking for updates
+2024-08-01 23:12:13.222 [info] update#setState idle
+2024-08-02 00:12:13.231 [info] update#setState checking for updates
+2024-08-02 00:12:13.232 [info] update#setState idle
+2024-08-02 00:34:41.828 [info] Extension host with pid 9541 exited with code: 0, signal: unknown.
+2024-08-02 00:34:42.828 [error] Extension host with pid 9541 still exists, forcefully killing it...

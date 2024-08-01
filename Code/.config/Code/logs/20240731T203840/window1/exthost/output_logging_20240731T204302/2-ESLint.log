@@ -1,0 +1,379 @@
+[Info  - 20:43:08] ESLint server is starting.
+[Info  - 20:43:08] ESLint server running in node v20.9.0
+[Info  - 20:43:08] ESLint server is running.
+[Info  - 20:45:49] ESLint library loaded from: /home/user/p/projekt-ozc/app/node_modules/eslint/lib/api.js
+[Error - 20:45:49] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:46:26] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:46:31] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:46:53] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:47:14] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:47:17] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:47:42] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:48:49] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:03] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:08] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:15] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:20] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:40] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:48] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:50] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:52] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:54] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:55] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:49:58] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 20:51:01] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 21:59:47] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 21:59:47] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 21:59:54] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 21:59:54] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:02] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:02] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:08] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:08] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:26] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:26] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:39] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:39] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:45] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Components/Calculation/CalculationHorizontalInput.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Components/Calculation.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 22:00:45] Calculating config file for file:///home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps/Step3.vue) failed.
+Error: No ESLint configuration found in /home/user/p/projekt-ozc/app/resources/js/Pages/Calculation/Partials/Steps.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:4000:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/user/p/projekt-ozc/app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3791:21)
+    at CLIEngine.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/cli-engine/cli-engine.js:1000:18)
+    at ESLint.isPathIgnored (/home/user/p/projekt-ozc/app/node_modules/eslint/lib/eslint/eslint.js:681:26)
+    at /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24303
+    at Object.M [as withClass] (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19813)
+    at async O.then.m.validate (/home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/user/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Info  - 23:54:33] ESLint server stopped.

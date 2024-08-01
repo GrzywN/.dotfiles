@@ -1,0 +1,1232 @@
+2024-07-31 20:38:42.901 [info] Extension host with pid 80525 started
+2024-07-31 20:38:43.033 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-31 20:38:43.103 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-31 20:38:43.201 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 20:38:43.588 [info] Eager extensions activated
+2024-07-31 20:38:43.599 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:38:43.602 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:39:17.379 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-31 20:39:58.726 [info] ExtensionService#_doActivateExtension dooez.alt-catppuccin-vsc, startup: false, activationEvent: '*'
+2024-07-31 20:39:58.936 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-31 20:39:58.952 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-31 20:39:59.042 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-31 20:41:25.976 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:41:35.123 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:41:53.292 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-07-31 20:42:27.035 [info] ExtensionService#_doActivateExtension tal7aouy.rainbow-bracket, startup: false, activationEvent: '*'
+2024-07-31 20:43:00.705 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-31 20:43:00.751 [info] Extension host with pid 80525 exiting with code 0
+2024-07-31 20:43:02.477 [info] Extension host with pid 82790 started
+2024-07-31 20:43:02.477 [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/75c96781bda7b6a3eddc7200cf2c15d1.
+2024-07-31 20:43:02.623 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-31 20:43:02.626 [info] ExtensionService#_doActivateExtension dooez.alt-catppuccin-vsc, startup: true, activationEvent: '*'
+2024-07-31 20:43:02.630 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-07-31 20:43:02.683 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 20:43:02.717 [info] Eager extensions activated
+2024-07-31 20:43:02.763 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:43:02.767 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:43:02.778 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:43:05.474 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-31 20:43:05.534 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 20:43:05.546 [info] ExtensionService#_doActivateExtension tal7aouy.rainbow-bracket, startup: false, activationEvent: '*'
+2024-07-31 20:43:08.128 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-31 20:43:08.137 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-31 20:43:08.186 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-31 20:43:08.232 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-31 20:43:15.370 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-07-31 21:28:19.536 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model16)
+2024-07-31 21:28:19.538 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model16)
+2024-07-31 21:58:43.981 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-07-31 21:59:47.651 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: '*'
+2024-07-31 22:00:01.876 [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense, startup: false, activationEvent: 'onLanguage:php'
+2024-07-31 22:00:03.292 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:00:03.415 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:00:03.460 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:00:03.472 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:00:03.475 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:00:03.481 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:00:03.496 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:00:39.383 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: false, activationEvent: 'onLanguage:php'
+2024-07-31 22:01:03.198 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:02:03.252 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:03:03.184 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:04:03.188 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:05:03.195 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:06:03.224 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:07:03.375 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:08:03.197 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:09:03.190 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:10:03.199 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:10:03.300 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:11:03.276 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:12:03.211 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:13:03.191 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:14:03.200 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:15:03.207 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:16:03.211 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:17:03.236 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:18:03.218 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:19:03.236 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:20:03.290 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:20:03.364 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:21:03.231 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:22:03.266 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:23:03.295 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:24:03.304 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:25:03.302 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:26:03.340 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:27:03.374 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:28:03.367 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:29:03.386 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:30:03.315 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:30:03.431 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:31:03.395 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:32:03.433 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:33:03.442 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:34:03.460 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:35:03.500 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:36:03.526 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:37:03.561 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:38:03.554 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:39:03.604 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:40:03.339 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:40:03.597 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:41:03.598 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:42:03.679 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:43:03.639 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:44:03.733 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:45:03.689 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:46:03.780 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:47:03.716 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:48:03.809 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:49:03.836 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:50:03.324 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:50:03.775 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:51:03.759 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:52:03.792 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:53:03.840 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:54:03.826 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:55:03.851 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:56:03.874 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:57:03.884 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:58:03.935 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 22:59:03.953 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:00:03.347 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:00:03.913 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:01:03.927 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:02:03.940 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:03:03.956 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:04:03.977 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:05:04.015 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:06:04.047 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:07:04.047 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:08:04.069 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:09:04.132 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:10:03.380 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:10:04.127 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:11:04.151 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:12:04.159 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:13:04.177 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:14:04.208 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:15:04.272 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:16:04.283 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:17:04.272 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:18:04.341 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:19:04.335 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:20:03.417 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:20:04.312 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:21:04.302 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:22:04.342 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:23:04.422 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:24:04.448 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:25:04.487 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:26:04.500 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:27:04.512 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:28:04.531 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:29:04.570 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:30:03.502 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:30:04.497 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:31:04.517 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:32:04.605 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:33:04.570 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:34:04.647 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:35:04.651 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:36:04.681 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:37:04.713 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:38:04.667 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:39:04.752 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:40:03.531 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:40:04.711 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:41:04.704 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:42:04.730 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:43:04.760 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:44:04.819 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:45:04.791 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:46:04.821 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:47:04.916 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:48:04.868 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:49:04.928 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:50:03.512 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:50:04.953 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:51:04.981 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:52:05.003 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:53:04.945 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:54:05.022 [error] PHP Fatal error:  Uncaught Error: Call to undefined method ReflectionFunction::isAnonymous() in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php:680
+Stack trace:
+#0 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php(652): Illuminate\Container\Container->getClassForCallable()
+#1 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1378): Illuminate\Container\Container->call()
+#2 /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(215): Illuminate\Foundation\Application->terminate()
+#3 Command line code(1): Illuminate\Foundation\Console\Kernel->terminate()
+#4 {main}
+  thrown in /home/user/p/projekt-ozc/app/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 680
+
+2024-07-31 23:54:33.502 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-31 23:54:33.581 [info] Extension host with pid 82790 exiting with code 0
