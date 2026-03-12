@@ -8,6 +8,16 @@ vim.opt.wrap = false
 vim.opt.tabstop = 2
 vim.opt.softtabstop = 2
 vim.opt.shiftwidth = 2
+
+-- Python specific settings
+vim.api.nvim_create_autocmd("FileType", {
+  pattern = "python",
+  callback = function()
+    vim.opt_local.tabstop = 4
+    vim.opt_local.softtabstop = 4
+    vim.opt_local.shiftwidth = 4
+  end,
+})
 vim.opt.expandtab = true
 vim.opt.smarttab = true
 vim.opt.autoindent = true
@@ -89,9 +99,10 @@ require('mason-lspconfig').setup({
 })
 
 -- "https://github.com/nvim-treesitter/nvim-treesitter"
+require('nvim-treesitter').setup()
 require('nvim-treesitter.configs').setup({
   highlight = { enable = true },
-  ensure_installed = { "lua", "javascript", "typescript", "html", "css", "json" }
+  ensure_installed = { "lua", "javascript", "typescript", "html", "css", "json", "python" }
 })
 
 map('n', 'gd', vim.lsp.buf.definition, { desc = 'Go to definition' })
@@ -121,7 +132,20 @@ require('lspconfig').intelephense.setup({
   filetypes = { "php" }
 })
 
-vim.lsp.enable({ "lua_ls", "html", "cssls", "tailwindcss", "ts_ls", "astro", "vue_ls", "intelephense", "eslint" })
+require('lspconfig').pyright.setup({
+  capabilities = capabilities,
+  settings = {
+    python = {
+      analysis = {
+        autoSearchPaths = true,
+        useLibraryCodeForTypes = true,
+        diagnosticMode = 'workspace',
+      }
+    }
+  }
+})
+
+vim.lsp.enable({ "lua_ls", "html", "cssls", "tailwindcss", "ts_ls", "astro", "vue_ls", "intelephense", "eslint", "pyright" })
 
 local cmp = require('cmp')
 cmp.setup({
