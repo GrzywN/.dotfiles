@@ -1,0 +1,165 @@
+# aerospace.toml
+# Minimalistyczny config oparty na i3 — bez animacji, bez ramek
+# alt = $mod | alt+shift = $mod+Shift
+
+# ── Ogólne ────────────────────────────────────────────────────────────────────
+after-login-command = []
+after-startup-command = []
+
+start-at-login = true
+
+# Accordion (odpowiednik tabbed/stacked w i3) — wyłączone
+accordion-padding = 30
+
+default-root-container-layout = 'tiles'
+default-root-container-orientation = 'auto'   # auto = jak i3 (dzieli wg szerokości)
+
+# Brak animacji
+enable-normalization-flatten-containers = true
+enable-normalization-opposite-orientation-for-nested-containers = true
+
+# ── Gaps (minimalny odstęp) ───────────────────────────────────────────────────
+[gaps]
+inner.horizontal = 6
+inner.vertical   = 6
+outer.left       = 6
+outer.bottom     = 6
+outer.top        = 34   # 28px sketchybar + 6px gap
+outer.right      = 6
+
+# ── Główny tryb (mod = alt) ───────────────────────────────────────────────────
+[mode.main.binding]
+
+# Terminal (mod+Return)
+alt-enter = 'exec-and-forget open -n /Applications/Ghostty.app'
+
+# Zamknij okno (mod+q)
+alt-q = 'close'
+
+# Fokus — vim keys (zakomentowane: alt-l kradnie ł)
+# alt-h = 'focus left'
+# alt-j = 'focus down'
+# alt-k = 'focus up'
+# alt-l = 'focus right'
+
+# Fokus — strzałki
+alt-left  = 'focus left'
+alt-down  = 'focus down'
+alt-up    = 'focus up'
+alt-right = 'focus right'
+
+# Przesuń okno — vim keys (zakomentowane: alt-shift-l kradnie Ł)
+# alt-shift-h = 'move left'
+# alt-shift-j = 'move down'
+# alt-shift-k = 'move up'
+# alt-shift-l = 'move right'
+
+# Przesuń okno — strzałki
+alt-shift-left  = 'move left'
+alt-shift-down  = 'move down'
+alt-shift-up    = 'move up'
+alt-shift-right = 'move right'
+
+# Fullscreen (mod+f)
+alt-f = 'fullscreen'
+
+# Float/tile toggle (mod+t)
+alt-t = 'layout floating tiling'
+
+# Zmień orientację splita (mod+e jak w i3) (zakomentowane: alt-e kradnie ę)
+# alt-e = 'layout tiles horizontal vertical'
+
+# Wejdź w tryb resize (mod+r)
+alt-r = 'mode resize'
+
+# Przeładuj config (mod+Shift+c) (zakomentowane: alt-shift-c kradnie Ć)
+# alt-shift-c = 'reload-config'
+
+# Przełącz przestrzenie (mod+1..0)
+alt-1 = 'workspace 1'
+alt-2 = 'workspace 2'
+alt-3 = 'workspace 3'
+alt-4 = 'workspace 4'
+alt-5 = 'workspace 5'
+alt-6 = 'workspace 6'
+alt-7 = 'workspace 7'
+alt-8 = 'workspace 8'
+alt-9 = 'workspace 9'
+alt-0 = 'workspace 10'
+
+# Przenieś okno do przestrzeni (mod+Shift+1..0)
+alt-shift-1 = ['move-node-to-workspace 1', 'workspace 1']
+alt-shift-2 = ['move-node-to-workspace 2', 'workspace 2']
+alt-shift-3 = ['move-node-to-workspace 3', 'workspace 3']
+alt-shift-4 = ['move-node-to-workspace 4', 'workspace 4']
+alt-shift-5 = ['move-node-to-workspace 5', 'workspace 5']
+alt-shift-6 = ['move-node-to-workspace 6', 'workspace 6']
+alt-shift-7 = ['move-node-to-workspace 7', 'workspace 7']
+alt-shift-8 = ['move-node-to-workspace 8', 'workspace 8']
+alt-shift-9 = ['move-node-to-workspace 9', 'workspace 9']
+alt-shift-0 = ['move-node-to-workspace 10', 'workspace 10']
+
+# ── Tryb resize (mod+r) ───────────────────────────────────────────────────────
+[mode.resize.binding]
+
+# Zmiana rozmiaru — vim keys
+h = 'resize width -60'
+j = 'resize height +60'
+k = 'resize height -60'
+l = 'resize width +60'
+
+# Zmiana rozmiaru — strzałki
+left  = 'resize width -60'
+down  = 'resize height +60'
+up    = 'resize height -60'
+right = 'resize width +60'
+
+# Wyjście z trybu resize
+enter  = 'mode main'
+esc    = 'mode main'
+alt-r  = 'mode main'
+
+# ── Przypisania aplikacji do przestrzeni ──────────────────────────────────────
+[[on-window-detected]]
+if.app-name-regex-substring = 'Firefox'
+run = 'move-node-to-workspace 1'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Chrome'
+run = 'move-node-to-workspace 1'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Code'
+run = 'move-node-to-workspace 2'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Cursor'
+run = 'move-node-to-workspace 2'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'GitKraken'
+run = 'move-node-to-workspace 3'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Insomnia'
+run = 'move-node-to-workspace 4'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Postman'
+run = 'move-node-to-workspace 4'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Spotify'
+run = 'move-node-to-workspace 7'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Discord'
+run = 'move-node-to-workspace 9'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Slack'
+run = 'move-node-to-workspace 9'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'Telegram'
+run = 'move-node-to-workspace 9'
