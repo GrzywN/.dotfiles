@@ -1,0 +1,7 @@
+font-family = JetBrainsMono Nerd Font
+font-size = 12
+window-padding-x = 16
+window-padding-y = 16
+theme = Catppuccin Mocha
+shell-integration = detect
+scrollback-limit = 10000
