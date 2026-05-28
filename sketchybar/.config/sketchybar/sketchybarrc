@@ -1,0 +1,64 @@
+#!/usr/bin/env sh
+
+PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
+
+# ── Bar ───────────────────────────────────────────────────────────────────────
+sketchybar --bar \
+  height=28 \
+  position=top \
+  padding_left=8 \
+  padding_right=8 \
+  color=0xff1e1e2e \
+  shadow=off
+
+# ── Defaults ──────────────────────────────────────────────────────────────────
+sketchybar --default \
+  icon.font="JetBrainsMono Nerd Font:Bold:13.0" \
+  label.font="JetBrainsMono Nerd Font:Regular:13.0" \
+  icon.color=0xffcdd6f4 \
+  label.color=0xffcdd6f4 \
+  padding_left=4 \
+  padding_right=4
+
+# ── Workspaces ────────────────────────────────────────────────────────────────
+FOCUSED=$(aerospace list-workspaces --focused 2>/dev/null)
+
+for WS in $(aerospace list-workspaces --all 2>/dev/null | grep -v "^$"); do
+  sketchybar --add item "space.$WS" left \
+    --set "space.$WS" \
+      label="$WS" \
+      label.padding_left=8 \
+      label.padding_right=8 \
+      background.corner_radius=4 \
+      click_script="aerospace workspace $WS" \
+      script="$PLUGIN_DIR/workspace.sh" \
+    --subscribe "space.$WS" aerospace_workspace_change
+
+  if [ "$WS" = "$FOCUSED" ]; then
+    sketchybar --set "space.$WS" \
+      label.color=0xff1e1e2e \
+      background.color=0xffb4befe \
+      background.drawing=on
+  else
+    sketchybar --set "space.$WS" \
+      label.color=0xff6c7086 \
+      background.drawing=off
+  fi
+done
+
+# ── Battery ───────────────────────────────────────────────────────────────────
+sketchybar --add item battery right \
+  --set battery \
+    update_freq=60 \
+    label.padding_right=8 \
+    script="$PLUGIN_DIR/battery.sh" \
+  --subscribe battery system_woke power_source_change
+
+# ── Clock ─────────────────────────────────────────────────────────────────────
+sketchybar --add item clock right \
+  --set clock \
+    update_freq=10 \
+    label.padding_right=8 \
+    script="$PLUGIN_DIR/clock.sh"
+
+sketchybar --update
