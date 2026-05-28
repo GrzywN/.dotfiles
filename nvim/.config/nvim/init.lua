@@ -99,8 +99,7 @@ require('mason-lspconfig').setup({
 })
 
 -- "https://github.com/nvim-treesitter/nvim-treesitter"
-require('nvim-treesitter').setup()
-require('nvim-treesitter.configs').setup({
+require('nvim-treesitter.config').setup({
   highlight = { enable = true },
   ensure_installed = { "lua", "javascript", "typescript", "html", "css", "json", "python" }
 })
@@ -117,33 +116,24 @@ map('n', 'gl', vim.diagnostic.open_float, { desc = 'Open diagnostic' })
 -- LSP servers configuration
 local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
-require('lspconfig').ts_ls.setup({
-  capabilities = capabilities,
-  filetypes = { "javascript", "javascriptreact", "typescript", "typescriptreact" }
-})
+require('lspconfig')
 
-require('lspconfig').volar.setup({
-  capabilities = capabilities,
-  filetypes = { "vue" }
-})
+-- require('lspconfig').ts_ls.setup({
+--   capabilities = capabilities,
+--   filetypes = { "javascript", "javascriptreact", "typescript", "typescriptreact" }
+-- })
+--
+-- require('lspconfig').volar.setup({
+--   capabilities = capabilities,
+--   filetypes = { "vue" }
+-- })
+--
+-- require('lspconfig').intelephense.setup({
+--   capabilities = capabilities,
+--   filetypes = { "php" }
+-- })
 
-require('lspconfig').intelephense.setup({
-  capabilities = capabilities,
-  filetypes = { "php" }
-})
-
-require('lspconfig').pyright.setup({
-  capabilities = capabilities,
-  settings = {
-    python = {
-      analysis = {
-        autoSearchPaths = true,
-        useLibraryCodeForTypes = true,
-        diagnosticMode = 'workspace',
-      }
-    }
-  }
-})
+vim.lsp.enable({ "lua_ls", "html", "cssls", "tailwindcss", "ts_ls", "astro", "vue_ls", "intelephense", "eslint" })
 
 vim.lsp.enable({ "lua_ls", "html", "cssls", "tailwindcss", "ts_ls", "astro", "vue_ls", "intelephense", "eslint", "pyright" })
 
