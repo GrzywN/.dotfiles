@@ -45,3 +45,7 @@ set -x PATH "$PATH" "$HOME/flutter/bin"
 
 starship init fish | source
 zoxide init fish --cmd="cd" | source
+
+# proto
+set -gx PROTO_HOME "$XDG_DATA_HOME/proto";
+set -gx PATH "$PROTO_HOME/shims" "$PROTO_HOME/bin" $PATH;
