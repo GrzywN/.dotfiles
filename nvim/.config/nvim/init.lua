@@ -66,7 +66,7 @@ map('n', '<leader><CR>', '<cmd>so<CR>')
 map('n', '<leader>x', '<cmd>!chmod +x %<CR>', { silent = true })
 
 vim.pack.add({
-  { src = "https://github.com/catppuccin/nvim" },
+  { src = "https://github.com/catppuccin/nvim", name = "catppuccin" },
   { src = "https://github.com/neovim/nvim-lspconfig" },
   { src = "https://github.com/hrsh7th/nvim-cmp" },
   { src = "https://github.com/hrsh7th/cmp-nvim-lsp" },
