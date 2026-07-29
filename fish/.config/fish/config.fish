@@ -22,7 +22,7 @@ set --universal nvm_default_version v20.12.2
 set --universal nvm_default_packages yarn
 
 # PNPM
-set -gx PNPM_HOME "/home/grzywn/.local/share/pnpm"
+set -gx PNPM_HOME "$HOME/.local/share/pnpm"
 if not string match -q -- $PNPM_HOME $PATH
   set -gx PATH "$PNPM_HOME" $PATH
 end
@@ -39,7 +39,7 @@ set -gx PATH $HOME/sdks/flutter/bin/cache/dart-sdk/bin $PATH
 set -gx PATH $HOME/sdks/Android/Sdk/platform-tools $PATH
 
 # Fly.io
-set -x FLYCTL_INSTALL "/home/grzywn/.fly"
+set -x FLYCTL_INSTALL "$HOME/.fly"
 set -gx PATH $FLYCTL_INSTALL/bin $PATH
 set -x PATH "$PATH" "$HOME/flutter/bin"
 
@@ -47,5 +47,12 @@ starship init fish | source
 zoxide init fish --cmd="cd" | source
 
 # proto
-set -gx PROTO_HOME "$XDG_DATA_HOME/proto";
+set -gx PROTO_HOME "$HOME/.proto";
 set -gx PATH "$PROTO_HOME/shims" "$PROTO_HOME/bin" $PATH;
+
+
+# Added by Antigravity CLI installer
+set -gx PATH "$HOME/.local/bin" $PATH
+
+# opencode
+fish_add_path "$HOME/.opencode/bin"
