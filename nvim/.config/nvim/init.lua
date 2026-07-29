@@ -79,6 +79,7 @@ vim.pack.add({
   { src = "https://github.com/github/copilot.vim" },
   { src = "https://github.com/ThePrimeagen/harpoon" },
   { src = "https://github.com/Oldenborg/vim-px-to-rem" },
+  { src = "https://github.com/OXY2DEV/markview.nvim", preview = "devicons" },
 })
 
 -- "https://github.com/catppuccin/nvim"
@@ -101,7 +102,7 @@ require('mason-lspconfig').setup({
 -- "https://github.com/nvim-treesitter/nvim-treesitter"
 require('nvim-treesitter.config').setup({
   highlight = { enable = true },
-  ensure_installed = { "lua", "javascript", "typescript", "html", "css", "json", "python" }
+  ensure_installed = { "lua", "javascript", "typescript", "html", "css", "json", "python", "markdown", "markdown_inline" }
 })
 
 map('n', 'gd', vim.lsp.buf.definition, { desc = 'Go to definition' })
@@ -133,9 +134,17 @@ require('lspconfig')
 --   filetypes = { "php" }
 -- })
 
-vim.lsp.enable({ "lua_ls", "html", "cssls", "tailwindcss", "ts_ls", "astro", "vue_ls", "intelephense", "eslint" })
+-- require('lspconfig').intelephense.setup({
+--   capabilities = capabilities,
+--   filetypes = { "php" }
+-- })
 
-vim.lsp.enable({ "lua_ls", "html", "cssls", "tailwindcss", "ts_ls", "astro", "vue_ls", "intelephense", "eslint", "pyright" })
+-- require('lspconfig').harper_ls.setup({
+--   capabilities = capabilities,
+--   filetypes = { "markdown", "text" }
+-- })
+
+vim.lsp.enable({ "lua_ls", "html", "cssls", "tailwindcss", "ts_ls", "astro", "vue_ls", "intelephense", "eslint", "pyright", "harper_ls" })
 
 local cmp = require('cmp')
 cmp.setup({
