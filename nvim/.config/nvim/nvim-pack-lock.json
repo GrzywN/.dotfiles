@@ -16,6 +16,10 @@
       "rev": "1bc17e3e42ea3c46b33c0bbad6a880792692a1b3",
       "src": "https://github.com/ThePrimeagen/harpoon"
     },
+    "markview.nvim": {
+      "rev": "fbe5ec7d127ab3435ffd62740a7b27e7fabf42dc",
+      "src": "https://github.com/OXY2DEV/markview.nvim"
+    },
     "mason-lspconfig.nvim": {
       "rev": "a324581a3c83fdacdb9804b79de1cbe00ce18550",
       "src": "https://github.com/williamboman/mason-lspconfig.nvim"
@@ -23,6 +27,10 @@
     "mason.nvim": {
       "rev": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65",
       "src": "https://github.com/williamboman/mason.nvim"
+    },
+    "mini.pick": {
+      "rev": "82ec629ca108c7b96b8b9bb733d235b39e137690",
+      "src": "https://github.com/echasnovski/mini.pick"
     },
     "nvim": {
       "rev": "0a5de4da015a175f416d6ef1eda84661623e0500",
@@ -51,6 +59,10 @@
     "telescope.nvim": {
       "rev": "5255aa27c422de944791318024167ad5d40aad20",
       "src": "https://github.com/nvim-telescope/telescope.nvim"
+    },
+    "trouble.nvim": {
+      "rev": "85bedb7eb7fa331a2ccbecb9202d8abba64d37b3",
+      "src": "https://github.com/folke/trouble.nvim"
     },
     "vim-px-to-rem": {
       "rev": "f202b6269d83c8de52cd83ddcce0b41acffe2299",

@@ -100,7 +100,7 @@ require('mason-lspconfig').setup({
 })
 
 -- "https://github.com/nvim-treesitter/nvim-treesitter"
-require('nvim-treesitter.config').setup({
+require('nvim-treesitter.configs').setup({
   highlight = { enable = true },
   ensure_installed = { "lua", "javascript", "typescript", "html", "css", "json", "python", "markdown", "markdown_inline" }
 })
