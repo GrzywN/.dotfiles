@@ -1,0 +1,28 @@
+# Full reference: `herdr --default-config` and https://herdr.dev/docs/configuration/
+
+[theme]
+name = "one-dark"
+
+[terminal]
+default_shell = "fish"
+
+[keys]
+# Keep tmux muscle memory: <prefix> r reloads config
+reload_config = "prefix+r"
+resize_mode = "prefix+shift+r"
+
+[[keys.command]]
+key = "prefix+f"
+type = "popup"
+command = "cht"
+description = "cht.sh cheat sheet"
+width = "80%"
+height = "80%"
+
+[[keys.command]]
+key = "prefix+t"
+type = "popup"
+command = "herdr-sessionizer"
+description = "open project as workspace"
+width = "60%"
+height = "60%"

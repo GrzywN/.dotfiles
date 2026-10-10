@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+lists=~/.config/cht
+
+selected=$(cat "$lists/languages" "$lists/commands" | fzf) || exit 0
+read -rp "Enter Query: " query
+query=${query// /+}
+
+if grep -qxF "$selected" "$lists/languages"; then
+    curl -s "cht.sh/$selected/$query" | less -R
+else
+    curl -s "cht.sh/$selected~$query" | less -R
+fi

@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [[ $# -eq 1 ]]; then
+    selected=$1
+else
+    selected=$(find ~/r ~/p -mindepth 1 -maxdepth 5 -type d | fzf) || exit 0
+fi
+
+if [[ -z $selected ]]; then
+    exit 0
+fi
+
+label=$(basename "$selected" | tr . _)
+
+if ! workspaces=$(herdr workspace list 2> /dev/null); then
+    setsid herdr server > /dev/null 2>&1 < /dev/null &
+    until workspaces=$(herdr workspace list 2> /dev/null); do
+        sleep 0.1
+    done
+fi
+
+workspace_id=$(jq -r --arg label "$label" \
+    'first(.result.workspaces[] | select(.label == $label) | .workspace_id) // empty' \
+    <<< "$workspaces")
+
+if [[ -n $workspace_id ]]; then
+    herdr workspace focus "$workspace_id" > /dev/null
+else
+    herdr workspace create --cwd "$selected" --label "$label" --focus > /dev/null
+fi
+
+if [[ ${HERDR_ENV:-} != 1 ]]; then
+    exec herdr
+fi
