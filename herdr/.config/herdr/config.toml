@@ -1,10 +1,18 @@
 # Full reference: `herdr --default-config` and https://herdr.dev/docs/configuration/
 
+onboarding = false
+
 [theme]
 name = "one-dark"
 
 [terminal]
 default_shell = "fish"
+
+[ui]
+status_indicators = "dots"
+
+[ui.sound]
+enabled = false
 
 [keys]
 # Keep tmux muscle memory: <prefix> r reloads config
