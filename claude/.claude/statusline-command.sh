@@ -1,6 +1,6 @@
 #!/bin/bash
 # Claude Code statusline — user@host dir [git-branch] + caveman badge
-# Based on Starship default prompt style (fish shell, no PS1).
+# Based on Starship default prompt style.
 
 input=$(cat)
 

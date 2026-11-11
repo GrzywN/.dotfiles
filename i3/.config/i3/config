@@ -200,7 +200,6 @@ assign [class="code"] $ws2
 assign [class="GitKraken"] $ws3
 
 assign [class="Insomnia"] $ws4
-assign [class="Postman"] $ws4
 
 assign [class="vlc"] $ws6
 assign [class="gimp"] $ws6
