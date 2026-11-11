@@ -77,7 +77,7 @@ install_opencode() {
 install_codegraph() {
   has_version codegraph "${CODEGRAPH_VERSION#v}" && return 0
   log "codegraph $CODEGRAPH_VERSION"
-  curl -fsSL https://raw.githubusercontent.com/colbymchenry/codegraph/main/install.sh \
+  curl -fsSL https://raw.githubusercontent.com/colbymchenry/codegraph/$CODEGRAPH_VERSION/install.sh \
     | CODEGRAPH_VERSION="$CODEGRAPH_VERSION" bash
 }
 
@@ -85,8 +85,11 @@ install_herdr() {
   has_version herdr "${HERDR_VERSION#v}" && return 0
   log "herdr $HERDR_VERSION"
   local url="https://github.com/herdrdev/herdr/releases/download/$HERDR_VERSION/$HERDR_ASSET"
-  download_verified "$url" "$HERDR_SHA256" "$BIN_DIR/herdr"
-  chmod +x "$BIN_DIR/herdr"
+  local workdir
+  workdir="$(mktemp -d)"
+  download_verified "$url" "$HERDR_SHA256" "$workdir/herdr"
+  install -m 755 "$workdir/herdr" "$BIN_DIR/herdr"
+  rm -rf "$workdir"
 }
 
 install_release_tarball() {

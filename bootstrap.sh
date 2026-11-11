@@ -11,14 +11,17 @@ NIX_COMMUNITY_CACHE="https://nix-community.cachix.org"
 NIX_COMMUNITY_CACHE_KEY="nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs="
 SSH_KEY_PATH="$HOME/.ssh/id_ed25519"
 OS="$(uname -s)"
+PROMPTED_PASSWORD_FILE=""
 
 log() { printf '\n==> %s\n' "$*"; }
 fail() { printf 'error: %s\n' "$*" >&2; exit 1; }
 
 locate_dotfiles() {
-  local script_dir
-  script_dir="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" 2>/dev/null && pwd || true)"
-  if [ -f "$script_dir/flake.nix" ]; then
+  local script_dir=""
+  if [ -n "${BASH_SOURCE[0]:-}" ]; then
+    script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" 2>/dev/null && pwd || true)"
+  fi
+  if [ -n "$script_dir" ] && [ -f "$script_dir/flake.nix" ]; then
     DOTFILES_DIR="$script_dir"
   else
     DOTFILES_DIR="${DOTFILES_DIR:-$HOME/.dotfiles}"
@@ -29,26 +32,25 @@ ask_everything_upfront() {
   if [ "$DOTFILES_NONINTERACTIVE" = 1 ]; then
     return
   fi
-  [ -t 0 ] || fail "no terminal for prompts - set DOTFILES_NONINTERACTIVE=1 to run unattended"
+  { : </dev/tty; } 2>/dev/null || fail "no terminal for prompts - set DOTFILES_NONINTERACTIVE=1 to run unattended"
   log "Asking for everything up front, then the rest runs unattended"
   sudo -v
   while kill -0 "$$" 2>/dev/null; do sudo -n true; sleep 50; done 2>/dev/null &
   if [ -z "$DOTFILES_VAULT_PASSWORD_FILE" ] && [ ! -f "$SSH_KEY_PATH" ]; then
-    local password_file
-    password_file="$(umask 077 && mktemp)"
-    trap 'rm -f "$password_file"' EXIT
-    read -rsp "Ansible Vault password (for the SSH key): " vault_password
+    local vault_password
+    PROMPTED_PASSWORD_FILE="$(umask 077 && mktemp)"
+    trap "rm -f '$PROMPTED_PASSWORD_FILE'" EXIT
+    read -rsp "Ansible Vault password (for the SSH key): " vault_password </dev/tty
     printf '\n'
-    printf '%s' "$vault_password" > "$password_file"
-    DOTFILES_VAULT_PASSWORD_FILE="$password_file"
+    printf '%s' "$vault_password" > "$PROMPTED_PASSWORD_FILE"
+    DOTFILES_VAULT_PASSWORD_FILE="$PROMPTED_PASSWORD_FILE"
   fi
 }
 
 ensure_git() {
-  command -v git >/dev/null && return
   case "$OS" in
-    Linux) sudo apt-get update && sudo apt-get install -y git ;;
-    Darwin) fail "git missing - run 'xcode-select --install', then run this script again" ;;
+    Linux) command -v git >/dev/null || { sudo apt-get update && sudo apt-get install -y git; } ;;
+    Darwin) xcode-select -p >/dev/null 2>&1 || fail "Command Line Tools missing - run 'xcode-select --install', then run this script again" ;;
     *) fail "unsupported OS: $OS" ;;
   esac
 }
@@ -129,16 +131,18 @@ install_ssh_key() {
 }
 
 move_aside_conflicting_files() {
-  local marker="existing target is neither a link nor a directory: "
-  local line target
-  make -C "$DOTFILES_DIR" --no-print-directory stow-simulate 2>&1 | while IFS= read -r line; do
-    case "$line" in
-      *"$marker"*)
-        target="$HOME/${line#*"$marker"}"
-        mv "$target" "$target.pre-dotfiles"
-        ;;
-    esac
-  done
+  local dotfiles_root package source target
+  dotfiles_root="$(cd "$DOTFILES_DIR" && pwd -P)"
+  while IFS= read -r package; do
+    while IFS= read -r -d '' source; do
+      target="$HOME/${source#"$DOTFILES_DIR/$package/"}"
+      [ -e "$target" ] || [ -L "$target" ] || continue
+      case "$(readlink -f "$target" || true)" in
+        "$dotfiles_root"/*) ;;
+        *) mv "$target" "$target.pre-dotfiles" ;;
+      esac
+    done < <(find "$DOTFILES_DIR/$package" \( -type f -o -type l \) -print0)
+  done < <(make -s -C "$DOTFILES_DIR" --no-print-directory list)
 }
 
 link_configs() {
