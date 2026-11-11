@@ -11,13 +11,10 @@ else
 PACKAGES := $(COMMON_PACKAGES) $(LINUX_PACKAGES)
 endif
 
-.PHONY: stow stow-simulate unstow restow list plugins skills bootstrap doctor
+.PHONY: stow unstow restow list plugins skills bootstrap doctor
 
 stow:
 	$(STOW) $(PACKAGES)
-
-stow-simulate:
-	$(STOW) --simulate $(PACKAGES)
 
 unstow:
 	$(STOW) -D $(PACKAGES)
