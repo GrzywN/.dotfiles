@@ -1,2 +1,13 @@
 
 vifm/.config/vifm/vifminfo.json
+
+scripts/.local/bin/*
+!scripts/.local/bin/macos-defaults
+!scripts/.local/bin/open-github
+!scripts/.local/bin/sail
+!scripts/.local/bin/tmux-cht
+!scripts/.local/bin/tmux-sessionizer
+!scripts/.local/bin/todo
+!scripts/.local/bin/zoxide
+
+agents/GALLUP.md

@@ -24,3 +24,12 @@ Stow files
 ```bash
 cd $HOME/.dotfiles && ./popos
 ```
+
+Stow the agent and tool packages
+```bash
+make stow
+```
+
+`make stow` picks packages for Linux or macOS by `uname`.
+Package lists are in the Makefile.
+Secrets and tool-generated files are not tracked.

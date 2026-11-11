@@ -1,0 +1,210 @@
+{
+  "env": {
+    "ENABLE_LSP_TOOL": "1"
+  },
+  "permissions": {
+    "allow": [
+      "mcp__codegraph__*"
+    ],
+    "deny": [
+      "EnterPlanMode",
+      "ExitPlanMode",
+      "NotebookEdit",
+      "CronCreate",
+      "CronDelete",
+      "CronList",
+      "RemoteTrigger",
+      "ReportFindings",
+      "SendFeedback",
+      "EnterWorktree",
+      "ExitWorktree",
+      "ListMcpResourcesTool",
+      "ReadMcpResourceTool",
+      "ReadMcpResourceDirTool",
+      "mcp__claude_ai_Atlassian_Rovo",
+      "mcp__claude_ai_Buffer",
+      "mcp__claude_ai_Notion",
+      "mcp__claude_ai_Jam",
+      "mcp__claude_ai_Sentry",
+      "mcp__claude_ai_Gmail",
+      "mcp__claude_ai_Google_Calendar",
+      "mcp__claude_ai_Google_Drive",
+      "mcp__claude_ai_Claude_Docs"
+    ]
+  },
+  "model": "sonnet",
+  "skillOverrides": {
+    "nestjs-auth-deny-by-default": "user-invocable-only",
+    "nestjs-config-validation": "user-invocable-only",
+    "nestjs-connection-draining": "user-invocable-only",
+    "nestjs-connection-pool": "user-invocable-only",
+    "nestjs-dependency-updates": "user-invocable-only",
+    "nestjs-error-handling": "user-invocable-only",
+    "nestjs-graceful-shutdown": "user-invocable-only",
+    "nestjs-http-edge-security": "user-invocable-only",
+    "nestjs-idempotent-writes": "user-invocable-only",
+    "nestjs-input-validation": "user-invocable-only",
+    "nestjs-migrations": "user-invocable-only",
+    "nestjs-observability": "user-invocable-only",
+    "nestjs-outbound-timeouts": "user-invocable-only",
+    "nestjs-production-checklist": "user-invocable-only",
+    "nestjs-request-scope": "user-invocable-only",
+    "nestjs-resilience": "user-invocable-only",
+    "nestjs-response-serialization": "user-invocable-only",
+    "nestjs-scheduled-jobs": "user-invocable-only",
+    "adhd": "user-invocable-only",
+    "emil-design-eng": "user-invocable-only",
+    "improve-animations": "user-invocable-only",
+    "find-skills": "user-invocable-only",
+    "dataviz": "user-invocable-only",
+    "artifact-design": "user-invocable-only",
+    "artifact-diagramming": "user-invocable-only",
+    "artifact-capabilities": "user-invocable-only",
+    "claude-api": "user-invocable-only",
+    "plugin-authoring": "user-invocable-only",
+    "run": "user-invocable-only",
+    "claude-in-chrome": "user-invocable-only",
+    "schedule": "user-invocable-only",
+    "fewer-permission-prompts": "user-invocable-only",
+    "keybindings-help": "user-invocable-only",
+    "code-review": "user-invocable-only",
+    "simplify": "user-invocable-only",
+    "init": "user-invocable-only",
+    "security-review": "user-invocable-only",
+    "anthropic-skills:built-in-browser": "user-invocable-only",
+    "anthropic-skills:chrome-browser": "user-invocable-only",
+    "anthropic-skills:computer-use": "user-invocable-only",
+    "anthropic-skills:deep-research": "user-invocable-only",
+    "anthropic-skills:docs": "user-invocable-only",
+    "anthropic-skills:docx": "user-invocable-only",
+    "anthropic-skills:google-workspace": "user-invocable-only",
+    "anthropic-skills:import-memory": "user-invocable-only",
+    "anthropic-skills:jira-automate": "user-invocable-only",
+    "anthropic-skills:jira-status-audit": "user-invocable-only",
+    "anthropic-skills:jira-workflow": "user-invocable-only",
+    "anthropic-skills:pdf": "user-invocable-only",
+    "anthropic-skills:pptx": "user-invocable-only",
+    "anthropic-skills:xlsx": "user-invocable-only",
+    "anthropic-skills:skill-creator": "user-invocable-only",
+    "caveman:cavecrew": "user-invocable-only",
+    "caveman:caveman-compress": "user-invocable-only",
+    "caveman:caveman-help": "user-invocable-only",
+    "caveman:caveman-stats": "user-invocable-only",
+    "ponytail:ponytail-audit": "user-invocable-only",
+    "ponytail:ponytail-debt": "user-invocable-only",
+    "ponytail:ponytail-gain": "user-invocable-only",
+    "ponytail:ponytail-help": "user-invocable-only",
+    "ponytail:ponytail-review": "user-invocable-only"
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "gh-axi",
+            "timeout": 10
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "chrome-devtools-axi",
+            "timeout": 10
+          }
+        ]
+      },
+      {
+        "matcher": "^(startup|resume|clear|compact|fork)$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '/home/user/.claude/hooks/herdr-agent-state.sh' session",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "codegraph prompt-hook"
+          }
+        ]
+      }
+    ]
+  },
+  "disableWorkflows": true,
+  "disableArtifact": true,
+  "statusLine": {
+    "type": "command",
+    "command": "~/.claude/statusline-usage.sh"
+  },
+  "enabledPlugins": {
+    "caveman@caveman": true,
+    "ponytail@ponytail": true,
+    "i-have-adhd@i-have-adhd": false,
+    "typescript-lsp@claude-plugins-official": true,
+    "cc-plugin-you-should-know@builtin": true,
+    "data@synced": false,
+    "exa@claude-plugins-official": false
+  },
+  "extraKnownMarketplaces": {
+    "caveman": {
+      "source": {
+        "source": "github",
+        "repo": "JuliusBrussee/caveman"
+      }
+    },
+    "ponytail": {
+      "source": {
+        "source": "github",
+        "repo": "DietrichGebert/ponytail"
+      }
+    },
+    "i-have-adhd": {
+      "source": {
+        "source": "github",
+        "repo": "ayghri/i-have-adhd"
+      }
+    },
+    "anthropic-agent-skills": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/skills"
+      }
+    },
+    "impeccable": {
+      "source": {
+        "source": "github",
+        "repo": "pbakaus/impeccable"
+      }
+    }
+  },
+  "language": "ASD-STE100 Simplified Technical English (STE)",
+  "alwaysThinkingEnabled": true,
+  "effortLevel": "high",
+  "modelSettings": {
+    "claude-opus-5-5": {
+      "effortLevel": "high"
+    },
+    "claude-fable-5-1": {
+      "effortLevel": "high"
+    },
+    "claude-sonnet-5-5": {
+      "effortLevel": "medium"
+    }
+  },
+  "tui": "fullscreen",
+  "skipDangerousModePermissionPrompt": true,
+  "skipWorkflowUsageWarning": true,
+  "remoteControlAtStartup": true,
+  "inputNeededNotifEnabled": true,
+  "agentPushNotifEnabled": true
+}
