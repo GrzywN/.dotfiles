@@ -100,9 +100,12 @@ require('mason-lspconfig').setup({
 })
 
 -- "https://github.com/nvim-treesitter/nvim-treesitter"
-require('nvim-treesitter.configs').setup({
-  highlight = { enable = true },
-  ensure_installed = { "lua", "javascript", "typescript", "html", "css", "json", "python", "markdown", "markdown_inline" }
+vim.g.treesitter_parsers = { "lua", "javascript", "typescript", "html", "css", "json", "python", "markdown", "markdown_inline" }
+require('nvim-treesitter').install(vim.g.treesitter_parsers)
+vim.api.nvim_create_autocmd('FileType', {
+  callback = function(args)
+    pcall(vim.treesitter.start, args.buf)
+  end,
 })
 
 map('n', 'gd', vim.lsp.buf.definition, { desc = 'Go to definition' })
