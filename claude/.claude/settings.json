@@ -32,7 +32,7 @@
       "mcp__claude_ai_Claude_Docs"
     ]
   },
-  "model": "sonnet",
+  "model": "opus",
   "skillOverrides": {
     "nestjs-auth-deny-by-default": "user-invocable-only",
     "nestjs-config-validation": "user-invocable-only",
@@ -189,15 +189,18 @@
   },
   "language": "ASD-STE100 Simplified Technical English (STE)",
   "alwaysThinkingEnabled": true,
-  "effortLevel": "high",
+  "effortLevel": "medium",
   "modelSettings": {
     "claude-opus-5-5": {
-      "effortLevel": "high"
+      "effortLevel": "medium"
     },
-    "claude-fable-5-1": {
-      "effortLevel": "high"
+    "claude-fable-5-2": {
+      "effortLevel": "medium"
     },
     "claude-sonnet-5-5": {
+      "effortLevel": "medium"
+    },
+    "claude-haiku-5-5": {
       "effortLevel": "medium"
     }
   },
