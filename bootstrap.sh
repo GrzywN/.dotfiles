@@ -130,6 +130,15 @@ install_ssh_key() {
   ssh-keygen -y -f "$SSH_KEY_PATH" > "$SSH_KEY_PATH.pub"
 }
 
+unused_backup_path() {
+  local backup="$1.pre-dotfiles" counter=1
+  while [ -e "$backup" ] || [ -L "$backup" ]; do
+    backup="$1.pre-dotfiles.$counter"
+    counter=$((counter + 1))
+  done
+  printf '%s' "$backup"
+}
+
 move_aside_conflicting_files() {
   local dotfiles_root package source target
   dotfiles_root="$(cd "$DOTFILES_DIR" && pwd -P)"
@@ -139,7 +148,7 @@ move_aside_conflicting_files() {
       [ -e "$target" ] || [ -L "$target" ] || continue
       case "$(readlink -f "$target" || true)" in
         "$dotfiles_root"/*) ;;
-        *) mv "$target" "$target.pre-dotfiles" ;;
+        *) mv "$target" "$(unused_backup_path "$target")" ;;
       esac
     done < <(find "$DOTFILES_DIR/$package" \( -type f -o -type l \) -print0)
   done < <(make -s -C "$DOTFILES_DIR" --no-print-directory list)
