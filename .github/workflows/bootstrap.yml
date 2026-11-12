@@ -30,10 +30,22 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Install Nix
+        if: github.event_name == 'pull_request' || github.event_name == 'push'
+        uses: cachix/install-nix-action@3dc140bfc76c49fbd4dd958429132e3746bcb086 # v31.11.5
+
+      - name: Cache the Nix store
+        id: nix-cache
+        if: github.event_name == 'pull_request' || github.event_name == 'push'
+        uses: nix-community/cache-nix-action@7df957e333c1e5da7721f60227dbba6d06080569 # v7.0.2
+        with:
+          primary-key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('flake.nix', 'flake.lock', 'nix/**') }}
+
       - name: Bootstrap and verify
         env:
           MATRIX_OS: ${{ matrix.os }}
           EVENT_NAME: ${{ github.event_name }}
+          NIX_CACHE_HIT: ${{ steps.nix-cache.outputs.hit }}
           DOTFILES_NONINTERACTIVE: "1"
         shell: bash
         run: |
@@ -43,9 +55,15 @@ jobs:
           : > "$timings"
           started_at=$(date +%s)
 
+          case "$NIX_CACHE_HIT" in
+            true) run_label="${EVENT_NAME}, cache hit" ;;
+            false) run_label="${EVENT_NAME}, cache miss" ;;
+            *) run_label="$EVENT_NAME" ;;
+          esac
+
           write_summary() {
             {
-              echo "### Bootstrap timings - ${MATRIX_OS} (${EVENT_NAME}, $([ "$EVENT_NAME" = schedule ] && echo cold || echo warm-eligible))"
+              echo "### Bootstrap timings - ${MATRIX_OS} (${run_label})"
               echo
               echo "| Phase | Seconds |"
               echo "| --- | ---: |"

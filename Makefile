@@ -30,7 +30,7 @@ plugins:
 	jq -r '.enabledPlugins | to_entries[] | select(.value) | .key' claude/.claude/settings.json | while read plugin; do claude plugin install "$$plugin" || echo "skipped $$plugin"; done
 
 skills:
-	cd $(HOME) && pnpm dlx skills experimental_install
+	cd $(HOME) && pnpm dlx skills@1.8.1 experimental_install
 
 bootstrap:
 	./bootstrap.sh
