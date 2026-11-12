@@ -17,7 +17,7 @@ After that it runs without questions.
 
 ## What it does
 
-1. Installs git, then clones this repo over HTTPS.
+1. Installs git on Linux (on macOS, run `xcode-select --install` first), then clones this repo over HTTPS.
 2. Installs Nix (pinned version).
 3. Builds the home configuration from `flake.nix` with home-manager.
 4. Installs Docker, desktop apps and flatpaks on Linux (`setup/linux-system.sh`).

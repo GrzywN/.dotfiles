@@ -69,15 +69,15 @@ jobs:
 
           create_test_vault() {
             local dir="$RUNNER_TEMP/vault"
-            mkdir -p "$dir"
-            ssh-keygen -t ed25519 -N "" -C "ci-throwaway" -f "$dir/id_ed25519" -q
-            openssl rand -hex 32 > "$dir/password"
-            python3 -m venv "$dir/venv"
-            "$dir/venv/bin/pip" install --quiet ansible-core
-            cp "$dir/id_ed25519" "$dir/id_ed25519.vault"
-            "$dir/venv/bin/ansible-vault" encrypt \
-              --vault-password-file "$dir/password" "$dir/id_ed25519.vault"
-            rm -f "$dir/id_ed25519"
+            mkdir -p "$dir" &&
+              ssh-keygen -t ed25519 -N "" -C "ci-throwaway" -f "$dir/id_ed25519" -q &&
+              openssl rand -hex 32 > "$dir/password" &&
+              python3 -m venv "$dir/venv" &&
+              "$dir/venv/bin/pip" install --quiet ansible-core &&
+              cp "$dir/id_ed25519" "$dir/id_ed25519.vault" &&
+              "$dir/venv/bin/ansible-vault" encrypt \
+                --vault-password-file "$dir/password" "$dir/id_ed25519.vault" &&
+              rm -f "$dir/id_ed25519"
           }
 
           run_bootstrap() {
