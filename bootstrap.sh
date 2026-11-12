@@ -12,6 +12,7 @@ NIX_COMMUNITY_CACHE_KEY="nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX
 SSH_KEY_PATH="$HOME/.ssh/id_ed25519"
 OS="$(uname -s)"
 PROMPTED_PASSWORD_FILE=""
+RUNS_FROM_CHECKOUT=0
 
 log() { printf '\n==> %s\n' "$*"; }
 fail() { printf 'error: %s\n' "$*" >&2; exit 1; }
@@ -23,6 +24,7 @@ locate_dotfiles() {
   fi
   if [ -n "$script_dir" ] && [ -f "$script_dir/flake.nix" ]; then
     DOTFILES_DIR="$script_dir"
+    RUNS_FROM_CHECKOUT=1
   else
     DOTFILES_DIR="${DOTFILES_DIR:-$HOME/.dotfiles}"
   fi
@@ -55,8 +57,24 @@ ensure_git() {
   esac
 }
 
+update_existing_checkout() {
+  local repo=(git -C "$DOTFILES_DIR")
+  log "Updating $DOTFILES_DIR to $DOTFILES_REF"
+  [ -z "$("${repo[@]}" status --porcelain)" ] \
+    || fail "$DOTFILES_DIR has uncommitted changes - commit, stash or move it, then run this script again"
+  "${repo[@]}" fetch --tags origin
+  if "${repo[@]}" show-ref --verify --quiet "refs/remotes/origin/$DOTFILES_REF"; then
+    "${repo[@]}" checkout "$DOTFILES_REF"
+    "${repo[@]}" merge --ff-only "origin/$DOTFILES_REF"
+  else
+    "${repo[@]}" checkout --detach "$DOTFILES_REF"
+  fi
+}
+
 fetch_dotfiles() {
+  [ "$RUNS_FROM_CHECKOUT" = 1 ] && return
   if [ -d "$DOTFILES_DIR/.git" ]; then
+    update_existing_checkout
     return
   fi
   log "Cloning $DOTFILES_REPO_URL ($DOTFILES_REF)"
