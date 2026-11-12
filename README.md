@@ -18,6 +18,8 @@ After that it runs without questions.
 ## What it does
 
 1. Installs git on Linux (on macOS, run `xcode-select --install` first), then clones this repo over HTTPS.
+If `~/.dotfiles` already exists, it switches that checkout to the tag.
+It stops if the checkout has uncommitted changes to tracked files.
 2. Installs Nix (pinned version).
 3. Builds the home configuration from `flake.nix` with home-manager.
 4. Installs Docker, desktop apps and flatpaks on Linux (`setup/linux-system.sh`).
