@@ -60,7 +60,7 @@ ensure_git() {
 update_existing_checkout() {
   local repo=(git -C "$DOTFILES_DIR")
   log "Updating $DOTFILES_DIR to $DOTFILES_REF"
-  [ -z "$("${repo[@]}" status --porcelain)" ] \
+  [ -z "$("${repo[@]}" status --porcelain --untracked-files=no)" ] \
     || fail "$DOTFILES_DIR has uncommitted changes - commit, stash or move it, then run this script again"
   "${repo[@]}" fetch --tags origin
   if "${repo[@]}" show-ref --verify --quiet "refs/remotes/origin/$DOTFILES_REF"; then
