@@ -1,35 +1,73 @@
 # GrzywN's dotfiles
 
-Uses GNU Stow – https://www.gnu.org/software/stow/
+One command sets up a new machine.
+It works on Debian-based Linux and on macOS (Apple silicon).
 
-## WARNING:
+## Install
 
-- i3 is configured to use Alacritty, rofi and bumblebee-status by default. If you want to use something else, you need to change i3 config file.
-- rofi requires rofi-emoji and rofi-calc.
-- nvim requires packer.nvim (AUR nvim-packer-git).
-
-## Usage: 
-
-Install stow
 ```bash
-sudo apt-get install stow
+curl -fsSL https://raw.githubusercontent.com/GrzywN/.dotfiles/<release-tag>/bootstrap.sh | DOTFILES_REF=<release-tag> bash
 ```
 
-Clone .dotfiles
-```bash
-git clone git@github.com:GrzywN/.dotfiles.git ~/.dotfiles
-```
+Use a release tag, not `main`, so the script cannot change under you.
+Write the same tag in both places, so the script and the cloned repo come from one tag.
+The script asks for every password first.
+You need the sudo password and the Ansible Vault password for the SSH key.
+After that it runs without questions.
 
-Stow files
-```bash
-cd $HOME/.dotfiles && ./popos
-```
+## What it does
 
-Stow the agent and tool packages
-```bash
-make stow
-```
+1. Installs git on Linux (on macOS, run `xcode-select --install` first), then clones this repo over HTTPS.
+If `~/.dotfiles` already exists, it switches that checkout to the tag.
+It stops if the checkout has uncommitted changes to tracked files.
+2. Installs Nix (pinned version).
+3. Builds the home configuration from `flake.nix` with home-manager.
+4. Installs Docker, desktop apps and flatpaks on Linux (`setup/linux-system.sh`).
+5. Decrypts the SSH key from `secrets/` with ansible-vault.
+6. Links the configs with GNU Stow.
+7. Installs Node and pnpm with proto.
+8. Installs the agent tools (`setup/agents.sh`), Claude Code plugins and skills.
+9. Installs the Neovim plugins and parsers.
 
-`make stow` picks packages for Linux or macOS by `uname`.
-Package lists are in the Makefile.
-Secrets and tool-generated files are not tracked.
+## What Nix provides
+
+- Neovim nightly, pinned in `flake.lock`.
+- The language servers that Neovim enables.
+- The JetBrainsMono Nerd Font.
+- bash on Linux and zsh on macOS, with starship and zoxide.
+- Common command line tools.
+
+Update the pins with `nix flake update`.
+
+## Manual steps after install
+
+- Sign in to `claude`, `gh` and any other agent you use.
+- Open a new terminal.
+- Run `make doctor`.
+
+## Make targets
+
+- `make bootstrap` runs the full setup.
+- `make doctor` checks the result.
+- `make stow`, `make unstow` and `make restow` manage the config links.
+- `make plugins` installs the Claude Code plugins.
+- `make skills` restores the agent skills from `skills-lock.json`.
+
+The package lists for Linux and macOS are in the `Makefile`.
+
+## Pinned and unpinned installs
+
+- Skills are hash-checked against `skills-lock.json`.
+- Claude Code plugins follow the default branch of each upstream repo.
+- No verified way to pin a plugin marketplace was found, so plugins are not pinned.
+
+## Not tracked
+
+- Secrets, tokens and login state.
+- Files that tools generate for themselves.
+- `GALLUP.md`, because this repo is public.
+
+## Notes
+
+- i3 is configured to use Alacritty and rofi.
+- rofi needs rofi-emoji and rofi-calc.

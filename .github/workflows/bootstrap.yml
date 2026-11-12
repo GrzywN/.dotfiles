@@ -1,0 +1,128 @@
+name: bootstrap
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  bootstrap:
+    name: bootstrap (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Install Nix
+        if: github.event_name == 'pull_request' || github.event_name == 'push'
+        uses: cachix/install-nix-action@3dc140bfc76c49fbd4dd958429132e3746bcb086 # v31.11.5
+
+      - name: Cache the Nix store
+        id: nix-cache
+        if: github.event_name == 'pull_request' || github.event_name == 'push'
+        uses: nix-community/cache-nix-action@7df957e333c1e5da7721f60227dbba6d06080569 # v7.0.2
+        with:
+          primary-key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('flake.nix', 'flake.lock', 'nix/**') }}
+
+      - name: Bootstrap and verify
+        env:
+          MATRIX_OS: ${{ matrix.os }}
+          EVENT_NAME: ${{ github.event_name }}
+          NIX_CACHE_HIT: ${{ steps.nix-cache.outputs.hit }}
+          DOTFILES_NONINTERACTIVE: "1"
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          timings="$RUNNER_TEMP/timings.tsv"
+          : > "$timings"
+          started_at=$(date +%s)
+
+          case "$NIX_CACHE_HIT" in
+            true) run_label="${EVENT_NAME}, cache hit" ;;
+            false) run_label="${EVENT_NAME}, cache miss" ;;
+            *) run_label="$EVENT_NAME" ;;
+          esac
+
+          write_summary() {
+            {
+              echo "### Bootstrap timings - ${MATRIX_OS} (${run_label})"
+              echo
+              echo "| Phase | Seconds |"
+              echo "| --- | ---: |"
+              while IFS=$'\t' read -r name seconds status; do
+                echo "| ${name} (${status}) | ${seconds} |"
+              done < "$timings"
+              echo "| **Total** | **$(( $(date +%s) - started_at ))** |"
+            } >> "$GITHUB_STEP_SUMMARY"
+          }
+          trap write_summary EXIT
+
+          phase() {
+            local name=$1
+            shift
+            local phase_start status=ok
+            phase_start=$(date +%s)
+            "$@" || status=failed
+            printf '%s\t%s\t%s\n' "$name" "$(( $(date +%s) - phase_start ))" "$status" >> "$timings"
+            [ "$status" = ok ]
+          }
+
+          create_test_vault() {
+            local dir="$RUNNER_TEMP/vault"
+            mkdir -p "$dir" &&
+              ssh-keygen -t ed25519 -N "" -C "ci-throwaway" -f "$dir/id_ed25519" -q &&
+              openssl rand -hex 32 > "$dir/password" &&
+              python3 -m venv "$dir/venv" &&
+              "$dir/venv/bin/pip" install --quiet ansible-core &&
+              cp "$dir/id_ed25519" "$dir/id_ed25519.vault" &&
+              "$dir/venv/bin/ansible-vault" encrypt \
+                --vault-password-file "$dir/password" "$dir/id_ed25519.vault" &&
+              rm -f "$dir/id_ed25519"
+          }
+
+          run_bootstrap() {
+            DOTFILES_VAULT_PASSWORD_FILE="$RUNNER_TEMP/vault/password" \
+            DOTFILES_SSH_KEY_VAULT="$RUNNER_TEMP/vault/id_ed25519.vault" \
+              ./bootstrap.sh
+          }
+
+          run_doctor() {
+            make doctor
+          }
+
+          phase "create test vault" create_test_vault
+          phase "bootstrap" run_bootstrap
+          phase "doctor" run_doctor
+
+  lint-workflows:
+    name: lint workflows (zizmor)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Run zizmor
+        uses: zizmorcore/zizmor-action@45d7276c9ca790aabd705e31ca99c6185c3e76dd # v0.8.1
+        with:
+          advanced-security: false
