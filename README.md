@@ -6,10 +6,11 @@ It works on Debian-based Linux and on macOS (Apple silicon).
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/GrzywN/.dotfiles/<release-tag>/bootstrap.sh | bash
+curl -fsSL https://raw.githubusercontent.com/GrzywN/.dotfiles/<release-tag>/bootstrap.sh | DOTFILES_REF=<release-tag> bash
 ```
 
 Use a release tag, not `main`, so the script cannot change under you.
+Write the same tag in both places, so the script and the cloned repo come from one tag.
 The script asks for every password first.
 You need the sudo password and the Ansible Vault password for the SSH key.
 After that it runs without questions.
