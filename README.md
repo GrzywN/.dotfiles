@@ -25,9 +25,10 @@ It stops if the checkout has uncommitted changes to tracked files.
 4. Installs Docker, desktop apps and flatpaks on Linux (`setup/linux-system.sh`).
 5. Decrypts the SSH key from `secrets/` with ansible-vault.
 6. Links the configs with GNU Stow.
-7. Installs Node and pnpm with proto.
-8. Installs the agent tools (`setup/agents.sh`), Claude Code plugins and skills.
-9. Installs the Neovim plugins and parsers.
+7. Installs the tmux plugin manager and the tmux plugins.
+8. Installs Node and pnpm with proto.
+9. Installs the agent tools (`setup/agents.sh`), Claude Code plugins and skills.
+10. Installs the Neovim plugins and parsers.
 
 ## What Nix provides
 

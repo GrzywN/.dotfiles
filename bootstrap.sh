@@ -10,6 +10,8 @@ NIX_INSTALLER_VERSION="2.31.2"
 NIX_COMMUNITY_CACHE="https://nix-community.cachix.org"
 NIX_COMMUNITY_CACHE_KEY="nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs="
 SSH_KEY_PATH="$HOME/.ssh/id_ed25519"
+TPM_DIR="$HOME/.config/tmux/plugins/tpm"
+TPM_COMMIT="99469c4a9b1ccf77fade25842dc7bafbc8ce9946"
 OS="$(uname -s)"
 PROMPTED_PASSWORD_FILE=""
 RUNS_FROM_CHECKOUT=0
@@ -178,6 +180,13 @@ link_configs() {
   make -C "$DOTFILES_DIR" stow
 }
 
+install_tmux_plugins() {
+  log "Installing tmux plugins"
+  [ -d "$TPM_DIR/.git" ] || git clone https://github.com/tmux-plugins/tpm "$TPM_DIR"
+  git -C "$TPM_DIR" checkout --quiet "$TPM_COMMIT"
+  "$TPM_DIR/bin/install_plugins"
+}
+
 install_runtimes_and_agents() {
   log "Installing Node and pnpm with proto"
   proto install
@@ -218,6 +227,7 @@ main() {
   install_linux_system_packages
   install_ssh_key
   link_configs
+  install_tmux_plugins
   install_runtimes_and_agents
   prepare_neovim
   print_manual_steps

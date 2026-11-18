@@ -61,6 +61,7 @@ check "node comes from proto" node_comes_from_proto
 check "pnpm" command -v pnpm
 check "docker" command -v docker
 check "nvim config is linked" config_is_linked "$HOME/.config/nvim/init.lua"
+check "tmux plugin manager" test -x "$HOME/.config/tmux/plugins/tpm/bin/install_plugins"
 check "claude settings are linked" config_is_linked "$HOME/.claude/settings.json"
 check "AGENTS.md is linked" config_is_linked "$HOME/AGENTS.md"
 check "claude plugins installed" test -s "$HOME/.claude/plugins/installed_plugins.json"
