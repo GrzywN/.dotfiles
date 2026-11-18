@@ -61,6 +61,8 @@ The package lists for Linux and macOS are in the `Makefile`.
 - Skills are hash-checked against `skills-lock.json`.
 - Claude Code plugins follow the default branch of each upstream repo.
 - No verified way to pin a plugin marketplace was found, so plugins are not pinned.
+- `tpm` is pinned to a commit.
+- The tmux plugins follow the default branch of each upstream repo.
 
 ## Not tracked
 
