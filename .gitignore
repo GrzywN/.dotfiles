@@ -11,3 +11,5 @@ scripts/.local/bin/*
 !scripts/.local/bin/zoxide
 
 agents/GALLUP.md
+
+tmux/.config/tmux/plugins/
