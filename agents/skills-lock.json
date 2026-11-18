@@ -1,161 +1,161 @@
 {
-  "version": 1,
+  "version": 2,
   "skills": {
     "cavecrew": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "skillPath": "skills/cavecrew/SKILL.md",
-      "computedHash": "505d836228d1c5e14834ff5d62aad72390c7d27f79c6aa7f9a7a55ed6606d6a2"
+      "computedHash": "e851caf8480d3ddf5de7fe490cbb2cda8840df760b3851510a24d605147d29e2"
     },
     "caveman": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "skillPath": "skills/caveman/SKILL.md",
-      "computedHash": "dfbf85749fd474feeb0bbe60c779795ecd5dbec0083299b56e68916bc3ddd8c9"
+      "computedHash": "b51af74aacdadbc3c2d6bb79f05db58dc521854b87f7ffabd48faf286a81ed31"
     },
     "caveman-commit": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "skillPath": "skills/caveman-commit/SKILL.md",
-      "computedHash": "f456ea0564875e46858890ac39ee701ecb9c601c72a2da1e6ce6bd5f9fc5d817"
+      "computedHash": "2c1472fb59eedd3cfba0b6512dc470a00287343ade421db55c21a6fb52afbe86"
     },
     "caveman-compress": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "skillPath": "skills/caveman-compress/SKILL.md",
-      "computedHash": "b8cbfec00b620f0944960a9bb4072f262cf816c1d3c82e6dbded35c30b4c5d0b"
+      "computedHash": "1f627a3ac239baa859918cf64a5e89619c162e1e9787c6d97ad41c5a1cc2fdb9"
     },
     "caveman-help": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "skillPath": "skills/caveman-help/SKILL.md",
-      "computedHash": "2c21437427e98df1eacabaa0b055b5256a308b2191feea3ca2df6a9418e76cb1"
+      "computedHash": "6a3e3d37fa03b4aa0622a6aec14446a243619c1539ad419e065dc8b1cd70aacd"
     },
     "caveman-review": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "skillPath": "skills/caveman-review/SKILL.md",
-      "computedHash": "fb7214a1c5793bae6ba8b1be4329e2e6f40dbec6dd911dfb335ad29f09c316a1"
+      "computedHash": "c55908f8ee0dca0e59690e939dfd4a877bd9361897ae5fced096274a77509154"
     },
     "caveman-stats": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
       "skillPath": "skills/caveman-stats/SKILL.md",
-      "computedHash": "47ce2de3d6cb39a75047b5c962e4eb3da15594e7397c94103e9a104d42626553"
+      "computedHash": "d47db80af9353f411b5840fa207ac10c883f04576cd280b135e3a44a0ff86285"
     },
     "nestjs-auth-deny-by-default": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-auth-deny-by-default/SKILL.md",
-      "computedHash": "2e423a319a70b3a30bdef7b19f9124cec8018c7a5ba9528778ec6051e957e9c9"
+      "computedHash": "3a8d97a7cd6dc09133a6879fb8b2d1b13d87f7800c347fd6a15c9eaa4867b698"
     },
     "nestjs-config-validation": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-config-validation/SKILL.md",
-      "computedHash": "934363d49180ffbcd67f678802fc8d45fb5d019a31a983f205dfe800e0671a22"
+      "computedHash": "bf811a3b2c6bc0227787e3a5c97a9c589dac0081d8d1f60e0eb36dcf609ad327"
     },
     "nestjs-connection-draining": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-connection-draining/SKILL.md",
-      "computedHash": "f7c262686754029b6e1c28f31029c477f9e172b26ddc28bc9d453c5aa65ae048"
+      "computedHash": "1c041eb1673aa68d229dff832487892901a94b427bb8cfee2380d4fbc95a2358"
     },
     "nestjs-connection-pool": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-connection-pool/SKILL.md",
-      "computedHash": "22235a22108c7850ec1e9f0cebfe0580bf1e6a190bfaae6e112a1dffe5a67e60"
+      "computedHash": "5b01a90536eac460c9bc22de2fbe8a46627ee0dd5ad2422e907cf4057ddff891"
     },
     "nestjs-dependency-updates": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-dependency-updates/SKILL.md",
-      "computedHash": "dbd32c8b61dbeeca4c09692fbfb4957b731788f1d14020cf7d7ce810acf50020"
+      "computedHash": "b777369af2b1045b57f86d99394f1617e92b2fbcc0acfcbab0cd6cfcf7ca55af"
     },
     "nestjs-error-handling": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-error-handling/SKILL.md",
-      "computedHash": "e02315b1522dea91117bfa9f68a85e332c684877a31ab21a90c4c88962c3aa11"
+      "computedHash": "9ab87d74c08f372597714d7f619b9abc94cf7d8dc76cca2d7f35f0e2833e4efc"
     },
     "nestjs-graceful-shutdown": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-graceful-shutdown/SKILL.md",
-      "computedHash": "f8269fd58f6d5aba1c0d4117a3c2613e4aedfb59d5027808c20c6de119690b32"
+      "computedHash": "2d03d8a5ba72564dc81c719ee47bda00f8eced2985a25721f396f51817453bf0"
     },
     "nestjs-http-edge-security": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-http-edge-security/SKILL.md",
-      "computedHash": "0abbcb3908a5f38ef4c71ee5a4788d943daefce84c54ac0612b552cd188fde61"
+      "computedHash": "571729fa7ecb385bf499a197b5fe7cdada5f3b484d73f36b7f40dad7b7822b5e"
     },
     "nestjs-idempotent-writes": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-idempotent-writes/SKILL.md",
-      "computedHash": "e4bbcedfdbdfedf14e36bd7e17c21f5edb7bbce8c171042c61ba77a9c348e3f3"
+      "computedHash": "8bcde98ba2907ebb49271b915746f6af9bc61932d4acd0567452b8f41b24b9b7"
     },
     "nestjs-input-validation": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-input-validation/SKILL.md",
-      "computedHash": "74ba13ac0890e1848ce45d8013953ae1d2734b737135d4e6a0c40fbd5d5d5f66"
+      "computedHash": "c5fa1234d240135d36b4bc06aa698b84b32d83e75c4a8944077acf47fa8d3330"
     },
     "nestjs-migrations": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-migrations/SKILL.md",
-      "computedHash": "87f5f2f1491dbbe3e4dda16858951da019eea57b97978fc3ee0336e10afffa92"
+      "computedHash": "1129860c1d8e0880836f0a776dfa90fc156f2a27a02a0fb92521e013bf8e3dc3"
     },
     "nestjs-observability": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-observability/SKILL.md",
-      "computedHash": "71dbdffd3cdd26afe982b04b5a6239750c0f620437d579488bfb1fbb2baed1d0"
+      "computedHash": "c20f713eaf683aeff8961fcbf3b4f4721b428f736d9b7c538b4335de2a79e1db"
     },
     "nestjs-outbound-timeouts": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-outbound-timeouts/SKILL.md",
-      "computedHash": "9663158634e9e12a9432919e55eea73aaedc8f423e10c087be22b3dfbb5dc2b0"
+      "computedHash": "fcd8d475ff0a4aead5cd770e0b703621a889316c5aafe392a54dc9d8d894e576"
     },
     "nestjs-production-checklist": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-production-checklist/SKILL.md",
-      "computedHash": "33324ff050ff8bfc37df61d119e23abfb75575c62c055651c9a3ad0b9378ccaf"
+      "computedHash": "7a3a3cb08078f246aa233d8480ec0162daf4e5017f3bf571b4efadcff803218f"
     },
     "nestjs-request-scope": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-request-scope/SKILL.md",
-      "computedHash": "e0693102e97d5cd9e99b4f798f2a9d0d8d4ff96e09485f02204e017c74918ebc"
+      "computedHash": "957a4ed1facd72e2cbf98ddb08b737bf218c9bbf9eda731523df7c3620b119bd"
     },
     "nestjs-resilience": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-resilience/SKILL.md",
-      "computedHash": "258f3b77e9669c2b0baab2b90c0206b7fff5f410a9b686a98b4da4ea0a5c5260"
+      "computedHash": "27b5e8612371913bcb48da28ddc8405d5ad5b7467a01aaf54730bae3abe9c896"
     },
     "nestjs-response-serialization": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-response-serialization/SKILL.md",
-      "computedHash": "525a9fca101115a16b645c50a644dc85be4c0d04f54d64be8e70fed2ef7dab3a"
+      "computedHash": "da1d5c20108a9c35683964fa9e57e34ce9eb434737717fccfdaaf63e10356ce0"
     },
     "nestjs-scheduled-jobs": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/nestjs-scheduled-jobs/SKILL.md",
-      "computedHash": "fb4788b0e8f698e54235eba186dc3b228d9fa3bb866a6fa32de9eed21ab69840"
+      "computedHash": "4ea20efa38a9485db1e2e7a432bee7d6b8a0fb66c87ec7ea95ef1460733794bd"
     },
     "testing-pyramid": {
       "source": "GrzywN/skills",
       "sourceType": "github",
       "skillPath": "skills/testing-pyramid/SKILL.md",
-      "computedHash": "bd03230de9a76631c541dceabc6dd5e80e17a536e4fc4bffb6d3a5f4b2833446"
+      "computedHash": "16305edb29a9c9ae16bb6a38e0b059901d24087d21fad51831d5ef64202a1ef2"
     }
   }
 }
