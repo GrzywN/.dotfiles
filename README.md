@@ -22,7 +22,8 @@ If `~/.dotfiles` already exists, it switches that checkout to the tag.
 It stops if the checkout has uncommitted changes to tracked files.
 2. Installs Nix (pinned version).
 3. Builds the home configuration from `flake.nix` with home-manager.
-4. Installs Docker, desktop apps and flatpaks on Linux (`setup/linux-system.sh`).
+4. Installs desktop apps and flatpaks on Linux, and Docker if it is missing (`setup/linux-system.sh`).
+An existing Docker install is kept as it is.
 5. Decrypts the SSH key from `secrets/` with ansible-vault.
 6. Links the configs with GNU Stow.
 7. Installs the tmux plugin manager and the tmux plugins.
