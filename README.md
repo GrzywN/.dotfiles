@@ -50,6 +50,7 @@ Update the pins with `nix flake update`.
 
 - `make bootstrap` runs the full setup.
 - `make doctor` checks the result.
+- `make test` runs the script tests.
 - `make stow`, `make unstow` and `make restow` manage the config links.
 - `make plugins` installs the Claude Code plugins.
 - `make skills` restores the agent skills from `skills-lock.json`.

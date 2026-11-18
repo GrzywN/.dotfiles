@@ -11,7 +11,7 @@ else
 PACKAGES := $(COMMON_PACKAGES) $(LINUX_PACKAGES)
 endif
 
-.PHONY: stow unstow restow list plugins skills bootstrap doctor
+.PHONY: stow unstow restow list plugins skills bootstrap doctor test
 
 stow:
 	$(STOW) $(PACKAGES)
@@ -37,3 +37,6 @@ bootstrap:
 
 doctor:
 	./setup/doctor.sh
+
+test:
+	./tests/linux-system.test.sh
